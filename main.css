@@ -15961,8 +15961,12 @@ kbd.rs-text {
   margin-bottom: 5px;
 }
 .LeaderBoardScore .records {
-  max-height: 20vh;
+  max-height: 20.5vh;
   overflow: auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 5px;
 }
 .LeaderBoardScore .records > div {
   background: #222b3b;
@@ -15972,7 +15976,23 @@ kbd.rs-text {
   border-radius: 5px;
   display: flex;
   justify-content: space-between;
-  margin-top: 5px;
+  flex: none;
+  width: -webkit-fill-available;
+}
+.LeaderBoardScore .records > div img {
+  height: 1.2em;
+  margin-right: 5px;
+}
+.LeaderBoardScore .records > div:nth-child(1) {
+  background: #7d6a00;
+}
+.LeaderBoardScore .records > div:nth-child(2) {
+  flex: 0 1 calc(50% - 23px);
+  background: #504f4f;
+}
+.LeaderBoardScore .records > div:nth-child(3) {
+  flex: 0 1 calc(50% - 23px);
+  background: #69421a;
 }
 /* Для всех вебkit-браузеров */
 ::-webkit-scrollbar {
