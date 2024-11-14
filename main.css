@@ -16042,6 +16042,9 @@ kbd.rs-text {
   font-size: 2em;
   position: absolute;
 }
+.section_race {
+  border: 1px solid white;
+}
 @font-face {
   font-family: 'JetBrains Mono';
   font-style: italic;
