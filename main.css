@@ -15952,6 +15952,76 @@ kbd.rs-text {
 .section_block .flip-container.flipped > .flipper {
   transform: rotateY(180deg);
 }
+.LeaderBoardScore .title {
+  background: #222b3b;
+  padding: 10px;
+  font-size: 1.2em;
+  text-align: center;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+.LeaderBoardScore .records {
+  max-height: 20vh;
+  overflow: auto;
+}
+.LeaderBoardScore .records > div {
+  background: #222b3b;
+  padding: 10px;
+  font-size: 1em;
+  text-align: center;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+}
+/* Для всех вебkit-браузеров */
+::-webkit-scrollbar {
+  width: 8px;
+  /* ширина скроллбара */
+}
+::-webkit-scrollbar-thumb {
+  background-color: #333;
+  /* цвет ползунка */
+  border-radius: 4px;
+  /* скругление углов */
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #444;
+  /* цвет при наведении */
+}
+::-webkit-scrollbar-track {
+  background-color: #1a1a1a;
+  /* цвет фона трека */
+}
+.webcam {
+  --b: 5px;
+  /* thickness of the border */
+  --c: white;
+  /* color of the border */
+  --w: 20px;
+  /* width of border */
+  border: var(--b) solid #0000;
+  /* space for the border */
+  --_g: #0000 90deg, var(--c) 0;
+  --_p: var(--w) var(--w) border-box no-repeat;
+  background: conic-gradient(from 90deg at top var(--b) left var(--b), var(--_g)) 0 0 / var(--_p), conic-gradient(from 180deg at top var(--b) right var(--b), var(--_g)) 100% 0 / var(--_p), conic-gradient(from 0deg at bottom var(--b) left var(--b), var(--_g)) 0 100% / var(--_p), conic-gradient(from -90deg at bottom var(--b) right var(--b), var(--_g)) 100% 100% / var(--_p);
+  /*Irrelevant code*/
+  width: -webkit-fill-available;
+  aspect-ratio: 16 / 9;
+  box-sizing: border-box;
+  margin: 5px;
+  display: inline-flex;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+}
+.webcam::after {
+  content: '📷';
+  font-size: 2em;
+  position: absolute;
+}
 @font-face {
   font-family: 'JetBrains Mono';
   font-style: italic;
