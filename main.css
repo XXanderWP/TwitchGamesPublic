@@ -16072,7 +16072,10 @@ kbd.rs-text {
   margin: 3px;
 }
 .section_destroy > .section.shoot {
-  background: #387a41;
+  background: #387a41 !important;
+}
+.section_destroy > .section.shootFalse {
+  background: #86141e;
 }
 .section_destroy > .emote {
   position: absolute;
@@ -16082,6 +16085,17 @@ kbd.rs-text {
 }
 .settingsBody .item .title {
   font-size: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: flex-start;
+  align-items: stretch;
+}
+.settingsBody .item .title > * {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 10px;
 }
 .settingsBody .item .items {
   display: flex;
@@ -16091,28 +16105,34 @@ kbd.rs-text {
   0% {
     transform: translateX(110%);
     opacity: 0;
+    margin-right: 0;
   }
-  5% {
+  50% {
     transform: translateX(55%);
     opacity: 1;
+    margin-right: 10px;
   }
   100% {
     transform: translateX(0%);
     opacity: 1;
+    margin-right: 10px;
   }
 }
 @keyframes SlideNotifyBack {
   0% {
     transform: translateX(0%);
     opacity: 1;
+    margin-right: 10px;
   }
-  5% {
+  50% {
     transform: translateX(55%);
     opacity: 1;
+    margin-right: 10px;
   }
   100% {
     transform: translateX(110%);
     opacity: 0;
+    margin-right: 0;
   }
 }
 .notifyBlock {
@@ -16131,10 +16151,10 @@ kbd.rs-text {
   margin-right: 10px;
   width: -webkit-fill-available;
   transform: translateX(110%);
-  animation: SlideNotify 0.4s forwards;
+  animation: SlideNotify 0.4s linear forwards;
 }
 .notifyBlock > div.hide {
-  animation: SlideNotifyBack 0.8s forwards;
+  animation: SlideNotifyBack 0.8s linear forwards;
 }
 @font-face {
   font-family: 'JetBrains Mono';
