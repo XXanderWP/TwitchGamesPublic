@@ -16045,6 +16045,40 @@ kbd.rs-text {
 .section_race {
   border: 1px solid white;
 }
+.section_destroy {
+  display: grid;
+  position: relative;
+}
+.section_destroy > .section {
+  border: 1px solid rgba(59, 59, 59, 0.479);
+  aspect-ratio: 1;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+  transition: background 0.3s linear;
+  background: #161b25;
+}
+.section_destroy > .section.light {
+  background: #212938;
+}
+.section_destroy > .section.hide {
+  background: #090e18;
+}
+.section_destroy > .section.hideFull {
+  background: #03060a;
+  border-radius: 10px;
+  margin: 3px;
+}
+.section_destroy > .section.shoot {
+  background: #387a41;
+}
+.section_destroy > .emote {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
 @font-face {
   font-family: 'JetBrains Mono';
   font-style: italic;
