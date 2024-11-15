@@ -16080,6 +16080,62 @@ kbd.rs-text {
   left: 0;
   opacity: 0;
 }
+.settingsBody .item .title {
+  font-size: 20px;
+}
+.settingsBody .item .items {
+  display: flex;
+  flex-direction: column;
+}
+@keyframes SlideNotify {
+  0% {
+    transform: translateX(110%);
+    opacity: 0;
+  }
+  5% {
+    transform: translateX(55%);
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(0%);
+    opacity: 1;
+  }
+}
+@keyframes SlideNotifyBack {
+  0% {
+    transform: translateX(0%);
+    opacity: 1;
+  }
+  5% {
+    transform: translateX(55%);
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(110%);
+    opacity: 0;
+  }
+}
+.notifyBlock {
+  overflow: hidden;
+  position: absolute;
+  top: 10px;
+  right: 0px;
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: flex-end;
+}
+.notifyBlock > div {
+  margin-right: 10px;
+  width: -webkit-fill-available;
+  transform: translateX(110%);
+  animation: SlideNotify 0.4s forwards;
+}
+.notifyBlock > div.hide {
+  animation: SlideNotifyBack 0.8s forwards;
+}
 @font-face {
   font-family: 'JetBrains Mono';
   font-style: italic;
