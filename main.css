@@ -16429,7 +16429,7 @@ kbd.rs-text {
 }
 .mainGames .gameInfo {
   flex: 1 1 300px;
-  max-width: calc(20%);
+  max-width: calc(15%);
   background-color: #1a1d24;
   padding: 20px;
   border-radius: 5px;
