@@ -16083,6 +16083,9 @@ kbd.rs-text {
   left: 0;
   opacity: 0;
 }
+.settingsBody .item {
+  margin-top: 15px;
+}
 .settingsBody .item .title {
   font-size: 20px;
   display: flex;
@@ -16091,6 +16094,7 @@ kbd.rs-text {
   align-content: center;
   justify-content: flex-start;
   align-items: stretch;
+  margin-bottom: 5px;
 }
 .settingsBody .item .title > * {
   margin-top: auto;
@@ -16155,6 +16159,31 @@ kbd.rs-text {
 }
 .notifyBlock > div.hide {
   animation: SlideNotifyBack 0.8s linear forwards;
+}
+.decrypt .title {
+  margin-bottom: 10px;
+  font-size: 2em;
+}
+.decrypt .title:not(:first-child) {
+  margin-top: 20px;
+}
+.decrypt .symbols {
+  display: flex;
+  gap: 10px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.decrypt .symbols > div {
+  display: flex;
+  gap: 5px;
+  background: black;
+  padding: 5px;
+  border-radius: 5px;
+}
+.decrypt .symbols > div > span:first-child::after {
+  color: grey;
+  content: '-';
+  margin-left: 5px;
 }
 @font-face {
   font-family: 'JetBrains Mono';
