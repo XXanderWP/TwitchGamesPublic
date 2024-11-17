@@ -16101,6 +16101,12 @@ kbd.rs-text {
   margin-bottom: auto;
   margin-right: 10px;
 }
+.settingsBody .item .desc {
+  background: #1a1d24;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 15px;
+}
 .settingsBody .item .items {
   display: flex;
   flex-direction: column;
