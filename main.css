@@ -16185,6 +16185,22 @@ kbd.rs-text {
   content: '-';
   margin-left: 5px;
 }
+.section_search {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: center;
+}
+.section_search > .target {
+  width: 50%;
+  background: #191f2b;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 2em;
+  text-align: center;
+}
 @font-face {
   font-family: 'JetBrains Mono';
   font-style: italic;
