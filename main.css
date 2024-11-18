@@ -16517,4 +16517,16 @@ kbd.rs-text {
   color: white;
   margin-left: 5px;
 }
+.connectionStatus {
+  display: flex;
+}
+.connectionStatus .username {
+  margin: auto;
+}
+.connectionStatus .status {
+  margin: auto;
+  margin-left: 5px;
+  margin-bottom: 0.25em;
+  font-size: 2em;
+}
 
