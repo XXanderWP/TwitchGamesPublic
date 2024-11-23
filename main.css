@@ -16616,11 +16616,10 @@ kbd.rs-text {
   justify-content: center;
   display: flex;
   gap: 5px;
-}
-.footer > a:not(:last-child):after {
-  content: '|';
-  color: white;
-  margin-left: 5px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: center;
 }
 .connectionStatus {
   display: flex;
