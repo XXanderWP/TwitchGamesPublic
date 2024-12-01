@@ -16311,6 +16311,87 @@ kbd.rs-text {
 .word_block .wordInside .letter.hide {
   opacity: 0.5;
 }
+.morzeMain {
+  width: -webkit-fill-available;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  align-items: center;
+}
+.morzeMain .help {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.morzeMain .help > div {
+  width: -webkit-fill-available;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: 2em;
+  height: 2em;
+  gap: 20px;
+}
+.morzeMain .help > div .lamp {
+  height: 50%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+}
+.morzeMain .morzeLight {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.morzeMain .morzeLight .bulb {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  background-color: grey;
+  border: 2px solid #3d3d3d;
+  position: absolute;
+  transition: background-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.morzeMain .morzeLight button {
+  position: absolute;
+  padding: 20px 12px;
+  margin-top: 124px;
+  background-color: silver;
+  font-size: large;
+  border: 2px solid gray;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+.morzeMain .table {
+  font-size: 2em;
+}
+.morzeMain .table .data {
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr 5fr;
+  gap: 10px;
+}
+.morzeMain .active.dot,
+.morzeMain .lamp.dot {
+  background-color: #ff1111 !important;
+  box-shadow: 0px 0px 50px 50px rgba(255, 17, 17, 0.54);
+}
+.morzeMain .active.dash,
+.morzeMain .lamp.dash {
+  background-color: #fbff11 !important;
+  box-shadow: 0px 0px 50px 50px rgba(251, 255, 17, 0.54);
+}
+.morzeMain .active.afk,
+.morzeMain .lamp.afk {
+  background-color: #ffffff !important;
+  box-shadow: 0px 0px 50px 50px rgba(255, 255, 255, 0.54);
+}
+.morzeMain .lamp {
+  box-shadow: none !important;
+}
 @font-face {
   font-family: 'JetBrains Mono';
   font-style: italic;
