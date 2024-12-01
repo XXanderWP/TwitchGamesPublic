@@ -16312,6 +16312,7 @@ kbd.rs-text {
   opacity: 0.5;
 }
 .morzeMain {
+  position: relative;
   width: -webkit-fill-available;
   display: flex;
   justify-content: space-evenly;
@@ -16389,8 +16390,35 @@ kbd.rs-text {
   background-color: #ffffff !important;
   box-shadow: 0px 0px 50px 50px rgba(255, 255, 255, 0.54);
 }
+.morzeMain .active.change,
+.morzeMain .lamp.change {
+  background-color: #0c6dff !important;
+  box-shadow: 0px 0px 50px 50px rgba(12, 109, 255, 0.54);
+}
+.morzeMain .active.success,
+.morzeMain .lamp.success {
+  background-color: #0cff20 !important;
+  box-shadow: 0px 0px 50px 50px rgba(12, 255, 32, 0.54);
+}
 .morzeMain .lamp {
   box-shadow: none !important;
+}
+.morzeMain .helpSymbol.dot {
+  color: #ff1111 !important;
+}
+.morzeMain .helpSymbol.dash {
+  color: #fbff11 !important;
+}
+.morzeMain .suggest {
+  position: absolute;
+  font-weight: 700;
+  opacity: 0.5;
+  z-index: 2;
+  font-size: 2em;
+  animation: blinkScale 4s ease-in-out forwards;
+  text-shadow: #000000 1px 0 10px;
+  width: max-content;
+  overflow: hidden;
 }
 @font-face {
   font-family: 'JetBrains Mono';
