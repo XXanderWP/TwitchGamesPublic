@@ -16420,6 +16420,71 @@ kbd.rs-text {
   width: max-content;
   overflow: hidden;
 }
+.gameguessr {
+  width: -webkit-fill-available;
+  aspect-ratio: 16 / 9;
+  position: relative;
+  border: 2px solid #1a1d24;
+  border-radius: 10px;
+}
+.gameguessr .waiting {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2em;
+  background: #1a1d24;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+.gameguessr .mainGame .roundInfo {
+  text-align: center;
+  font-size: 2.5em;
+}
+.gameguessr .mainGame .question {
+  display: flex;
+  margin: 20px;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.gameguessr .mainGame .question img {
+  height: 20em;
+}
+.gameguessr .mainGame .question span {
+  font-size: 2em;
+}
+.gameguessr .mainGame .answers {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+.gameguessr .mainGame .answers img {
+  height: 10em;
+}
+.gameguessr .mainGame .answers > div {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  font-size: 2em;
+}
+.gameguessr .mainGame .answers > div > span {
+  background: #1a1d24;
+  padding: 5px 10px;
+  width: -webkit-fill-available;
+  text-align: center;
+  border-radius: 0 0 5px 5px;
+}
 @font-face {
   font-family: 'JetBrains Mono';
   font-style: italic;
@@ -16640,6 +16705,13 @@ kbd.rs-text {
 .app-container p {
   color: #555;
 }
+.gameTimer {
+  text-align: center;
+  font-size: 3em;
+}
+.gameTimer > span {
+  font-family: 'JetBrains Mono', monospace;
+}
 .gameControl > * {
   width: 100%;
 }
@@ -16648,11 +16720,6 @@ kbd.rs-text {
 }
 .gameControl button {
   width: -webkit-fill-available;
-}
-.gameControl .gameTimer {
-  text-align: center;
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 3em;
 }
 .gameControl .info,
 .gameControl .action {
