@@ -30,6 +30,17 @@
   border-radius: 5px;
   padding: 5px;
 }
+.chooseDoor .timer {
+  width: -webkit-fill-available;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #fff;
+  background-color: #323845;
+  margin: 10px 20px;
+  border-radius: 5px;
+  padding: 5px;
+}
 
 /*!*******************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/rsuite/dist/rsuite.min.css ***!
