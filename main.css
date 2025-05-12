@@ -16812,8 +16812,21 @@ kbd.rs-text {
   display: flex;
   flex-direction: column;
 }
-.mainGames .gameInfo > img {
+.mainGames .gameInfo > .image {
   max-width: -webkit-fill-available;
+  position: relative;
+}
+.mainGames .gameInfo > .image > img {
+  max-width: -webkit-fill-available;
+}
+.mainGames .gameInfo > .image > .beta {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: #b90606;
+  padding: 5px;
+  border-radius: 5px;
+  padding: 5px 10px;
 }
 .mainGames .gameInfo .text {
   margin-bottom: 20px;
