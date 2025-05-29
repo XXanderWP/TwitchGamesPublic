@@ -306,36 +306,64 @@
   justify-content: space-between;
   min-height: 40vh;
 }
-.liars-bar-main .players-list .left {
-  width: 40vh;
+.liars-bar-main .players-list > .left {
+  width: 25%;
   display: flex;
   flex-wrap: nowrap;
   flex-direction: column-reverse;
   justify-content: space-around;
 }
-.liars-bar-main .players-list .table {
-  width: 20vh;
+.liars-bar-main .players-list > .table {
+  width: 50%;
   position: relative;
 }
-.liars-bar-main .players-list .table .background {
-  position: absolute;
+.liars-bar-main .players-list > .table > div {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 80%;
+  aspect-ratio: 1;
+  max-height: 90%;
+  padding: 4vh;
+  border: 10px solid #999999;
+  border-radius: 20%;
+  background: #432e15;
+}
+.liars-bar-main .players-list > .table > div > .background {
+  opacity: 0.7;
+  position: relative;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
 }
-.liars-bar-main .players-list .table .background img {
+.liars-bar-main .players-list > .table > div > .background img {
+  opacity: 0.2;
+  margin: auto;
+  width: 80%;
+}
+.liars-bar-main .players-list > .table > div > .background span {
+  position: absolute;
   width: 100%;
-  opacity: 0.7;
+  text-align: center;
+  font-size: 4vh;
+  top: -9vh;
 }
-.liars-bar-main .players-list .table .table-inside {
+.liars-bar-main .players-list > .table > div .table-inside {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 .liars-bar-main .players-list .right {
-  width: 40vh;
+  width: 25%;
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
@@ -358,14 +386,15 @@
 }
 .liars-bar-main .my-info .game-info {
   position: absolute;
-  right: 1vh;
-  bottom: 1vh;
+  right: 10vh;
+  top: 0vh;
   display: flex;
   background: #23242b;
   flex-direction: column;
   flex-wrap: wrap;
   text-align: center;
-  width: 15vh;
+  min-width: 15vh;
+  width: max-content;
   padding: 1vh;
   border-radius: 5px;
   margin-top: 1vh;
@@ -502,6 +531,9 @@
 .liars-bar-main .player .player-info > .shootInfo.other img {
   margin-top: 0px;
   height: 5vh;
+}
+.liars-bar-main .player .player-info > .shootInfo:not(.other) {
+  margin-top: 2vh;
 }
 .liars-bar-main .player.other .player-hand .card-image {
   width: calc(12vh * 0.6);
@@ -17527,5 +17559,163 @@ kbd.rs-text {
 .onlinePlayersList > div .lastSeen {
   font-size: 0.6em;
   margin-left: auto;
+}
+.userInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em 1em;
+  background: #181c24;
+  border-radius: 16px;
+  box-shadow: 0 2px 16px 0 #000a;
+  width: -webkit-fill-available;
+  margin: 0 auto;
+}
+.userInfo .profile-avatar {
+  margin-bottom: 1em;
+}
+.userInfo .profile-avatar img {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  border: 3px solid #4caf50;
+  box-shadow: 0 2px 8px #0006;
+  background: #222;
+}
+.userInfo .profile-main {
+  width: 100%;
+  text-align: center;
+}
+.userInfo .profile-main .profile-displayName {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 0.2em;
+}
+.userInfo .profile-main .profile-username {
+  color: #aaa;
+  font-size: 1em;
+  margin-bottom: 0.5em;
+}
+.userInfo .profile-main .profile-username .profile-id {
+  color: #666;
+  font-size: 0.9em;
+  margin-left: 0.5em;
+}
+.userInfo .profile-main .profile-lastseen {
+  color: #4caf50;
+  font-size: 0.95em;
+  margin-bottom: 1em;
+}
+.userInfo .profile-main .profile-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2em;
+  margin-bottom: 1em;
+  color: #fff;
+  font-size: 1em;
+}
+.userInfo .profile-main .profile-stats b {
+  color: #4caf50;
+}
+.userInfo .profile-main .profile-friends {
+  margin-top: 1em;
+}
+.userInfo .profile-main .profile-friends .friends-title {
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  color: #4caf50;
+}
+.userInfo .profile-main .profile-friends .friends-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  justify-content: center;
+}
+.userInfo .profile-main .profile-friends .friends-list .friend-avatar {
+  cursor: pointer;
+}
+.userInfo .profile-main .profile-friends .friends-list .friend-avatar img {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 2px solid #888;
+  transition: border 0.2s;
+}
+.userInfo .profile-main .profile-friends .friends-list .friend-avatar img:hover {
+  border: 2px solid #4caf50;
+}
+.userInfo-columns {
+  display: flex;
+  flex-direction: row;
+  gap: 2em;
+  justify-content: center;
+  align-items: flex-start;
+}
+.profile-col {
+  flex: 1 1 0;
+  min-width: 220px;
+}
+.profile-tables {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+}
+.profile-table-block {
+  background: #23283a;
+  border-radius: 10px;
+  padding: 1em;
+  margin-bottom: 1em;
+  box-shadow: 0 1px 6px #0004;
+}
+.profile-table-title {
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  color: #4caf50;
+  font-size: 1.1em;
+}
+.profile-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.98em;
+}
+.profile-table th,
+.profile-table td {
+  padding: 0.3em 0.5em;
+  text-align: left;
+  border-bottom: 1px solid #333;
+}
+.profile-table th {
+  color: #4caf50;
+  font-weight: bold;
+  background: #181c24;
+}
+.profile-table tr:last-child td {
+  border-bottom: none;
+}
+.friend-btn {
+  padding: 0.5em 1.2em;
+  border-radius: 6px;
+  border: none;
+  font-size: 1em;
+  cursor: pointer;
+  margin-top: 0.5em;
+}
+.friend-btn.add {
+  background: #4caf50;
+  color: #fff;
+}
+.friend-btn.remove {
+  background: #b00606;
+  color: #fff;
+}
+@media (max-width: 700px) {
+  .userInfo-columns {
+    flex-direction: column;
+    gap: 1em;
+    align-items: stretch;
+  }
+  .profile-col {
+    min-width: 0;
+  }
 }
 
