@@ -17496,4 +17496,36 @@ kbd.rs-text {
   margin-bottom: 0.25em;
   font-size: 2em;
 }
+.onlinePlayersList {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-height: 50vh;
+  overflow: auto;
+  font-size: 2vh;
+}
+.onlinePlayersList > div {
+  display: flex;
+  gap: 15px;
+  justify-content: flex-start;
+  align-items: center;
+}
+.onlinePlayersList > div img {
+  height: 1.5em;
+  border: 1px solid white;
+  padding: 5px;
+}
+.onlinePlayersList > div div {
+  display: flex;
+  align-items: flex-end;
+  gap: 5px;
+}
+.onlinePlayersList > div div span {
+  font-size: 0.7em;
+  color: grey;
+}
+.onlinePlayersList > div .lastSeen {
+  font-size: 0.6em;
+  margin-left: auto;
+}
 
