@@ -184,6 +184,91 @@
   font-weight: 500;
   margin-right: 0.3em;
 }
+.showWinner {
+  position: absolute;
+  z-index: 999;
+  width: 100%;
+  height: 100%;
+}
+.showWinner > .inside {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #23242b 60%, #7ecfff 100%);
+  border-radius: 18px;
+  box-shadow: 0 4px 32px 0 rgba(126, 207, 255, 0.25), 0 1.5px 8px 0 rgba(0, 0, 0, 0.18);
+  padding: 3em 2em 2em 2em;
+  margin: 2em auto;
+  min-width: 320px;
+  max-width: 420px;
+  animation: showWinnerPop 0.7s cubic-bezier(0.23, 1, 0.32, 1);
+  transform: translate(-50%, -50%);
+}
+.showWinner > .inside .avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 1.2em;
+  border: 4px solid #7ecfff;
+  box-shadow: 0 0 0 6px rgba(126, 207, 255, 0.15);
+  background: #fff;
+}
+.showWinner > .inside .avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  transition: transform 0.2s;
+  cursor: pointer;
+}
+.showWinner > .inside .avatar img:hover {
+  transform: scale(1.08) rotate(-2deg);
+  box-shadow: 0 0 16px #7ecfff99;
+}
+.showWinner > .inside .name {
+  font-size: 2.2em;
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 0 2px 8px #7ecfff99, 0 1px 0 #23242b;
+  margin-bottom: 0.2em;
+  letter-spacing: 0.04em;
+  text-align: center;
+  word-break: break-word;
+  cursor: pointer;
+}
+.showWinner > .inside .winner-label {
+  font-size: 1.5em;
+  font-weight: 600;
+  color: #ffe066;
+  text-shadow: 0 2px 8px #23242b99, 0 1px 0 #fff;
+  margin-bottom: 0.7em;
+  letter-spacing: 0.04em;
+  text-align: center;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  justify-content: center;
+}
+@keyframes showWinnerPop {
+  0% {
+    transform: scale(0.7) translate(-50%, calc(-50% + 40px));
+    opacity: 0;
+  }
+  70% {
+    transform: scale(1.08) translate(-50%, calc(-50% + 8px));
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1) translate(-50%, calc(-50%));
+    opacity: 1;
+  }
+}
 .lobbyList {
   background: #23242b;
   border-radius: 10px;
