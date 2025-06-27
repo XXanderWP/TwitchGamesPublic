@@ -412,10 +412,10 @@
 }
 .liars-bar-main {
   width: -webkit-fill-available;
-  height: 80vh;
+  height: max-content;
 }
 .liars-bar-main .players-list {
-  width: 100%;
+  width: 95%;
   display: flex;
   justify-content: space-between;
   min-height: 40vh;
@@ -767,7 +767,7 @@
   transform: rotateY(180deg);
 }
 .liars-bar-main .control {
-  margin-top: 1vh;
+  margin-bottom: 1vh;
   display: flex;
   gap: 2vh;
 }
