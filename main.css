@@ -496,33 +496,6 @@
   display: flex;
   justify-content: center;
   margin-top: 2vh;
-  position: relative;
-}
-.liars-bar-main .my-info .game-info {
-  position: absolute;
-  right: 10vh;
-  top: 0vh;
-  display: flex;
-  background: #23242b;
-  flex-direction: column;
-  flex-wrap: wrap;
-  text-align: center;
-  min-width: 15vh;
-  width: max-content;
-  padding: 1vh;
-  border-radius: 5px;
-  margin-top: 1vh;
-  font-size: 1.5vh;
-  white-space: nowrap;
-}
-.liars-bar-main .my-info .game-info.next {
-  background: #fcb721;
-}
-.liars-bar-main .my-info .game-info.current {
-  background: green;
-}
-.liars-bar-main .my-info .game-info.noTime {
-  background: #7e0202;
 }
 .liars-bar-main .player {
   display: flex;
@@ -587,6 +560,11 @@
     border-color: #9e7c1f;
   }
 }
+.liars-bar-main .player .player-info .playerInfo img.avatar.offline {
+  filter: grayscale(1) brightness(0.75);
+  border-color: #8f8f8f;
+  animation: none;
+}
 .liars-bar-main .player .player-info .playerInfo > span.ping {
   -moz-user-select: none;
   -khtml-user-select: none;
@@ -603,6 +581,7 @@
   background: #1a1d24;
   padding: 0.1vh 0.5vh;
   font-size: 1.5vh;
+  color: #f6f6f6;
 }
 .liars-bar-main .player .player-info .playerInfo > span.ping.other {
   font-size: 1vh;
@@ -621,6 +600,39 @@
 .liars-bar-main .player .player-info .playerInfo > span.name.other {
   font-size: 1vh;
   margin: 0.4vh;
+}
+.liars-bar-main .player .player-info .playerInfo > span.turn-timer {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  /*
+      Introduced in Internet Explorer 10.
+      See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+    */
+  -ms-user-select: none;
+  user-select: none;
+  pointer-events: none;
+  position: absolute;
+  top: -2.2vh;
+  left: 50%;
+  transform: translateX(-50%);
+  background: green;
+  color: white;
+  padding: 0.1vh 0.8vh;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  font-size: 1.4vh;
+  font-weight: 700;
+  z-index: 2;
+  white-space: nowrap;
+}
+.liars-bar-main .player .player-info .playerInfo > span.turn-timer.other {
+  top: -1.6vh;
+  font-size: 1vh;
+  padding: 0.05vh 0.5vh;
+}
+.liars-bar-main .player .player-info .playerInfo > span.turn-timer.noTime {
+  background: #7e0202;
 }
 .liars-bar-main .player .player-info > .shootInfo {
   margin-top: 1vh;
@@ -767,7 +779,7 @@
   transform: rotateY(180deg);
 }
 .liars-bar-main .control {
-  margin-bottom: 1vh;
+  margin-top: 1vh;
   display: flex;
   gap: 2vh;
 }
@@ -786,14 +798,82 @@
 .unoGame.drag {
   cursor: none;
 }
+.unoGame .uno-action-indicator {
+  position: absolute;
+  left: 58%;
+  top: 45%;
+  transform: translate(0, -50%);
+  z-index: 10;
+  background: rgba(0, 0, 0, 0.75);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 10px;
+  padding: 0.7vh 0.9vw;
+  font-size: 1.6vh;
+  font-weight: 700;
+  color: #ffffff;
+  pointer-events: none;
+}
+.unoGame .uno-action-indicator.sayUno {
+  border-color: #26b14c;
+  box-shadow: 0 0 12px rgba(38, 177, 76, 0.45);
+}
+.unoGame .uno-action-indicator.reportSuccess {
+  border-color: #26b14c;
+  box-shadow: 0 0 12px rgba(38, 177, 76, 0.45);
+  color: #7dffa0;
+}
+.unoGame .uno-action-indicator.reportFail {
+  border-color: #e05252;
+  box-shadow: 0 0 12px rgba(224, 82, 82, 0.45);
+  color: #ffaaaa;
+}
 .unoGame .buttons-block {
   position: absolute;
-  bottom: 16vh;
+  left: 50%;
+  top: 67%;
+  transform: translateX(-50%);
   display: flex;
-  flex-direction: column;
-  gap: 1vh;
-  width: 5vw;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.8vw;
   z-index: 9;
+  background: rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  padding: 1vh 1.5vw;
+  border-radius: 4vh;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.5);
+}
+.unoGame .buttons-block .megaphone-block-notice {
+  font-size: 1.3vh;
+  font-weight: 600;
+  color: #f4c542;
+  background: rgba(244, 197, 66, 0.12);
+  border: 1px solid rgba(244, 197, 66, 0.4);
+  border-radius: 2vh;
+  padding: 0.4vh 0.9vw;
+  white-space: nowrap;
+}
+.unoGame .buttons-block button {
+  border-radius: 2.5vh !important;
+  font-size: 1.5vh !important;
+  font-weight: 700 !important;
+  padding: 0.6vh 1.2vw !important;
+  letter-spacing: 0.03em;
+  transition: transform 0.15s, box-shadow 0.15s !important;
+  white-space: nowrap;
+}
+.unoGame .buttons-block button:not(:disabled):hover {
+  transform: translateY(-2px) !important;
+}
+.unoGame .buttons-block button:disabled {
+  opacity: 0.4 !important;
+}
+.unoGame .buttons-block.host-offline-controls {
+  top: 75%;
+  background: rgba(20, 20, 20, 0.6);
+  border-color: rgba(255, 95, 95, 0.35);
 }
 .unoGame .tableBlock {
   width: 100px;
@@ -848,6 +928,10 @@
 .unoGame .player-block .avatar.next {
   border-color: #9da803;
 }
+.unoGame .player-block .avatar.offline {
+  filter: grayscale(1) brightness(0.8);
+  border-color: #9b9b9b;
+}
 .unoGame .player-block .player-name {
   font-size: 2vh;
   text-align: center;
@@ -855,6 +939,16 @@
   padding: 0.5vh 1vw;
   border-radius: 10px;
   z-index: 1;
+}
+.unoGame .player-block .player-state {
+  margin-top: 0.5vh;
+  font-size: 1.2vh;
+  padding: 0.2vh 0.7vw;
+  border-radius: 999px;
+}
+.unoGame .player-block .player-state.offline {
+  background: rgba(140, 140, 140, 0.18);
+  border: 1px solid rgba(140, 140, 140, 0.5);
 }
 .unoGame .cards-block {
   margin-top: 1vh;
@@ -17885,15 +17979,31 @@ kbd.rs-text {
   font-size: 0.6em;
   margin-left: auto;
 }
+.profile-user-modal {
+  overflow-x: hidden;
+}
+.profile-user-modal .rs-modal {
+  overflow-x: hidden;
+}
+.profile-user-modal .rs-modal-dialog {
+  max-width: 90vw;
+}
+.profile-user-modal .rs-modal-content,
+.profile-user-modal .rs-modal-body {
+  overflow-x: hidden;
+}
 .userInfo {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  padding: 2em 1em;
+  align-items: stretch;
+  padding: 1.2em;
   background: #181c24;
   border-radius: 16px;
   box-shadow: 0 2px 16px 0 #000a;
-  width: -webkit-fill-available;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-x: hidden;
   margin: 0 auto;
 }
 .userInfo .profile-avatar {
@@ -17920,6 +18030,7 @@ kbd.rs-text {
   color: #aaa;
   font-size: 1em;
   margin-bottom: 0.5em;
+  overflow-wrap: anywhere;
 }
 .userInfo .profile-main .profile-username .profile-id {
   color: #666;
@@ -17972,25 +18083,35 @@ kbd.rs-text {
 .userInfo-columns {
   display: flex;
   flex-direction: row;
-  gap: 2em;
+  gap: 1.2em;
   justify-content: center;
   align-items: flex-start;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-x: hidden;
 }
 .profile-col {
   flex: 1 1 0;
-  min-width: 220px;
+  min-width: 0;
+  max-width: 100%;
 }
 .profile-tables {
   display: flex;
   flex-direction: column;
-  gap: 1.5em;
+  gap: 0.9em;
+  min-width: 0;
 }
 .profile-table-block {
   background: #23283a;
   border-radius: 10px;
-  padding: 1em;
-  margin-bottom: 1em;
+  padding: 0.8em;
+  margin-bottom: 0.6em;
   box-shadow: 0 1px 6px #0004;
+  min-width: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-x: hidden;
 }
 .profile-table-title {
   font-weight: bold;
@@ -18000,14 +18121,17 @@ kbd.rs-text {
 }
 .profile-table {
   width: 100%;
+  table-layout: fixed;
   border-collapse: collapse;
-  font-size: 0.98em;
+  font-size: 0.92em;
 }
 .profile-table th,
 .profile-table td {
-  padding: 0.3em 0.5em;
+  padding: 0.28em 0.45em;
   text-align: left;
   border-bottom: 1px solid #333;
+  vertical-align: middle;
+  overflow-wrap: anywhere;
 }
 .profile-table th {
   color: #4caf50;
@@ -18033,6 +18157,98 @@ kbd.rs-text {
   background: #b00606;
   color: #fff;
 }
+.players-page {
+  max-width: 980px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.players-page .players-page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.players-page .players-page-header h2 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+.players-page .players-page-header span {
+  color: #9fb0d4;
+  font-size: 0.9rem;
+}
+.players-page .players-search .rs-input {
+  background: #161c29;
+  border-color: #2d3750;
+}
+.players-list-page {
+  max-height: 68vh;
+  overflow: auto;
+  border-radius: 12px;
+  border: 1px solid #2b3348;
+  background: #111723;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.players-list-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px;
+  border-radius: 10px;
+  background: #1b2231;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+.players-list-item:hover {
+  background: #232d43;
+}
+.players-list-item img {
+  width: 44px;
+  height: 44px;
+  border-radius: 999px;
+  border: 2px solid #3a4663;
+  object-fit: cover;
+  flex: 0 0 auto;
+}
+.players-list-item .players-list-item-content {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+.players-list-item .players-list-item-content .name {
+  font-weight: 700;
+  color: #f5f8ff;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 320px;
+}
+.players-list-item .players-list-item-content .meta {
+  color: #8f9bb4;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 320px;
+}
+.players-list-item .status {
+  margin-left: auto;
+  color: #a7b5cf;
+  font-size: 0.8rem;
+  text-align: right;
+  max-width: 240px;
+}
+.players-list-loader,
+.players-empty {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80px;
+  color: #a7b5cf;
+}
 @media (max-width: 700px) {
   .userInfo-columns {
     flex-direction: column;
@@ -18041,6 +18257,9 @@ kbd.rs-text {
   }
   .profile-col {
     min-width: 0;
+  }
+  .players-list-item .status {
+    display: none;
   }
 }
 
