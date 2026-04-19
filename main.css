@@ -255,6 +255,48 @@
   gap: 0.5em;
   justify-content: center;
 }
+.showPauseOverlay {
+  position: absolute;
+  z-index: 998;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+.showPauseOverlay > .inside {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 320px;
+  max-width: 90%;
+  padding: 18px 22px;
+  border-radius: 16px;
+  border: 2px solid rgba(255, 255, 255, 0.26);
+  background: linear-gradient(135deg, rgba(20, 29, 43, 0.92) 0%, rgba(55, 26, 26, 0.9) 100%);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.45), 0 0 0 1px rgba(255, 255, 255, 0.1) inset;
+  text-align: center;
+}
+.showPauseOverlay .title {
+  color: #fff;
+  font-size: 28px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.showPauseOverlay .countdown {
+  margin-top: 10px;
+  color: #ffd18f;
+  font-size: 56px;
+  font-weight: 900;
+  line-height: 1;
+  text-shadow: 0 2px 16px rgba(255, 117, 24, 0.45);
+}
+.showPauseOverlay .desc {
+  margin-top: 8px;
+  color: #f2f2f2;
+  font-size: 16px;
+  font-weight: 500;
+}
 @keyframes showWinnerPop {
   0% {
     transform: scale(0.7) translate(-50%, calc(-50% + 40px));
@@ -377,6 +419,19 @@
 .invite-friend-item.disabled {
   opacity: 0.5;
   cursor: not-allowed;
+}
+.invite-friend-item.sent {
+  border-color: #4caf7d;
+  background: #183126;
+}
+.invite-friend-item .invite-state {
+  margin-left: auto;
+  font-size: 12px;
+  color: #7be3ad;
+  border: 1px solid #4caf7d;
+  border-radius: 999px;
+  padding: 2px 8px;
+  white-space: nowrap;
 }
 
 /*!************************************************************************************************************************************!*\
@@ -575,14 +630,17 @@
   0% {
     border-style: solid;
     border-color: #0d520d;
+    box-shadow: 0 0 0.9vh rgba(26, 161, 26, 0.45);
   }
   50% {
     border-style: solid;
     border-color: green;
+    box-shadow: 0 0 1.6vh rgba(0, 220, 0, 0.75);
   }
   100% {
     border-style: solid;
     border-color: #0d520d;
+    box-shadow: 0 0 0.9vh rgba(26, 161, 26, 0.45);
   }
 }
 .liars-bar-main .player .player-info .playerInfo img.avatar.next {
@@ -655,23 +713,23 @@
   user-select: none;
   pointer-events: none;
   position: absolute;
-  top: -2.2vh;
+  top: -3.2vh;
   left: 50%;
   transform: translateX(-50%);
   background: green;
   color: white;
-  padding: 0.12vh 0.92vh;
+  padding: 0.22vh 1.38vh;
   border-radius: 999px;
   border: 1px solid rgba(255, 255, 255, 0.7);
-  font-size: 1.61vh;
+  font-size: 2.42vh;
   font-weight: 700;
   z-index: 2;
   white-space: nowrap;
 }
 .liars-bar-main .player .player-info .playerInfo > span.turn-timer.other {
-  top: -1.6vh;
-  font-size: 1.15vh;
-  padding: 0.06vh 0.58vh;
+  top: -2.4vh;
+  font-size: 1.72vh;
+  padding: 0.12vh 0.87vh;
 }
 .liars-bar-main .player .player-info .playerInfo > span.turn-timer.noTime {
   background: #7e0202;
@@ -944,6 +1002,25 @@
   flex-direction: column;
   align-items: center;
 }
+.unoGame .player-block .turn-timer {
+  pointer-events: none;
+  position: absolute;
+  top: -3.2vh;
+  left: 50%;
+  transform: translateX(-50%);
+  background: green;
+  color: white;
+  padding: 0.22vh 1.38vh;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  font-size: 2.42vh;
+  font-weight: 700;
+  z-index: 2;
+  white-space: nowrap;
+}
+.unoGame .player-block .turn-timer.noTime {
+  background: #7e0202;
+}
 .unoGame .player-block .avatar {
   width: 5vw;
   aspect-ratio: 1/1;
@@ -957,7 +1034,21 @@
   cursor: pointer;
 }
 .unoGame .player-block .avatar.active {
-  border-color: green;
+  animation: unoBorderPulse 1s infinite;
+}
+@keyframes unoBorderPulse {
+  0% {
+    border-color: #0d520d;
+    box-shadow: 0 0 0.9vh rgba(26, 161, 26, 0.45);
+  }
+  50% {
+    border-color: green;
+    box-shadow: 0 0 1.6vh rgba(0, 220, 0, 0.75);
+  }
+  100% {
+    border-color: #0d520d;
+    box-shadow: 0 0 0.9vh rgba(26, 161, 26, 0.45);
+  }
 }
 .unoGame .player-block .avatar.next {
   border-color: #9da803;
@@ -1169,6 +1260,10 @@
   flex-wrap: wrap;
   gap: 6px;
   min-height: 34px;
+}
+.type-competition-main .text-block .text-line .words-await {
+  opacity: 0.75;
+  font-size: 15px;
 }
 .type-competition-main .text-block .text-line .word {
   background: rgba(255, 255, 255, 0.05);
