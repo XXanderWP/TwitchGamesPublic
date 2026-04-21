@@ -1,0 +1,2719 @@
+/*
+ * ATTENTION: The "eval" devtool has been used (maybe by default in mode: "development").
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+/******/ (() => { // webpackBootstrap
+/******/ 	var __webpack_modules__ = ({
+
+/***/ "./src/frontend/images/crown.svg":
+/*!***************************************!*\
+  !*** ./src/frontend/images/crown.svg ***!
+  \***************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/crown.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/crown.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/flags/en.svg":
+/*!******************************************!*\
+  !*** ./src/frontend/images/flags/en.svg ***!
+  \******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/en.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/flags/en.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/flags/ru.svg":
+/*!******************************************!*\
+  !*** ./src/frontend/images/flags/ru.svg ***!
+  \******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/ru.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/flags/ru.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/flags/uk.svg":
+/*!******************************************!*\
+  !*** ./src/frontend/images/flags/uk.svg ***!
+  \******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/uk.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/flags/uk.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/gamesIcon.svg":
+/*!*******************************************!*\
+  !*** ./src/frontend/images/gamesIcon.svg ***!
+  \*******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/gamesIcon.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/gamesIcon.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/liarsBar/cards/ace.svg":
+/*!****************************************************!*\
+  !*** ./src/frontend/images/liarsBar/cards/ace.svg ***!
+  \****************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/ace.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/liarsBar/cards/ace.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/liarsBar/cards/joker.svg":
+/*!******************************************************!*\
+  !*** ./src/frontend/images/liarsBar/cards/joker.svg ***!
+  \******************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/joker.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/liarsBar/cards/joker.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/liarsBar/cards/king.svg":
+/*!*****************************************************!*\
+  !*** ./src/frontend/images/liarsBar/cards/king.svg ***!
+  \*****************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/king.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/liarsBar/cards/king.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/liarsBar/cards/queen.svg":
+/*!******************************************************!*\
+  !*** ./src/frontend/images/liarsBar/cards/queen.svg ***!
+  \******************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/queen.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/liarsBar/cards/queen.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/liarsBar/death.svg":
+/*!************************************************!*\
+  !*** ./src/frontend/images/liarsBar/death.svg ***!
+  \************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/death.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/liarsBar/death.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/liarsBar/joker.svg":
+/*!************************************************!*\
+  !*** ./src/frontend/images/liarsBar/joker.svg ***!
+  \************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/joker.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/liarsBar/joker.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/liarsBar/life.svg":
+/*!***********************************************!*\
+  !*** ./src/frontend/images/liarsBar/life.svg ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/life.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/liarsBar/life.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/liarsBar/shootMain.svg":
+/*!****************************************************!*\
+  !*** ./src/frontend/images/liarsBar/shootMain.svg ***!
+  \****************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/shootMain.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/liarsBar/shootMain.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/liarsBar/shootMain1.svg":
+/*!*****************************************************!*\
+  !*** ./src/frontend/images/liarsBar/shootMain1.svg ***!
+  \*****************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/shootMain1.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/liarsBar/shootMain1.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/liarsBar/shootMain2.svg":
+/*!*****************************************************!*\
+  !*** ./src/frontend/images/liarsBar/shootMain2.svg ***!
+  \*****************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/shootMain2.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/liarsBar/shootMain2.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/liarsBar/shootMain3.svg":
+/*!*****************************************************!*\
+  !*** ./src/frontend/images/liarsBar/shootMain3.svg ***!
+  \*****************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/shootMain3.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/liarsBar/shootMain3.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/liarsBar/shootMain4.svg":
+/*!*****************************************************!*\
+  !*** ./src/frontend/images/liarsBar/shootMain4.svg ***!
+  \*****************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/shootMain4.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/liarsBar/shootMain4.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/liarsBar/shootMain5.svg":
+/*!*****************************************************!*\
+  !*** ./src/frontend/images/liarsBar/shootMain5.svg ***!
+  \*****************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/shootMain5.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/liarsBar/shootMain5.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/liarsBar/shootMain6.svg":
+/*!*****************************************************!*\
+  !*** ./src/frontend/images/liarsBar/shootMain6.svg ***!
+  \*****************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/shootMain6.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/liarsBar/shootMain6.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/liarsBar/wait.svg":
+/*!***********************************************!*\
+  !*** ./src/frontend/images/liarsBar/wait.svg ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/wait.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/liarsBar/wait.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/treasures/bomb.svg":
+/*!************************************************!*\
+  !*** ./src/frontend/images/treasures/bomb.svg ***!
+  \************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/bomb.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/treasures/bomb.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/treasures/chest.svg":
+/*!*************************************************!*\
+  !*** ./src/frontend/images/treasures/chest.svg ***!
+  \*************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/chest.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/treasures/chest.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/treasures/coin.svg":
+/*!************************************************!*\
+  !*** ./src/frontend/images/treasures/coin.svg ***!
+  \************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/coin.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/treasures/coin.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/treasures/hole.svg":
+/*!************************************************!*\
+  !*** ./src/frontend/images/treasures/hole.svg ***!
+  \************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/hole.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/treasures/hole.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/+4.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/+4.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/+4.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/+4.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/b+2.svg":
+/*!***********************************************!*\
+  !*** ./src/frontend/images/uno/cards/b+2.svg ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/b+2.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/b+2.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/b+4.svg":
+/*!***********************************************!*\
+  !*** ./src/frontend/images/uno/cards/b+4.svg ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/b+4.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/b+4.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/b0.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/b0.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/b0.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/b0.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/b1.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/b1.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/b1.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/b1.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/b2.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/b2.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/b2.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/b2.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/b3.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/b3.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/b3.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/b3.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/b4.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/b4.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/b4.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/b4.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/b5.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/b5.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/b5.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/b5.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/b6.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/b6.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/b6.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/b6.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/b7.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/b7.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/b7.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/b7.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/b8.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/b8.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/b8.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/b8.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/b9.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/b9.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/b9.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/b9.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/bb.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/bb.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/bb.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/bb.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/bcolor.svg":
+/*!**************************************************!*\
+  !*** ./src/frontend/images/uno/cards/bcolor.svg ***!
+  \**************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/bcolor.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/bcolor.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/bs.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/bs.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/bs.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/bs.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/color.svg":
+/*!*************************************************!*\
+  !*** ./src/frontend/images/uno/cards/color.svg ***!
+  \*************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/color.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/color.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/g+2.svg":
+/*!***********************************************!*\
+  !*** ./src/frontend/images/uno/cards/g+2.svg ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/g+2.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/g+2.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/g+4.svg":
+/*!***********************************************!*\
+  !*** ./src/frontend/images/uno/cards/g+4.svg ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/g+4.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/g+4.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/g0.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/g0.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/g0.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/g0.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/g1.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/g1.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/g1.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/g1.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/g2.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/g2.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/g2.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/g2.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/g3.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/g3.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/g3.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/g3.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/g4.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/g4.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/g4.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/g4.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/g5.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/g5.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/g5.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/g5.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/g6.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/g6.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/g6.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/g6.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/g7.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/g7.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/g7.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/g7.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/g8.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/g8.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/g8.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/g8.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/g9.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/g9.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/g9.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/g9.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/gb.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/gb.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/gb.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/gb.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/gcolor.svg":
+/*!**************************************************!*\
+  !*** ./src/frontend/images/uno/cards/gcolor.svg ***!
+  \**************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/gcolor.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/gcolor.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/gs.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/gs.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/gs.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/gs.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/r+2.svg":
+/*!***********************************************!*\
+  !*** ./src/frontend/images/uno/cards/r+2.svg ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/r+2.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/r+2.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/r+4.svg":
+/*!***********************************************!*\
+  !*** ./src/frontend/images/uno/cards/r+4.svg ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/r+4.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/r+4.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/r0.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/r0.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/r0.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/r0.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/r1.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/r1.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/r1.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/r1.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/r2.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/r2.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/r2.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/r2.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/r3.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/r3.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/r3.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/r3.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/r4.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/r4.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/r4.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/r4.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/r5.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/r5.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/r5.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/r5.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/r6.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/r6.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/r6.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/r6.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/r7.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/r7.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/r7.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/r7.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/r8.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/r8.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/r8.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/r8.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/r9.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/r9.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/r9.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/r9.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/rb.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/rb.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/rb.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/rb.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/rcolor.svg":
+/*!**************************************************!*\
+  !*** ./src/frontend/images/uno/cards/rcolor.svg ***!
+  \**************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/rcolor.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/rcolor.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/rs.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/rs.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/rs.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/rs.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/y+2.svg":
+/*!***********************************************!*\
+  !*** ./src/frontend/images/uno/cards/y+2.svg ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/y+2.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/y+2.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/y+4.svg":
+/*!***********************************************!*\
+  !*** ./src/frontend/images/uno/cards/y+4.svg ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/y+4.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/y+4.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/y0.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/y0.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/y0.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/y0.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/y1.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/y1.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/y1.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/y1.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/y2.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/y2.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/y2.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/y2.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/y3.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/y3.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/y3.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/y3.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/y4.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/y4.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/y4.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/y4.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/y5.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/y5.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/y5.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/y5.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/y6.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/y6.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/y6.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/y6.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/y7.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/y7.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/y7.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/y7.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/y8.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/y8.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/y8.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/y8.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/y9.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/y9.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/y9.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/y9.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/yb.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/yb.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/yb.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/yb.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/ycolor.svg":
+/*!**************************************************!*\
+  !*** ./src/frontend/images/uno/cards/ycolor.svg ***!
+  \**************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/ycolor.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/ycolor.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/ys.svg":
+/*!**********************************************!*\
+  !*** ./src/frontend/images/uno/cards/ys.svg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"images/ys.svg\");\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/ys.svg?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/BallHit.mp3":
+/*!*****************************************!*\
+  !*** ./src/frontend/sounds/BallHit.mp3 ***!
+  \*****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/BallHit.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/BallHit.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/BallInHole.mp3":
+/*!********************************************!*\
+  !*** ./src/frontend/sounds/BallInHole.mp3 ***!
+  \********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/BallInHole.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/BallInHole.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/BallInWater.mp3":
+/*!*********************************************!*\
+  !*** ./src/frontend/sounds/BallInWater.mp3 ***!
+  \*********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/BallInWater.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/BallInWater.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/ButtonHoverClick.mp3":
+/*!**************************************************!*\
+  !*** ./src/frontend/sounds/ButtonHoverClick.mp3 ***!
+  \**************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/ButtonHoverClick.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/ButtonHoverClick.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/Plonk loud 01.mp3":
+/*!***********************************************!*\
+  !*** ./src/frontend/sounds/Plonk loud 01.mp3 ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/Plonk loud 01.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/Plonk_loud_01.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/Plonk loud 02.mp3":
+/*!***********************************************!*\
+  !*** ./src/frontend/sounds/Plonk loud 02.mp3 ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/Plonk loud 02.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/Plonk_loud_02.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/Plonk loud 03.mp3":
+/*!***********************************************!*\
+  !*** ./src/frontend/sounds/Plonk loud 03.mp3 ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/Plonk loud 03.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/Plonk_loud_03.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/Plonk weak 01.mp3":
+/*!***********************************************!*\
+  !*** ./src/frontend/sounds/Plonk weak 01.mp3 ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/Plonk weak 01.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/Plonk_weak_01.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/Plonk weak 02.mp3":
+/*!***********************************************!*\
+  !*** ./src/frontend/sounds/Plonk weak 02.mp3 ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/Plonk weak 02.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/Plonk_weak_02.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/Plonk weak 03.mp3":
+/*!***********************************************!*\
+  !*** ./src/frontend/sounds/Plonk weak 03.mp3 ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/Plonk weak 03.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/Plonk_weak_03.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/join.ogg":
+/*!**************************************!*\
+  !*** ./src/frontend/sounds/join.ogg ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/join.ogg\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/join.ogg?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/leave.ogg":
+/*!***************************************!*\
+  !*** ./src/frontend/sounds/leave.ogg ***!
+  \***************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/leave.ogg\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/leave.ogg?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/liarsbar.background.ogg":
+/*!*****************************************************!*\
+  !*** ./src/frontend/sounds/liarsbar.background.ogg ***!
+  \*****************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/liarsbar.background.ogg\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/liarsbar.background.ogg?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/liarsbar.callliar.mp3":
+/*!***************************************************!*\
+  !*** ./src/frontend/sounds/liarsbar.callliar.mp3 ***!
+  \***************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/liarsbar.callliar.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/liarsbar.callliar.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/liarsbar.cardsflip.ogg":
+/*!****************************************************!*\
+  !*** ./src/frontend/sounds/liarsbar.cardsflip.ogg ***!
+  \****************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/liarsbar.cardsflip.ogg\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/liarsbar.cardsflip.ogg?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/liarsbar.death.mp3":
+/*!************************************************!*\
+  !*** ./src/frontend/sounds/liarsbar.death.mp3 ***!
+  \************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/liarsbar.death.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/liarsbar.death.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/liarsbar.gameover.mp3":
+/*!***************************************************!*\
+  !*** ./src/frontend/sounds/liarsbar.gameover.mp3 ***!
+  \***************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/liarsbar.gameover.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/liarsbar.gameover.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/liarsbar.myturn.mp3":
+/*!*************************************************!*\
+  !*** ./src/frontend/sounds/liarsbar.myturn.mp3 ***!
+  \*************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/liarsbar.myturn.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/liarsbar.myturn.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/liarsbar.myturn1.mp3":
+/*!**************************************************!*\
+  !*** ./src/frontend/sounds/liarsbar.myturn1.mp3 ***!
+  \**************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/liarsbar.myturn1.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/liarsbar.myturn1.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/liarsbar.nexthand.mp3":
+/*!***************************************************!*\
+  !*** ./src/frontend/sounds/liarsbar.nexthand.mp3 ***!
+  \***************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/liarsbar.nexthand.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/liarsbar.nexthand.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/liarsbar.select.ogg":
+/*!*************************************************!*\
+  !*** ./src/frontend/sounds/liarsbar.select.ogg ***!
+  \*************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/liarsbar.select.ogg\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/liarsbar.select.ogg?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/liarsbar.shoot.ogg":
+/*!************************************************!*\
+  !*** ./src/frontend/sounds/liarsbar.shoot.ogg ***!
+  \************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/liarsbar.shoot.ogg\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/liarsbar.shoot.ogg?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/liarsbar.shootfalse.ogg":
+/*!*****************************************************!*\
+  !*** ./src/frontend/sounds/liarsbar.shootfalse.ogg ***!
+  \*****************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/liarsbar.shootfalse.ogg\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/liarsbar.shootfalse.ogg?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/liarsbar.shuffle.ogg":
+/*!**************************************************!*\
+  !*** ./src/frontend/sounds/liarsbar.shuffle.ogg ***!
+  \**************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/liarsbar.shuffle.ogg\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/liarsbar.shuffle.ogg?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/liarsbar.startgame.mp3":
+/*!****************************************************!*\
+  !*** ./src/frontend/sounds/liarsbar.startgame.mp3 ***!
+  \****************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/liarsbar.startgame.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/liarsbar.startgame.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/liarsbar.trow.ogg":
+/*!***********************************************!*\
+  !*** ./src/frontend/sounds/liarsbar.trow.ogg ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/liarsbar.trow.ogg\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/liarsbar.trow.ogg?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/liarsbar.trow1.ogg":
+/*!************************************************!*\
+  !*** ./src/frontend/sounds/liarsbar.trow1.ogg ***!
+  \************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/liarsbar.trow1.ogg\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/liarsbar.trow1.ogg?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/newmessage.mp3":
+/*!********************************************!*\
+  !*** ./src/frontend/sounds/newmessage.mp3 ***!
+  \********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/newmessage.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/newmessage.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/notify.mp3":
+/*!****************************************!*\
+  !*** ./src/frontend/sounds/notify.mp3 ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/notify.mp3\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/notify.mp3?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds/uno.background.ogg":
+/*!************************************************!*\
+  !*** ./src/frontend/sounds/uno.background.ogg ***!
+  \************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"sounds/uno.background.ogg\");\n\n//# sourceURL=webpack:///./src/frontend/sounds/uno.background.ogg?");
+
+/***/ }),
+
+/***/ "./src/frontend/styles/main.less":
+/*!***************************************!*\
+  !*** ./src/frontend/styles/main.less ***!
+  \***************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n\n//# sourceURL=webpack:///./src/frontend/styles/main.less?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/door/door.png":
+/*!*******************************************!*\
+  !*** ./src/frontend/images/door/door.png ***!
+  \*******************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/door_32w.webp\"+\" 32w\"+\",\"+\"/images/images/door_64w.webp\"+\" 64w\"+\",\"+\"/images/images/door_128w.webp\"+\" 128w\"+\",\"+\"/images/images/door_256w.webp\"+\" 256w\"+\",\"+\"/images/images/door_360w.webp\"+\" 360w\",\n        images: [{path: \"/images/images/door_32w.webp\",width: 32,height: 32},{path: \"/images/images/door_64w.webp\",width: 64,height: 64},{path: \"/images/images/door_128w.webp\",width: 128,height: 128},{path: \"/images/images/door_256w.webp\",width: 256,height: 256},{path: \"/images/images/door_360w.webp\",width: 360,height: 360}],\n        src: \"/images/images/door_360w.webp\",\n        toString: function(){return \"/images/images/door_360w.webp\"},\n        \n        width: 360,\n        height: 360\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/door/door.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/door/door_open.png":
+/*!************************************************!*\
+  !*** ./src/frontend/images/door/door_open.png ***!
+  \************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/door_open_32w.webp\"+\" 32w\"+\",\"+\"/images/images/door_open_64w.webp\"+\" 64w\"+\",\"+\"/images/images/door_open_128w.webp\"+\" 128w\"+\",\"+\"/images/images/door_open_256w.webp\"+\" 256w\"+\",\"+\"/images/images/door_open_360w.webp\"+\" 360w\",\n        images: [{path: \"/images/images/door_open_32w.webp\",width: 32,height: 32},{path: \"/images/images/door_open_64w.webp\",width: 64,height: 64},{path: \"/images/images/door_open_128w.webp\",width: 128,height: 128},{path: \"/images/images/door_open_256w.webp\",width: 256,height: 256},{path: \"/images/images/door_open_360w.webp\",width: 360,height: 360}],\n        src: \"/images/images/door_open_360w.webp\",\n        toString: function(){return \"/images/images/door_open_360w.webp\"},\n        \n        width: 360,\n        height: 360\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/door/door_open.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/1.png":
+/*!*****************************************!*\
+  !*** ./src/frontend/images/games/1.png ***!
+  \*****************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/1_32w.webp\"+\" 32w\"+\",\"+\"/images/images/1_64w.webp\"+\" 64w\"+\",\"+\"/images/images/1_128w.webp\"+\" 128w\"+\",\"+\"/images/images/1_256w.webp\"+\" 256w\"+\",\"+\"/images/images/1_512w.webp\"+\" 512w\"+\",\"+\"/images/images/1_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/1_32w.webp\",width: 32,height: 32},{path: \"/images/images/1_64w.webp\",width: 64,height: 64},{path: \"/images/images/1_128w.webp\",width: 128,height: 128},{path: \"/images/images/1_256w.webp\",width: 256,height: 256},{path: \"/images/images/1_512w.webp\",width: 512,height: 512},{path: \"/images/images/1_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/1_1024w.webp\",\n        toString: function(){return \"/images/images/1_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/1.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/10.png":
+/*!******************************************!*\
+  !*** ./src/frontend/images/games/10.png ***!
+  \******************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/10_32w.webp\"+\" 32w\"+\",\"+\"/images/images/10_64w.webp\"+\" 64w\"+\",\"+\"/images/images/10_128w.webp\"+\" 128w\"+\",\"+\"/images/images/10_256w.webp\"+\" 256w\"+\",\"+\"/images/images/10_512w.webp\"+\" 512w\"+\",\"+\"/images/images/10_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/10_32w.webp\",width: 32,height: 32},{path: \"/images/images/10_64w.webp\",width: 64,height: 64},{path: \"/images/images/10_128w.webp\",width: 128,height: 128},{path: \"/images/images/10_256w.webp\",width: 256,height: 256},{path: \"/images/images/10_512w.webp\",width: 512,height: 512},{path: \"/images/images/10_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/10_1024w.webp\",\n        toString: function(){return \"/images/images/10_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/10.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/100.png":
+/*!*******************************************!*\
+  !*** ./src/frontend/images/games/100.png ***!
+  \*******************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/100_32w.webp\"+\" 32w\"+\",\"+\"/images/images/100_64w.webp\"+\" 64w\"+\",\"+\"/images/images/100_128w.webp\"+\" 128w\"+\",\"+\"/images/images/100_256w.webp\"+\" 256w\"+\",\"+\"/images/images/100_512w.webp\"+\" 512w\"+\",\"+\"/images/images/100_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/100_32w.webp\",width: 32,height: 32},{path: \"/images/images/100_64w.webp\",width: 64,height: 64},{path: \"/images/images/100_128w.webp\",width: 128,height: 128},{path: \"/images/images/100_256w.webp\",width: 256,height: 256},{path: \"/images/images/100_512w.webp\",width: 512,height: 512},{path: \"/images/images/100_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/100_1024w.webp\",\n        toString: function(){return \"/images/images/100_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/100.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/101.png":
+/*!*******************************************!*\
+  !*** ./src/frontend/images/games/101.png ***!
+  \*******************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/101_32w.webp\"+\" 32w\"+\",\"+\"/images/images/101_64w.webp\"+\" 64w\"+\",\"+\"/images/images/101_128w.webp\"+\" 128w\"+\",\"+\"/images/images/101_256w.webp\"+\" 256w\"+\",\"+\"/images/images/101_512w.webp\"+\" 512w\"+\",\"+\"/images/images/101_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/101_32w.webp\",width: 32,height: 32},{path: \"/images/images/101_64w.webp\",width: 64,height: 64},{path: \"/images/images/101_128w.webp\",width: 128,height: 128},{path: \"/images/images/101_256w.webp\",width: 256,height: 256},{path: \"/images/images/101_512w.webp\",width: 512,height: 512},{path: \"/images/images/101_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/101_1024w.webp\",\n        toString: function(){return \"/images/images/101_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/101.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/102.png":
+/*!*******************************************!*\
+  !*** ./src/frontend/images/games/102.png ***!
+  \*******************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/102_32w.webp\"+\" 32w\"+\",\"+\"/images/images/102_64w.webp\"+\" 64w\"+\",\"+\"/images/images/102_128w.webp\"+\" 128w\"+\",\"+\"/images/images/102_256w.webp\"+\" 256w\"+\",\"+\"/images/images/102_512w.webp\"+\" 512w\"+\",\"+\"/images/images/102_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/102_32w.webp\",width: 32,height: 32},{path: \"/images/images/102_64w.webp\",width: 64,height: 64},{path: \"/images/images/102_128w.webp\",width: 128,height: 128},{path: \"/images/images/102_256w.webp\",width: 256,height: 256},{path: \"/images/images/102_512w.webp\",width: 512,height: 512},{path: \"/images/images/102_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/102_1024w.webp\",\n        toString: function(){return \"/images/images/102_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/102.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/103.png":
+/*!*******************************************!*\
+  !*** ./src/frontend/images/games/103.png ***!
+  \*******************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/103_32w.webp\"+\" 32w\"+\",\"+\"/images/images/103_64w.webp\"+\" 64w\"+\",\"+\"/images/images/103_128w.webp\"+\" 128w\"+\",\"+\"/images/images/103_256w.webp\"+\" 256w\"+\",\"+\"/images/images/103_512w.webp\"+\" 512w\"+\",\"+\"/images/images/103_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/103_32w.webp\",width: 32,height: 32},{path: \"/images/images/103_64w.webp\",width: 64,height: 64},{path: \"/images/images/103_128w.webp\",width: 128,height: 128},{path: \"/images/images/103_256w.webp\",width: 256,height: 256},{path: \"/images/images/103_512w.webp\",width: 512,height: 512},{path: \"/images/images/103_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/103_1024w.webp\",\n        toString: function(){return \"/images/images/103_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/103.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/104.png":
+/*!*******************************************!*\
+  !*** ./src/frontend/images/games/104.png ***!
+  \*******************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/104_32w.webp\"+\" 32w\"+\",\"+\"/images/images/104_64w.webp\"+\" 64w\"+\",\"+\"/images/images/104_128w.webp\"+\" 128w\"+\",\"+\"/images/images/104_256w.webp\"+\" 256w\"+\",\"+\"/images/images/104_512w.webp\"+\" 512w\"+\",\"+\"/images/images/104_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/104_32w.webp\",width: 32,height: 32},{path: \"/images/images/104_64w.webp\",width: 64,height: 64},{path: \"/images/images/104_128w.webp\",width: 128,height: 128},{path: \"/images/images/104_256w.webp\",width: 256,height: 256},{path: \"/images/images/104_512w.webp\",width: 512,height: 512},{path: \"/images/images/104_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/104_1024w.webp\",\n        toString: function(){return \"/images/images/104_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/104.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/105.png":
+/*!*******************************************!*\
+  !*** ./src/frontend/images/games/105.png ***!
+  \*******************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/105_32w.webp\"+\" 32w\"+\",\"+\"/images/images/105_64w.webp\"+\" 64w\"+\",\"+\"/images/images/105_128w.webp\"+\" 128w\"+\",\"+\"/images/images/105_256w.webp\"+\" 256w\"+\",\"+\"/images/images/105_512w.webp\"+\" 512w\"+\",\"+\"/images/images/105_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/105_32w.webp\",width: 32,height: 32},{path: \"/images/images/105_64w.webp\",width: 64,height: 64},{path: \"/images/images/105_128w.webp\",width: 128,height: 128},{path: \"/images/images/105_256w.webp\",width: 256,height: 256},{path: \"/images/images/105_512w.webp\",width: 512,height: 512},{path: \"/images/images/105_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/105_1024w.webp\",\n        toString: function(){return \"/images/images/105_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/105.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/106.png":
+/*!*******************************************!*\
+  !*** ./src/frontend/images/games/106.png ***!
+  \*******************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/106_32w.webp\"+\" 32w\"+\",\"+\"/images/images/106_64w.webp\"+\" 64w\"+\",\"+\"/images/images/106_128w.webp\"+\" 128w\"+\",\"+\"/images/images/106_256w.webp\"+\" 256w\"+\",\"+\"/images/images/106_512w.webp\"+\" 512w\"+\",\"+\"/images/images/106_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/106_32w.webp\",width: 32,height: 32},{path: \"/images/images/106_64w.webp\",width: 64,height: 64},{path: \"/images/images/106_128w.webp\",width: 128,height: 128},{path: \"/images/images/106_256w.webp\",width: 256,height: 256},{path: \"/images/images/106_512w.webp\",width: 512,height: 512},{path: \"/images/images/106_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/106_1024w.webp\",\n        toString: function(){return \"/images/images/106_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/106.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/107.png":
+/*!*******************************************!*\
+  !*** ./src/frontend/images/games/107.png ***!
+  \*******************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/107_32w.webp\"+\" 32w\"+\",\"+\"/images/images/107_64w.webp\"+\" 64w\"+\",\"+\"/images/images/107_128w.webp\"+\" 128w\"+\",\"+\"/images/images/107_256w.webp\"+\" 256w\"+\",\"+\"/images/images/107_512w.webp\"+\" 512w\"+\",\"+\"/images/images/107_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/107_32w.webp\",width: 32,height: 32},{path: \"/images/images/107_64w.webp\",width: 64,height: 64},{path: \"/images/images/107_128w.webp\",width: 128,height: 128},{path: \"/images/images/107_256w.webp\",width: 256,height: 256},{path: \"/images/images/107_512w.webp\",width: 512,height: 512},{path: \"/images/images/107_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/107_1024w.webp\",\n        toString: function(){return \"/images/images/107_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/107.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/11.png":
+/*!******************************************!*\
+  !*** ./src/frontend/images/games/11.png ***!
+  \******************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/11_32w.webp\"+\" 32w\"+\",\"+\"/images/images/11_64w.webp\"+\" 64w\"+\",\"+\"/images/images/11_128w.webp\"+\" 128w\"+\",\"+\"/images/images/11_256w.webp\"+\" 256w\"+\",\"+\"/images/images/11_512w.webp\"+\" 512w\"+\",\"+\"/images/images/11_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/11_32w.webp\",width: 32,height: 32},{path: \"/images/images/11_64w.webp\",width: 64,height: 64},{path: \"/images/images/11_128w.webp\",width: 128,height: 128},{path: \"/images/images/11_256w.webp\",width: 256,height: 256},{path: \"/images/images/11_512w.webp\",width: 512,height: 512},{path: \"/images/images/11_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/11_1024w.webp\",\n        toString: function(){return \"/images/images/11_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/11.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/12.png":
+/*!******************************************!*\
+  !*** ./src/frontend/images/games/12.png ***!
+  \******************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/12_32w.webp\"+\" 32w\"+\",\"+\"/images/images/12_64w.webp\"+\" 64w\"+\",\"+\"/images/images/12_128w.webp\"+\" 128w\"+\",\"+\"/images/images/12_256w.webp\"+\" 256w\"+\",\"+\"/images/images/12_512w.webp\"+\" 512w\"+\",\"+\"/images/images/12_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/12_32w.webp\",width: 32,height: 32},{path: \"/images/images/12_64w.webp\",width: 64,height: 64},{path: \"/images/images/12_128w.webp\",width: 128,height: 128},{path: \"/images/images/12_256w.webp\",width: 256,height: 256},{path: \"/images/images/12_512w.webp\",width: 512,height: 512},{path: \"/images/images/12_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/12_1024w.webp\",\n        toString: function(){return \"/images/images/12_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/12.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/13.png":
+/*!******************************************!*\
+  !*** ./src/frontend/images/games/13.png ***!
+  \******************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/13_32w.webp\"+\" 32w\"+\",\"+\"/images/images/13_64w.webp\"+\" 64w\"+\",\"+\"/images/images/13_128w.webp\"+\" 128w\"+\",\"+\"/images/images/13_256w.webp\"+\" 256w\"+\",\"+\"/images/images/13_512w.webp\"+\" 512w\"+\",\"+\"/images/images/13_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/13_32w.webp\",width: 32,height: 32},{path: \"/images/images/13_64w.webp\",width: 64,height: 64},{path: \"/images/images/13_128w.webp\",width: 128,height: 128},{path: \"/images/images/13_256w.webp\",width: 256,height: 256},{path: \"/images/images/13_512w.webp\",width: 512,height: 512},{path: \"/images/images/13_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/13_1024w.webp\",\n        toString: function(){return \"/images/images/13_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/13.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/2.png":
+/*!*****************************************!*\
+  !*** ./src/frontend/images/games/2.png ***!
+  \*****************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/2_32w.webp\"+\" 32w\"+\",\"+\"/images/images/2_64w.webp\"+\" 64w\"+\",\"+\"/images/images/2_128w.webp\"+\" 128w\"+\",\"+\"/images/images/2_256w.webp\"+\" 256w\"+\",\"+\"/images/images/2_512w.webp\"+\" 512w\"+\",\"+\"/images/images/2_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/2_32w.webp\",width: 32,height: 32},{path: \"/images/images/2_64w.webp\",width: 64,height: 64},{path: \"/images/images/2_128w.webp\",width: 128,height: 128},{path: \"/images/images/2_256w.webp\",width: 256,height: 256},{path: \"/images/images/2_512w.webp\",width: 512,height: 512},{path: \"/images/images/2_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/2_1024w.webp\",\n        toString: function(){return \"/images/images/2_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/2.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/3.png":
+/*!*****************************************!*\
+  !*** ./src/frontend/images/games/3.png ***!
+  \*****************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/3_32w.webp\"+\" 32w\"+\",\"+\"/images/images/3_64w.webp\"+\" 64w\"+\",\"+\"/images/images/3_128w.webp\"+\" 128w\"+\",\"+\"/images/images/3_256w.webp\"+\" 256w\"+\",\"+\"/images/images/3_512w.webp\"+\" 512w\"+\",\"+\"/images/images/3_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/3_32w.webp\",width: 32,height: 32},{path: \"/images/images/3_64w.webp\",width: 64,height: 64},{path: \"/images/images/3_128w.webp\",width: 128,height: 128},{path: \"/images/images/3_256w.webp\",width: 256,height: 256},{path: \"/images/images/3_512w.webp\",width: 512,height: 512},{path: \"/images/images/3_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/3_1024w.webp\",\n        toString: function(){return \"/images/images/3_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/3.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/4.png":
+/*!*****************************************!*\
+  !*** ./src/frontend/images/games/4.png ***!
+  \*****************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/4_32w.webp\"+\" 32w\"+\",\"+\"/images/images/4_64w.webp\"+\" 64w\"+\",\"+\"/images/images/4_128w.webp\"+\" 128w\"+\",\"+\"/images/images/4_256w.webp\"+\" 256w\"+\",\"+\"/images/images/4_512w.webp\"+\" 512w\"+\",\"+\"/images/images/4_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/4_32w.webp\",width: 32,height: 32},{path: \"/images/images/4_64w.webp\",width: 64,height: 64},{path: \"/images/images/4_128w.webp\",width: 128,height: 128},{path: \"/images/images/4_256w.webp\",width: 256,height: 256},{path: \"/images/images/4_512w.webp\",width: 512,height: 512},{path: \"/images/images/4_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/4_1024w.webp\",\n        toString: function(){return \"/images/images/4_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/4.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/5.png":
+/*!*****************************************!*\
+  !*** ./src/frontend/images/games/5.png ***!
+  \*****************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/5_32w.webp\"+\" 32w\"+\",\"+\"/images/images/5_64w.webp\"+\" 64w\"+\",\"+\"/images/images/5_128w.webp\"+\" 128w\"+\",\"+\"/images/images/5_256w.webp\"+\" 256w\"+\",\"+\"/images/images/5_512w.webp\"+\" 512w\"+\",\"+\"/images/images/5_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/5_32w.webp\",width: 32,height: 32},{path: \"/images/images/5_64w.webp\",width: 64,height: 64},{path: \"/images/images/5_128w.webp\",width: 128,height: 128},{path: \"/images/images/5_256w.webp\",width: 256,height: 256},{path: \"/images/images/5_512w.webp\",width: 512,height: 512},{path: \"/images/images/5_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/5_1024w.webp\",\n        toString: function(){return \"/images/images/5_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/5.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/6.png":
+/*!*****************************************!*\
+  !*** ./src/frontend/images/games/6.png ***!
+  \*****************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/6_32w.webp\"+\" 32w\"+\",\"+\"/images/images/6_64w.webp\"+\" 64w\"+\",\"+\"/images/images/6_128w.webp\"+\" 128w\"+\",\"+\"/images/images/6_256w.webp\"+\" 256w\"+\",\"+\"/images/images/6_512w.webp\"+\" 512w\"+\",\"+\"/images/images/6_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/6_32w.webp\",width: 32,height: 32},{path: \"/images/images/6_64w.webp\",width: 64,height: 64},{path: \"/images/images/6_128w.webp\",width: 128,height: 128},{path: \"/images/images/6_256w.webp\",width: 256,height: 256},{path: \"/images/images/6_512w.webp\",width: 512,height: 512},{path: \"/images/images/6_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/6_1024w.webp\",\n        toString: function(){return \"/images/images/6_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/6.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/7.png":
+/*!*****************************************!*\
+  !*** ./src/frontend/images/games/7.png ***!
+  \*****************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/7_32w.webp\"+\" 32w\"+\",\"+\"/images/images/7_64w.webp\"+\" 64w\"+\",\"+\"/images/images/7_128w.webp\"+\" 128w\"+\",\"+\"/images/images/7_256w.webp\"+\" 256w\"+\",\"+\"/images/images/7_512w.webp\"+\" 512w\"+\",\"+\"/images/images/7_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/7_32w.webp\",width: 32,height: 32},{path: \"/images/images/7_64w.webp\",width: 64,height: 64},{path: \"/images/images/7_128w.webp\",width: 128,height: 128},{path: \"/images/images/7_256w.webp\",width: 256,height: 256},{path: \"/images/images/7_512w.webp\",width: 512,height: 512},{path: \"/images/images/7_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/7_1024w.webp\",\n        toString: function(){return \"/images/images/7_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/7.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/8.png":
+/*!*****************************************!*\
+  !*** ./src/frontend/images/games/8.png ***!
+  \*****************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/8_32w.webp\"+\" 32w\"+\",\"+\"/images/images/8_64w.webp\"+\" 64w\"+\",\"+\"/images/images/8_128w.webp\"+\" 128w\"+\",\"+\"/images/images/8_256w.webp\"+\" 256w\"+\",\"+\"/images/images/8_512w.webp\"+\" 512w\"+\",\"+\"/images/images/8_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/8_32w.webp\",width: 32,height: 32},{path: \"/images/images/8_64w.webp\",width: 64,height: 64},{path: \"/images/images/8_128w.webp\",width: 128,height: 128},{path: \"/images/images/8_256w.webp\",width: 256,height: 256},{path: \"/images/images/8_512w.webp\",width: 512,height: 512},{path: \"/images/images/8_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/8_1024w.webp\",\n        toString: function(){return \"/images/images/8_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/8.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/9.png":
+/*!*****************************************!*\
+  !*** ./src/frontend/images/games/9.png ***!
+  \*****************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/9_32w.webp\"+\" 32w\"+\",\"+\"/images/images/9_64w.webp\"+\" 64w\"+\",\"+\"/images/images/9_128w.webp\"+\" 128w\"+\",\"+\"/images/images/9_256w.webp\"+\" 256w\"+\",\"+\"/images/images/9_512w.webp\"+\" 512w\"+\",\"+\"/images/images/9_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/9_32w.webp\",width: 32,height: 32},{path: \"/images/images/9_64w.webp\",width: 64,height: 64},{path: \"/images/images/9_128w.webp\",width: 128,height: 128},{path: \"/images/images/9_256w.webp\",width: 256,height: 256},{path: \"/images/images/9_512w.webp\",width: 512,height: 512},{path: \"/images/images/9_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/9_1024w.webp\",\n        toString: function(){return \"/images/images/9_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/9.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/games/999.png":
+/*!*******************************************!*\
+  !*** ./src/frontend/images/games/999.png ***!
+  \*******************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/999_32w.webp\"+\" 32w\"+\",\"+\"/images/images/999_64w.webp\"+\" 64w\"+\",\"+\"/images/images/999_128w.webp\"+\" 128w\"+\",\"+\"/images/images/999_256w.webp\"+\" 256w\"+\",\"+\"/images/images/999_512w.webp\"+\" 512w\"+\",\"+\"/images/images/999_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/999_32w.webp\",width: 32,height: 32},{path: \"/images/images/999_64w.webp\",width: 64,height: 64},{path: \"/images/images/999_128w.webp\",width: 128,height: 128},{path: \"/images/images/999_256w.webp\",width: 256,height: 256},{path: \"/images/images/999_512w.webp\",width: 512,height: 512},{path: \"/images/images/999_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/999_1024w.webp\",\n        toString: function(){return \"/images/images/999_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/games/999.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_1_answer_1.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_1_answer_1.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_1_answer_1_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_1_answer_1_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_1_answer_1_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_1_answer_1_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/genshin_1_answer_1_32w.webp\",width: 32,height: 32},{path: \"/images/images/genshin_1_answer_1_64w.webp\",width: 64,height: 64},{path: \"/images/images/genshin_1_answer_1_128w.webp\",width: 128,height: 128},{path: \"/images/images/genshin_1_answer_1_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/genshin_1_answer_1_256w.webp\",\n        toString: function(){return \"/images/images/genshin_1_answer_1_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_1_answer_1.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_1_answer_2.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_1_answer_2.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_1_answer_2_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_1_answer_2_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_1_answer_2_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_1_answer_2_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/genshin_1_answer_2_32w.webp\",width: 32,height: 32},{path: \"/images/images/genshin_1_answer_2_64w.webp\",width: 64,height: 64},{path: \"/images/images/genshin_1_answer_2_128w.webp\",width: 128,height: 128},{path: \"/images/images/genshin_1_answer_2_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/genshin_1_answer_2_256w.webp\",\n        toString: function(){return \"/images/images/genshin_1_answer_2_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_1_answer_2.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_1_answer_3.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_1_answer_3.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_1_answer_3_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_1_answer_3_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_1_answer_3_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_1_answer_3_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/genshin_1_answer_3_32w.webp\",width: 32,height: 32},{path: \"/images/images/genshin_1_answer_3_64w.webp\",width: 64,height: 64},{path: \"/images/images/genshin_1_answer_3_128w.webp\",width: 128,height: 128},{path: \"/images/images/genshin_1_answer_3_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/genshin_1_answer_3_256w.webp\",\n        toString: function(){return \"/images/images/genshin_1_answer_3_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_1_answer_3.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_1_answer_4.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_1_answer_4.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_1_answer_4_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_1_answer_4_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_1_answer_4_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_1_answer_4_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/genshin_1_answer_4_32w.webp\",width: 32,height: 32},{path: \"/images/images/genshin_1_answer_4_64w.webp\",width: 64,height: 64},{path: \"/images/images/genshin_1_answer_4_128w.webp\",width: 128,height: 128},{path: \"/images/images/genshin_1_answer_4_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/genshin_1_answer_4_256w.webp\",\n        toString: function(){return \"/images/images/genshin_1_answer_4_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_1_answer_4.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_1_question.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_1_question.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_1_question_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_1_question_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_1_question_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_1_question_256w.webp\"+\" 256w\"+\",\"+\"/images/images/genshin_1_question_512w.webp\"+\" 512w\"+\",\"+\"/images/images/genshin_1_question_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/genshin_1_question_32w.webp\",width: 32,height: 11},{path: \"/images/images/genshin_1_question_64w.webp\",width: 64,height: 23},{path: \"/images/images/genshin_1_question_128w.webp\",width: 128,height: 46},{path: \"/images/images/genshin_1_question_256w.webp\",width: 256,height: 92},{path: \"/images/images/genshin_1_question_512w.webp\",width: 512,height: 185},{path: \"/images/images/genshin_1_question_1024w.webp\",width: 1024,height: 369}],\n        src: \"/images/images/genshin_1_question_1024w.webp\",\n        toString: function(){return \"/images/images/genshin_1_question_1024w.webp\"},\n        \n        width: 1024,\n        height: 369\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_1_question.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_2_answer_1.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_2_answer_1.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_2_answer_1_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_2_answer_1_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_2_answer_1_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_2_answer_1_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/genshin_2_answer_1_32w.webp\",width: 32,height: 32},{path: \"/images/images/genshin_2_answer_1_64w.webp\",width: 64,height: 64},{path: \"/images/images/genshin_2_answer_1_128w.webp\",width: 128,height: 128},{path: \"/images/images/genshin_2_answer_1_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/genshin_2_answer_1_256w.webp\",\n        toString: function(){return \"/images/images/genshin_2_answer_1_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_2_answer_1.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_2_answer_2.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_2_answer_2.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_2_answer_2_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_2_answer_2_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_2_answer_2_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_2_answer_2_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/genshin_2_answer_2_32w.webp\",width: 32,height: 32},{path: \"/images/images/genshin_2_answer_2_64w.webp\",width: 64,height: 64},{path: \"/images/images/genshin_2_answer_2_128w.webp\",width: 128,height: 128},{path: \"/images/images/genshin_2_answer_2_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/genshin_2_answer_2_256w.webp\",\n        toString: function(){return \"/images/images/genshin_2_answer_2_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_2_answer_2.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_2_answer_3.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_2_answer_3.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_2_answer_3_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_2_answer_3_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_2_answer_3_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_2_answer_3_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/genshin_2_answer_3_32w.webp\",width: 32,height: 32},{path: \"/images/images/genshin_2_answer_3_64w.webp\",width: 64,height: 64},{path: \"/images/images/genshin_2_answer_3_128w.webp\",width: 128,height: 128},{path: \"/images/images/genshin_2_answer_3_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/genshin_2_answer_3_256w.webp\",\n        toString: function(){return \"/images/images/genshin_2_answer_3_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_2_answer_3.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_2_answer_4.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_2_answer_4.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_2_answer_4_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_2_answer_4_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_2_answer_4_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_2_answer_4_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/genshin_2_answer_4_32w.webp\",width: 32,height: 32},{path: \"/images/images/genshin_2_answer_4_64w.webp\",width: 64,height: 64},{path: \"/images/images/genshin_2_answer_4_128w.webp\",width: 128,height: 128},{path: \"/images/images/genshin_2_answer_4_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/genshin_2_answer_4_256w.webp\",\n        toString: function(){return \"/images/images/genshin_2_answer_4_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_2_answer_4.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_2_question.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_2_question.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_2_question_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_2_question_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_2_question_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_2_question_256w.webp\"+\" 256w\"+\",\"+\"/images/images/genshin_2_question_512w.webp\"+\" 512w\"+\",\"+\"/images/images/genshin_2_question_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/genshin_2_question_32w.webp\",width: 32,height: 11},{path: \"/images/images/genshin_2_question_64w.webp\",width: 64,height: 23},{path: \"/images/images/genshin_2_question_128w.webp\",width: 128,height: 46},{path: \"/images/images/genshin_2_question_256w.webp\",width: 256,height: 92},{path: \"/images/images/genshin_2_question_512w.webp\",width: 512,height: 185},{path: \"/images/images/genshin_2_question_1024w.webp\",width: 1024,height: 369}],\n        src: \"/images/images/genshin_2_question_1024w.webp\",\n        toString: function(){return \"/images/images/genshin_2_question_1024w.webp\"},\n        \n        width: 1024,\n        height: 369\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_2_question.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_3_answer_1.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_3_answer_1.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_3_answer_1_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_3_answer_1_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_3_answer_1_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_3_answer_1_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/genshin_3_answer_1_32w.webp\",width: 32,height: 32},{path: \"/images/images/genshin_3_answer_1_64w.webp\",width: 64,height: 64},{path: \"/images/images/genshin_3_answer_1_128w.webp\",width: 128,height: 128},{path: \"/images/images/genshin_3_answer_1_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/genshin_3_answer_1_256w.webp\",\n        toString: function(){return \"/images/images/genshin_3_answer_1_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_3_answer_1.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_3_answer_2.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_3_answer_2.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_3_answer_2_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_3_answer_2_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_3_answer_2_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_3_answer_2_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/genshin_3_answer_2_32w.webp\",width: 32,height: 32},{path: \"/images/images/genshin_3_answer_2_64w.webp\",width: 64,height: 64},{path: \"/images/images/genshin_3_answer_2_128w.webp\",width: 128,height: 128},{path: \"/images/images/genshin_3_answer_2_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/genshin_3_answer_2_256w.webp\",\n        toString: function(){return \"/images/images/genshin_3_answer_2_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_3_answer_2.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_3_answer_3.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_3_answer_3.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_3_answer_3_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_3_answer_3_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_3_answer_3_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_3_answer_3_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/genshin_3_answer_3_32w.webp\",width: 32,height: 32},{path: \"/images/images/genshin_3_answer_3_64w.webp\",width: 64,height: 64},{path: \"/images/images/genshin_3_answer_3_128w.webp\",width: 128,height: 128},{path: \"/images/images/genshin_3_answer_3_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/genshin_3_answer_3_256w.webp\",\n        toString: function(){return \"/images/images/genshin_3_answer_3_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_3_answer_3.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_3_answer_4.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_3_answer_4.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_3_answer_4_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_3_answer_4_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_3_answer_4_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_3_answer_4_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/genshin_3_answer_4_32w.webp\",width: 32,height: 32},{path: \"/images/images/genshin_3_answer_4_64w.webp\",width: 64,height: 64},{path: \"/images/images/genshin_3_answer_4_128w.webp\",width: 128,height: 128},{path: \"/images/images/genshin_3_answer_4_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/genshin_3_answer_4_256w.webp\",\n        toString: function(){return \"/images/images/genshin_3_answer_4_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_3_answer_4.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_3_question.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_3_question.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_3_question_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_3_question_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_3_question_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_3_question_256w.webp\"+\" 256w\"+\",\"+\"/images/images/genshin_3_question_512w.webp\"+\" 512w\"+\",\"+\"/images/images/genshin_3_question_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/genshin_3_question_32w.webp\",width: 32,height: 11},{path: \"/images/images/genshin_3_question_64w.webp\",width: 64,height: 23},{path: \"/images/images/genshin_3_question_128w.webp\",width: 128,height: 46},{path: \"/images/images/genshin_3_question_256w.webp\",width: 256,height: 92},{path: \"/images/images/genshin_3_question_512w.webp\",width: 512,height: 185},{path: \"/images/images/genshin_3_question_1024w.webp\",width: 1024,height: 369}],\n        src: \"/images/images/genshin_3_question_1024w.webp\",\n        toString: function(){return \"/images/images/genshin_3_question_1024w.webp\"},\n        \n        width: 1024,\n        height: 369\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_3_question.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_4_answer_1.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_4_answer_1.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_4_answer_1_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_4_answer_1_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_4_answer_1_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_4_answer_1_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/genshin_4_answer_1_32w.webp\",width: 32,height: 32},{path: \"/images/images/genshin_4_answer_1_64w.webp\",width: 64,height: 64},{path: \"/images/images/genshin_4_answer_1_128w.webp\",width: 128,height: 128},{path: \"/images/images/genshin_4_answer_1_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/genshin_4_answer_1_256w.webp\",\n        toString: function(){return \"/images/images/genshin_4_answer_1_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_4_answer_1.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_4_answer_2.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_4_answer_2.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_4_answer_2_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_4_answer_2_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_4_answer_2_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_4_answer_2_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/genshin_4_answer_2_32w.webp\",width: 32,height: 32},{path: \"/images/images/genshin_4_answer_2_64w.webp\",width: 64,height: 64},{path: \"/images/images/genshin_4_answer_2_128w.webp\",width: 128,height: 128},{path: \"/images/images/genshin_4_answer_2_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/genshin_4_answer_2_256w.webp\",\n        toString: function(){return \"/images/images/genshin_4_answer_2_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_4_answer_2.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_4_answer_3.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_4_answer_3.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_4_answer_3_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_4_answer_3_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_4_answer_3_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_4_answer_3_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/genshin_4_answer_3_32w.webp\",width: 32,height: 32},{path: \"/images/images/genshin_4_answer_3_64w.webp\",width: 64,height: 64},{path: \"/images/images/genshin_4_answer_3_128w.webp\",width: 128,height: 128},{path: \"/images/images/genshin_4_answer_3_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/genshin_4_answer_3_256w.webp\",\n        toString: function(){return \"/images/images/genshin_4_answer_3_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_4_answer_3.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_4_answer_4.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_4_answer_4.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_4_answer_4_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_4_answer_4_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_4_answer_4_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_4_answer_4_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/genshin_4_answer_4_32w.webp\",width: 32,height: 32},{path: \"/images/images/genshin_4_answer_4_64w.webp\",width: 64,height: 64},{path: \"/images/images/genshin_4_answer_4_128w.webp\",width: 128,height: 128},{path: \"/images/images/genshin_4_answer_4_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/genshin_4_answer_4_256w.webp\",\n        toString: function(){return \"/images/images/genshin_4_answer_4_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_4_answer_4.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/genshin_4_question.jpg":
+/*!***********************************************************!*\
+  !*** ./src/frontend/images/guessr/genshin_4_question.jpg ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/genshin_4_question_32w.webp\"+\" 32w\"+\",\"+\"/images/images/genshin_4_question_64w.webp\"+\" 64w\"+\",\"+\"/images/images/genshin_4_question_128w.webp\"+\" 128w\"+\",\"+\"/images/images/genshin_4_question_256w.webp\"+\" 256w\"+\",\"+\"/images/images/genshin_4_question_512w.webp\"+\" 512w\"+\",\"+\"/images/images/genshin_4_question_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/genshin_4_question_32w.webp\",width: 32,height: 11},{path: \"/images/images/genshin_4_question_64w.webp\",width: 64,height: 23},{path: \"/images/images/genshin_4_question_128w.webp\",width: 128,height: 46},{path: \"/images/images/genshin_4_question_256w.webp\",width: 256,height: 92},{path: \"/images/images/genshin_4_question_512w.webp\",width: 512,height: 185},{path: \"/images/images/genshin_4_question_1024w.webp\",width: 1024,height: 369}],\n        src: \"/images/images/genshin_4_question_1024w.webp\",\n        toString: function(){return \"/images/images/genshin_4_question_1024w.webp\"},\n        \n        width: 1024,\n        height: 369\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/genshin_4_question.jpg?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/gta5_1_loc.png":
+/*!***************************************************!*\
+  !*** ./src/frontend/images/guessr/gta5_1_loc.png ***!
+  \***************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/gta5_1_loc_32w.webp\"+\" 32w\"+\",\"+\"/images/images/gta5_1_loc_64w.webp\"+\" 64w\"+\",\"+\"/images/images/gta5_1_loc_128w.webp\"+\" 128w\"+\",\"+\"/images/images/gta5_1_loc_256w.webp\"+\" 256w\"+\",\"+\"/images/images/gta5_1_loc_512w.webp\"+\" 512w\"+\",\"+\"/images/images/gta5_1_loc_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/gta5_1_loc_32w.webp\",width: 32,height: 12},{path: \"/images/images/gta5_1_loc_64w.webp\",width: 64,height: 23},{path: \"/images/images/gta5_1_loc_128w.webp\",width: 128,height: 46},{path: \"/images/images/gta5_1_loc_256w.webp\",width: 256,height: 92},{path: \"/images/images/gta5_1_loc_512w.webp\",width: 512,height: 185},{path: \"/images/images/gta5_1_loc_1024w.webp\",width: 1024,height: 369}],\n        src: \"/images/images/gta5_1_loc_1024w.webp\",\n        toString: function(){return \"/images/images/gta5_1_loc_1024w.webp\"},\n        \n        width: 1024,\n        height: 369\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/gta5_1_loc.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/gta5_1_loc_1.png":
+/*!*****************************************************!*\
+  !*** ./src/frontend/images/guessr/gta5_1_loc_1.png ***!
+  \*****************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/gta5_1_loc_1_32w.webp\"+\" 32w\"+\",\"+\"/images/images/gta5_1_loc_1_64w.webp\"+\" 64w\"+\",\"+\"/images/images/gta5_1_loc_1_128w.webp\"+\" 128w\"+\",\"+\"/images/images/gta5_1_loc_1_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/gta5_1_loc_1_32w.webp\",width: 32,height: 32},{path: \"/images/images/gta5_1_loc_1_64w.webp\",width: 64,height: 64},{path: \"/images/images/gta5_1_loc_1_128w.webp\",width: 128,height: 128},{path: \"/images/images/gta5_1_loc_1_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/gta5_1_loc_1_256w.webp\",\n        toString: function(){return \"/images/images/gta5_1_loc_1_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/gta5_1_loc_1.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/gta5_1_loc_2.png":
+/*!*****************************************************!*\
+  !*** ./src/frontend/images/guessr/gta5_1_loc_2.png ***!
+  \*****************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/gta5_1_loc_2_32w.webp\"+\" 32w\"+\",\"+\"/images/images/gta5_1_loc_2_64w.webp\"+\" 64w\"+\",\"+\"/images/images/gta5_1_loc_2_128w.webp\"+\" 128w\"+\",\"+\"/images/images/gta5_1_loc_2_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/gta5_1_loc_2_32w.webp\",width: 32,height: 32},{path: \"/images/images/gta5_1_loc_2_64w.webp\",width: 64,height: 64},{path: \"/images/images/gta5_1_loc_2_128w.webp\",width: 128,height: 128},{path: \"/images/images/gta5_1_loc_2_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/gta5_1_loc_2_256w.webp\",\n        toString: function(){return \"/images/images/gta5_1_loc_2_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/gta5_1_loc_2.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/gta5_1_loc_3.png":
+/*!*****************************************************!*\
+  !*** ./src/frontend/images/guessr/gta5_1_loc_3.png ***!
+  \*****************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/gta5_1_loc_3_32w.webp\"+\" 32w\"+\",\"+\"/images/images/gta5_1_loc_3_64w.webp\"+\" 64w\"+\",\"+\"/images/images/gta5_1_loc_3_128w.webp\"+\" 128w\"+\",\"+\"/images/images/gta5_1_loc_3_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/gta5_1_loc_3_32w.webp\",width: 32,height: 32},{path: \"/images/images/gta5_1_loc_3_64w.webp\",width: 64,height: 64},{path: \"/images/images/gta5_1_loc_3_128w.webp\",width: 128,height: 128},{path: \"/images/images/gta5_1_loc_3_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/gta5_1_loc_3_256w.webp\",\n        toString: function(){return \"/images/images/gta5_1_loc_3_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/gta5_1_loc_3.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/gta5_1_loc_4.png":
+/*!*****************************************************!*\
+  !*** ./src/frontend/images/guessr/gta5_1_loc_4.png ***!
+  \*****************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/gta5_1_loc_4_32w.webp\"+\" 32w\"+\",\"+\"/images/images/gta5_1_loc_4_64w.webp\"+\" 64w\"+\",\"+\"/images/images/gta5_1_loc_4_128w.webp\"+\" 128w\"+\",\"+\"/images/images/gta5_1_loc_4_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/gta5_1_loc_4_32w.webp\",width: 32,height: 32},{path: \"/images/images/gta5_1_loc_4_64w.webp\",width: 64,height: 64},{path: \"/images/images/gta5_1_loc_4_128w.webp\",width: 128,height: 128},{path: \"/images/images/gta5_1_loc_4_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/gta5_1_loc_4_256w.webp\",\n        toString: function(){return \"/images/images/gta5_1_loc_4_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/gta5_1_loc_4.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/gta5_2_loc.png":
+/*!***************************************************!*\
+  !*** ./src/frontend/images/guessr/gta5_2_loc.png ***!
+  \***************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/gta5_2_loc_32w.webp\"+\" 32w\"+\",\"+\"/images/images/gta5_2_loc_64w.webp\"+\" 64w\"+\",\"+\"/images/images/gta5_2_loc_128w.webp\"+\" 128w\"+\",\"+\"/images/images/gta5_2_loc_256w.webp\"+\" 256w\"+\",\"+\"/images/images/gta5_2_loc_512w.webp\"+\" 512w\"+\",\"+\"/images/images/gta5_2_loc_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/gta5_2_loc_32w.webp\",width: 32,height: 12},{path: \"/images/images/gta5_2_loc_64w.webp\",width: 64,height: 23},{path: \"/images/images/gta5_2_loc_128w.webp\",width: 128,height: 46},{path: \"/images/images/gta5_2_loc_256w.webp\",width: 256,height: 92},{path: \"/images/images/gta5_2_loc_512w.webp\",width: 512,height: 185},{path: \"/images/images/gta5_2_loc_1024w.webp\",width: 1024,height: 369}],\n        src: \"/images/images/gta5_2_loc_1024w.webp\",\n        toString: function(){return \"/images/images/gta5_2_loc_1024w.webp\"},\n        \n        width: 1024,\n        height: 369\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/gta5_2_loc.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/gta5_2_loc_1.png":
+/*!*****************************************************!*\
+  !*** ./src/frontend/images/guessr/gta5_2_loc_1.png ***!
+  \*****************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/gta5_2_loc_1_32w.webp\"+\" 32w\"+\",\"+\"/images/images/gta5_2_loc_1_64w.webp\"+\" 64w\"+\",\"+\"/images/images/gta5_2_loc_1_128w.webp\"+\" 128w\"+\",\"+\"/images/images/gta5_2_loc_1_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/gta5_2_loc_1_32w.webp\",width: 32,height: 32},{path: \"/images/images/gta5_2_loc_1_64w.webp\",width: 64,height: 64},{path: \"/images/images/gta5_2_loc_1_128w.webp\",width: 128,height: 128},{path: \"/images/images/gta5_2_loc_1_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/gta5_2_loc_1_256w.webp\",\n        toString: function(){return \"/images/images/gta5_2_loc_1_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/gta5_2_loc_1.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/gta5_2_loc_2.png":
+/*!*****************************************************!*\
+  !*** ./src/frontend/images/guessr/gta5_2_loc_2.png ***!
+  \*****************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/gta5_2_loc_2_32w.webp\"+\" 32w\"+\",\"+\"/images/images/gta5_2_loc_2_64w.webp\"+\" 64w\"+\",\"+\"/images/images/gta5_2_loc_2_128w.webp\"+\" 128w\"+\",\"+\"/images/images/gta5_2_loc_2_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/gta5_2_loc_2_32w.webp\",width: 32,height: 32},{path: \"/images/images/gta5_2_loc_2_64w.webp\",width: 64,height: 64},{path: \"/images/images/gta5_2_loc_2_128w.webp\",width: 128,height: 128},{path: \"/images/images/gta5_2_loc_2_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/gta5_2_loc_2_256w.webp\",\n        toString: function(){return \"/images/images/gta5_2_loc_2_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/gta5_2_loc_2.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/gta5_2_loc_3.png":
+/*!*****************************************************!*\
+  !*** ./src/frontend/images/guessr/gta5_2_loc_3.png ***!
+  \*****************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/gta5_2_loc_3_32w.webp\"+\" 32w\"+\",\"+\"/images/images/gta5_2_loc_3_64w.webp\"+\" 64w\"+\",\"+\"/images/images/gta5_2_loc_3_128w.webp\"+\" 128w\"+\",\"+\"/images/images/gta5_2_loc_3_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/gta5_2_loc_3_32w.webp\",width: 32,height: 32},{path: \"/images/images/gta5_2_loc_3_64w.webp\",width: 64,height: 64},{path: \"/images/images/gta5_2_loc_3_128w.webp\",width: 128,height: 128},{path: \"/images/images/gta5_2_loc_3_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/gta5_2_loc_3_256w.webp\",\n        toString: function(){return \"/images/images/gta5_2_loc_3_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/gta5_2_loc_3.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/gta5_2_loc_4.png":
+/*!*****************************************************!*\
+  !*** ./src/frontend/images/guessr/gta5_2_loc_4.png ***!
+  \*****************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/gta5_2_loc_4_32w.webp\"+\" 32w\"+\",\"+\"/images/images/gta5_2_loc_4_64w.webp\"+\" 64w\"+\",\"+\"/images/images/gta5_2_loc_4_128w.webp\"+\" 128w\"+\",\"+\"/images/images/gta5_2_loc_4_256w.webp\"+\" 256w\",\n        images: [{path: \"/images/images/gta5_2_loc_4_32w.webp\",width: 32,height: 32},{path: \"/images/images/gta5_2_loc_4_64w.webp\",width: 64,height: 64},{path: \"/images/images/gta5_2_loc_4_128w.webp\",width: 128,height: 128},{path: \"/images/images/gta5_2_loc_4_256w.webp\",width: 256,height: 256}],\n        src: \"/images/images/gta5_2_loc_4_256w.webp\",\n        toString: function(){return \"/images/images/gta5_2_loc_4_256w.webp\"},\n        \n        width: 256,\n        height: 256\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/gta5_2_loc_4.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/guessr/test.png":
+/*!*********************************************!*\
+  !*** ./src/frontend/images/guessr/test.png ***!
+  \*********************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/test_32w.webp\"+\" 32w\"+\",\"+\"/images/images/test_64w.webp\"+\" 64w\"+\",\"+\"/images/images/test_128w.webp\"+\" 128w\"+\",\"+\"/images/images/test_256w.webp\"+\" 256w\"+\",\"+\"/images/images/test_512w.webp\"+\" 512w\"+\",\"+\"/images/images/test_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/test_32w.webp\",width: 32,height: 32},{path: \"/images/images/test_64w.webp\",width: 64,height: 64},{path: \"/images/images/test_128w.webp\",width: 128,height: 128},{path: \"/images/images/test_256w.webp\",width: 256,height: 256},{path: \"/images/images/test_512w.webp\",width: 512,height: 512},{path: \"/images/images/test_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/test_1024w.webp\",\n        toString: function(){return \"/images/images/test_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/guessr/test.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/liarsBar/tableLogo.png":
+/*!****************************************************!*\
+  !*** ./src/frontend/images/liarsBar/tableLogo.png ***!
+  \****************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/tableLogo_32w.webp\"+\" 32w\"+\",\"+\"/images/images/tableLogo_64w.webp\"+\" 64w\"+\",\"+\"/images/images/tableLogo_128w.webp\"+\" 128w\"+\",\"+\"/images/images/tableLogo_256w.webp\"+\" 256w\"+\",\"+\"/images/images/tableLogo_512w.webp\"+\" 512w\"+\",\"+\"/images/images/tableLogo_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/tableLogo_32w.webp\",width: 32,height: 32},{path: \"/images/images/tableLogo_64w.webp\",width: 64,height: 64},{path: \"/images/images/tableLogo_128w.webp\",width: 128,height: 128},{path: \"/images/images/tableLogo_256w.webp\",width: 256,height: 256},{path: \"/images/images/tableLogo_512w.webp\",width: 512,height: 512},{path: \"/images/images/tableLogo_1024w.webp\",width: 1024,height: 1024}],\n        src: \"/images/images/tableLogo_1024w.webp\",\n        toString: function(){return \"/images/images/tableLogo_1024w.webp\"},\n        \n        width: 1024,\n        height: 1024\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/liarsBar/tableLogo.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/images/uno/cards/empty.png":
+/*!*************************************************!*\
+  !*** ./src/frontend/images/uno/cards/empty.png ***!
+  \*************************************************/
+/***/ ((module) => {
+
+eval("module.exports = {\n        srcSet: \"/images/images/empty_32w.webp\"+\" 32w\"+\",\"+\"/images/images/empty_64w.webp\"+\" 64w\"+\",\"+\"/images/images/empty_128w.webp\"+\" 128w\"+\",\"+\"/images/images/empty_256w.webp\"+\" 256w\"+\",\"+\"/images/images/empty_512w.webp\"+\" 512w\"+\",\"+\"/images/images/empty_1024w.webp\"+\" 1024w\",\n        images: [{path: \"/images/images/empty_32w.webp\",width: 32,height: 48},{path: \"/images/images/empty_64w.webp\",width: 64,height: 96},{path: \"/images/images/empty_128w.webp\",width: 128,height: 192},{path: \"/images/images/empty_256w.webp\",width: 256,height: 384},{path: \"/images/images/empty_512w.webp\",width: 512,height: 768},{path: \"/images/images/empty_1024w.webp\",width: 1024,height: 1537}],\n        src: \"/images/images/empty_1024w.webp\",\n        toString: function(){return \"/images/images/empty_1024w.webp\"},\n        \n        width: 1024,\n        height: 1537\n      }\n\n//# sourceURL=webpack:///./src/frontend/images/uno/cards/empty.png?");
+
+/***/ }),
+
+/***/ "./src/frontend/App.tsx":
+/*!******************************!*\
+  !*** ./src/frontend/App.tsx ***!
+  \******************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   App: () => (/* binding */ App)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/CustomProvider/index.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Container/index.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Content/index.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Footer/index.js\");\n/* harmony import */ var _controllers_language__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./controllers/language */ \"./src/frontend/controllers/language.ts\");\n/* harmony import */ var _controllers_twitch__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./controllers/twitch */ \"./src/frontend/controllers/twitch.ts\");\n/* harmony import */ var _controllers_state__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./controllers/state */ \"./src/frontend/controllers/state.ts\");\n/* harmony import */ var _controllers_localstorage__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./controllers/localstorage */ \"./src/frontend/controllers/localstorage.ts\");\n/* harmony import */ var _shared_system__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../shared/system */ \"./src/shared/system.ts\");\n/* harmony import */ var _pages_components_notify__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./pages/components/notify */ \"./src/frontend/pages/components/notify.tsx\");\n/* harmony import */ var _ebay_nice_modal_react__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @ebay/nice-modal-react */ \"./node_modules/@ebay/nice-modal-react/lib/esm/index.js\");\n/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./api */ \"./src/frontend/api.tsx\");\n/* harmony import */ var _controllers_socket__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./controllers/socket */ \"./src/frontend/controllers/socket.ts\");\n/* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! axios */ \"./node_modules/axios/lib/axios.js\");\n/* harmony import */ var _modules_appState__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./modules/appState */ \"./src/frontend/modules/appState.ts\");\n/* harmony import */ var _modules_GameRouter__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./modules/GameRouter */ \"./src/frontend/modules/GameRouter.tsx\");\n/* harmony import */ var _modules_AppNavbar__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./modules/AppNavbar */ \"./src/frontend/modules/AppNavbar.tsx\");\n/* harmony import */ var _modules_modals_userProfileModal__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./modules/modals/userProfileModal */ \"./src/frontend/modules/modals/userProfileModal.tsx\");\n/* harmony import */ var _modules_modals_onlinePlayersModal__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./modules/modals/onlinePlayersModal */ \"./src/frontend/modules/modals/onlinePlayersModal.tsx\");\n/* harmony import */ var _modules_modals_leaderboardModal__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./modules/modals/leaderboardModal */ \"./src/frontend/modules/modals/leaderboardModal.tsx\");\n/* harmony import */ var _modules_modals_settingsModal__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./modules/modals/settingsModal */ \"./src/frontend/modules/modals/settingsModal.tsx\");\n/* harmony import */ var _modules_messagesPanel__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./modules/messagesPanel */ \"./src/frontend/modules/messagesPanel.tsx\");\n/* harmony import */ var _controllers_prerender__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./controllers/prerender */ \"./src/frontend/controllers/prerender.ts\");\nvar __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {\n    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }\n    return new (P || (P = Promise))(function (resolve, reject) {\n        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }\n        function rejected(value) { try { step(generator[\"throw\"](value)); } catch (e) { reject(e); } }\n        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }\n        step((generator = generator.apply(thisArg, _arguments || [])).next());\n    });\n};\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nclass App extends (react__WEBPACK_IMPORTED_MODULE_1___default().Component) {\n    constructor(props) {\n        super(props);\n        this._lastActivity = Date.now();\n        this.OnUserActivity = () => {\n            this._lastActivity = Date.now();\n        };\n        this.SetAvatarFallback = (e) => {\n            e.currentTarget.onerror = null;\n            e.currentTarget.src = './logo.png';\n        };\n        this.CheckVersion = () => {\n            if (_api__WEBPACK_IMPORTED_MODULE_9__.Api.needReload)\n                return;\n            axios__WEBPACK_IMPORTED_MODULE_20__[\"default\"].get('/version.txt').then(res => {\n                const version = res.data;\n                if (version !== this.state.version) {\n                    if (!this.state.version) {\n                        this.setState({ version: version });\n                    }\n                    else {\n                        console.log(`Version: ${version} !== ${this.state.version}, reload app`);\n                        _api__WEBPACK_IMPORTED_MODULE_9__.Api.needReload = true;\n                    }\n                }\n            });\n        };\n        this.interval = setInterval(() => {\n            if (this.state.randomGame) {\n                this.setState({ afkTimer: this.state.afkTimer + 1 });\n            }\n        }, 1000);\n        this.state = Object.assign({}, _modules_appState__WEBPACK_IMPORTED_MODULE_11__.AppState);\n        this.ReadRouteData = () => {\n            const url = new URL(window.location.href);\n            const parts = url.pathname.split('/').filter(Boolean);\n            const hasPathGame = parts[0] === 'games';\n            const gameId = (hasPathGame ? parts[1] : url.searchParams.get('game'));\n            const roomId = hasPathGame\n                ? parts[2]\n                    ? decodeURIComponent(parts[2])\n                    : undefined\n                : url.searchParams.get('roomid') || undefined;\n            const password = hasPathGame\n                ? parts[3]\n                    ? decodeURIComponent(parts[3])\n                    : undefined\n                : url.searchParams.get('password') || undefined;\n            const afk = url.searchParams.get('afk') === '1';\n            return {\n                gameId,\n                roomId,\n                password,\n                afk,\n            };\n        };\n        this.BuildGamePath = (gameId, roomId, password) => {\n            if (!gameId)\n                return '/';\n            const path = ['/games', encodeURIComponent(gameId)];\n            if (roomId) {\n                path.push(encodeURIComponent(roomId));\n                if (password) {\n                    path.push(encodeURIComponent(password));\n                }\n            }\n            return path.join('/');\n        };\n        this.ReplaceGameRoute = (opts) => {\n            const url = new URL(window.location.href);\n            url.pathname = this.BuildGamePath(opts.gameId, opts.roomId, opts.password);\n            url.searchParams.delete('game');\n            url.searchParams.delete('roomid');\n            url.searchParams.delete('password');\n            if (opts.afk && opts.gameId) {\n                url.searchParams.set('afk', '1');\n            }\n            else {\n                url.searchParams.delete('afk');\n            }\n            window.history.replaceState({}, '', url);\n        };\n        this.CloseSettings = () => {\n            this.setState({ settings: false });\n        };\n        this.HandlePlay = (gameId, syncRoute = true) => {\n            if (!this.token)\n                return;\n            if (this.state.randomGame)\n                return;\n            this.setState({ currentGame: gameId, showPlayersPage: false });\n            if (syncRoute) {\n                this.ReplaceGameRoute({ gameId });\n            }\n            _api__WEBPACK_IMPORTED_MODULE_9__.Api.currentGame = gameId;\n        };\n        this.SwitchRandomGame = (gameQuery) => {\n            if (!this.state.randomGame)\n                return;\n            const randomGames = _controllers_state__WEBPACK_IMPORTED_MODULE_4__.Store.getAfkGames();\n            const currentGame = this.state.currentGame;\n            console.log('----------------');\n            console.log(randomGames.join(' | '));\n            console.log('Current', currentGame);\n            let game = gameQuery\n                ? gameQuery\n                : _shared_system__WEBPACK_IMPORTED_MODULE_6__.System.randomElement(_shared_system__WEBPACK_IMPORTED_MODULE_6__.System.shuffleArray(randomGames).filter(q => q !== currentGame));\n            if (!game)\n                game = _shared_system__WEBPACK_IMPORTED_MODULE_6__.System.randomElement(randomGames);\n            this.setState({ currentGame: game });\n            this.ReplaceGameRoute({ gameId: game, afk: true });\n            _api__WEBPACK_IMPORTED_MODULE_9__.Api.currentGame = game;\n            console.log('SwitchRandomGame', game);\n            console.log('----------------');\n        };\n        this.BeforeRunNewGame = () => {\n            console.log('----');\n            console.log('BeforeRunNewGame', this.state.randomGame);\n            console.log('Current', this.state.currentGamePlayed);\n            console.log('Max', _controllers_state__WEBPACK_IMPORTED_MODULE_4__.Store.getAfkGamesChange());\n            console.log('----');\n            if (!this.state.randomGame)\n                return true;\n            if (_controllers_state__WEBPACK_IMPORTED_MODULE_4__.Store.getAfkGames().includes(this.state.currentGame)) {\n                if (this.state.currentGamePlayed < _controllers_state__WEBPACK_IMPORTED_MODULE_4__.Store.getAfkGamesChange()) {\n                    this.setState({ currentGamePlayed: this.state.currentGamePlayed + 1 });\n                    return true;\n                }\n            }\n            this.setState({ currentGamePlayed: 0 });\n            this.SwitchRandomGame();\n            return false;\n        };\n        this.ReloadOnlinePlayers = (open = false) => {\n            _api__WEBPACK_IMPORTED_MODULE_9__.Api.Get('/online').then(res => {\n                if (res.status && res.data) {\n                    if (open) {\n                        this.setState({ onlinPlayersList: res.data, onlinPlayersShow: true });\n                    }\n                    else {\n                        this.setState({ onlinPlayersList: res.data });\n                    }\n                }\n            });\n        };\n        this.LoadUserProfile = id => {\n            if (!id)\n                return;\n            _api__WEBPACK_IMPORTED_MODULE_9__.Api.Get('/api/userinfo', { id }).then(res => {\n                if (res.status && res.data) {\n                    this.setState({ showUserCardData: res.data });\n                    if (res.data.id === _api__WEBPACK_IMPORTED_MODULE_9__.Api.user_id) {\n                        _api__WEBPACK_IMPORTED_MODULE_9__.Api.Post('/api/friends/outgoing', {}).then(out => {\n                            if (out.status && out.data) {\n                                this.setState({ outgoingRequests: out.data });\n                            }\n                            else {\n                                this.setState({ outgoingRequests: [] });\n                            }\n                        });\n                    }\n                    else {\n                        this.setState({ outgoingRequests: [] });\n                    }\n                }\n            });\n        };\n        this.LoadMessageChats = () => __awaiter(this, void 0, void 0, function* () {\n            const res = yield _api__WEBPACK_IMPORTED_MODULE_9__.Api.Get('/api/messages/chats');\n            if (!res.status || !res.data)\n                return;\n            const unread = res.data.reduce((sum, chat) => sum + (chat.unread || 0), 0);\n            this.setState(prev => {\n                var _a;\n                const hasCurrent = prev.activeMessageUserId\n                    ? res.data.find(c => c.peer.id === prev.activeMessageUserId)\n                    : undefined;\n                const fallbackPeer = (_a = res.data[0]) === null || _a === void 0 ? void 0 : _a.peer;\n                return {\n                    messageChats: res.data,\n                    messageUnreadCount: unread,\n                    activeMessageUserId: prev.activeMessageUserId && hasCurrent\n                        ? prev.activeMessageUserId\n                        : (fallbackPeer === null || fallbackPeer === void 0 ? void 0 : fallbackPeer.id) || prev.activeMessageUserId,\n                };\n            });\n        });\n        this.LoadThread = (userId_1, ...args_1) => __awaiter(this, [userId_1, ...args_1], void 0, function* (userId, markRead = false) {\n            if (!userId)\n                return;\n            this.setState({ loadingMessages: true });\n            const res = yield _api__WEBPACK_IMPORTED_MODULE_9__.Api.Get('/api/messages/thread', {\n                userId,\n            });\n            if (res.status && res.data) {\n                this.setState({\n                    activeMessageUserId: userId,\n                    activeMessagePeer: res.data.peer,\n                    activeMessages: res.data.messages || [],\n                });\n                if (markRead) {\n                    yield _api__WEBPACK_IMPORTED_MODULE_9__.Api.Post('/api/messages/read', { userId });\n                    this.LoadMessageChats();\n                }\n            }\n            this.setState({ loadingMessages: false });\n        });\n        this.LoadLeaderboard = (gameId) => __awaiter(this, void 0, void 0, function* () {\n            this.setState({\n                leaderboardLoading: true,\n                leaderboardSelectedGame: gameId,\n            });\n            const res = yield _api__WEBPACK_IMPORTED_MODULE_9__.Api.Get('/api/leaderboard', gameId && gameId !== 'overall' ? { gameId } : {});\n            if (res.status && res.data) {\n                const currentUserId = _api__WEBPACK_IMPORTED_MODULE_9__.Api.user_id;\n                const topPlayers = res.data.slice(0, 10);\n                let playerRank;\n                if (currentUserId && res.data.length > 10) {\n                    const playerIndex = res.data.findIndex(p => p.id === currentUserId);\n                    if (playerIndex >= 10) {\n                        const playerData = res.data[playerIndex];\n                        const ratingValue = this.GetPlayerRating(playerData, gameId);\n                        playerRank = { rank: playerIndex + 1, rating: ratingValue };\n                    }\n                }\n                this.setState({\n                    leaderboardData: topPlayers,\n                    playerLeaderboardRank: playerRank,\n                });\n            }\n            this.setState({ leaderboardLoading: false });\n        });\n        this.GetPlayerRating = (player, gameId) => {\n            var _a, _b;\n            if (!player.playedGames)\n                return 0;\n            if (gameId === 'overall' || !gameId) {\n                const ratings = player.playedGames\n                    .map(g => { var _a; return (_a = g.rating) !== null && _a !== void 0 ? _a : 1000; })\n                    .filter(r => r > 0);\n                return ratings.length\n                    ? Math.round(ratings.reduce((a, b) => a + b, 0) / ratings.length)\n                    : 0;\n            }\n            return (_b = (_a = player.playedGames.find(g => g.gameId === gameId)) === null || _a === void 0 ? void 0 : _a.rating) !== null && _b !== void 0 ? _b : 0;\n        };\n        this.OpenMessagesWith = (userId) => __awaiter(this, void 0, void 0, function* () {\n            if (!userId || userId === _api__WEBPACK_IMPORTED_MODULE_9__.Api.user_id)\n                return;\n            this.setState({\n                showMessages: true,\n                activeMessageUserId: userId,\n                showUserCard: '',\n                showUserCardData: undefined,\n            });\n            yield this.LoadMessageChats();\n            yield this.LoadThread(userId, true);\n        });\n        this.SendMessage = () => __awaiter(this, void 0, void 0, function* () {\n            const toId = this.state.activeMessageUserId;\n            const message = this.state.messageInput.trim();\n            if (!toId || !message)\n                return;\n            const res = yield _api__WEBPACK_IMPORTED_MODULE_9__.Api.Post('/api/messages/send', {\n                toId,\n                message,\n            });\n            if (!res.status)\n                return;\n            this.setState({ messageInput: '' });\n            yield this.LoadThread(toId, false);\n            yield this.LoadMessageChats();\n        });\n        this.RenderMessageText = (text) => {\n            const regex = /\\[([^\\]]+)\\]\\((https?:\\/\\/[^\\s)]+)\\)/g;\n            const parts = [];\n            let lastIndex = 0;\n            let match;\n            let i = 0;\n            while ((match = regex.exec(text)) !== null) {\n                if (match.index > lastIndex) {\n                    parts.push((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { children: text.slice(lastIndex, match.index) }, `t-${i++}`));\n                }\n                const label = match[1];\n                const href = match[2];\n                parts.push((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"a\", { href: href, target: \"_blank\", rel: \"noopener noreferrer\", children: label }, `l-${i++}`));\n                lastIndex = match.index + match[0].length;\n            }\n            if (lastIndex < text.length) {\n                parts.push((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { children: text.slice(lastIndex) }, `t-${i++}`));\n            }\n            return parts;\n        };\n        /** Returns 'online' | 'afk' | 'offline' for a peer  */\n        this.GetPeerOnlineStatus = (peer) => {\n            if (!peer)\n                return 'offline';\n            // lastSeenTimestamp === 0 means currently socket-connected\n            if (peer.lastSeenTimestamp === 0) {\n                return peer.afkSince ? 'afk' : 'online';\n            }\n            // lastSeenTimestamp > 0 means they've disconnected; if < 90s ago treat still as online\n            if (peer.lastSeenTimestamp &&\n                _shared_system__WEBPACK_IMPORTED_MODULE_6__.System.timestamp - peer.lastSeenTimestamp < 90) {\n                return peer.afkSince ? 'afk' : 'online';\n            }\n            return 'offline';\n        };\n        window.AppInstance = this;\n        window.tmiConnectEvent = status => {\n            console.log('TMI connection status:', status);\n            this.setState({ twConnected: status });\n        };\n        window.addEventListener('showUserProfile', (e) => {\n            const id = e.detail;\n            this.setState({ showUserCard: id, showUserCardData: undefined });\n            this.LoadUserProfile(id);\n        });\n        const serverReload = localStorage.getItem('serverReload');\n        if (serverReload) {\n            setTimeout(() => {\n                localStorage.removeItem('serverReload');\n                (0,_pages_components_notify__WEBPACK_IMPORTED_MODULE_7__.TriggerNotify)({\n                    id: 'serverReload',\n                    text: 'ServerReload',\n                    type: 'error',\n                    seconds: 15,\n                });\n                console.log('ServerReload');\n            }, 1000);\n        }\n        setInterval(() => {\n            if (_controllers_socket__WEBPACK_IMPORTED_MODULE_10__.Socket.errorConnection) {\n                this.setState({ errorConnection: true });\n            }\n        }, 100);\n        _controllers_socket__WEBPACK_IMPORTED_MODULE_10__.Socket.On('onlinePlayers', (players) => {\n            this.setState({ onlinPlayers: players });\n        });\n        // AFK activity tracking\n        document.addEventListener('mousemove', this.OnUserActivity);\n        document.addEventListener('keydown', this.OnUserActivity);\n        document.addEventListener('click', this.OnUserActivity);\n        document.addEventListener('scroll', this.OnUserActivity, true);\n        // Heartbeat every 60s\n        setInterval(() => {\n            if (!this.token)\n                return;\n            const afk = Date.now() - this._lastActivity > 3 * 60 * 1000;\n            _api__WEBPACK_IMPORTED_MODULE_9__.Api.Post('/api/heartbeat', { afk });\n        }, 60000);\n        setInterval(() => {\n            if (!this.token)\n                return;\n            this.LoadMessageChats();\n            if (this.state.showMessages && this.state.activeMessageUserId) {\n                this.LoadThread(this.state.activeMessageUserId, true);\n            }\n        }, 5000);\n        setInterval(() => {\n            if (this.state.onlinPlayersShow) {\n                this.ReloadOnlinePlayers();\n            }\n        }, 30000);\n        setInterval(() => {\n            this.CheckVersion();\n        }, 10000);\n        this.CheckVersion();\n        _api__WEBPACK_IMPORTED_MODULE_9__.Api.VerifyToken().then(res => {\n            if (res) {\n                this.LoadMessageChats();\n                const routeData = this.ReadRouteData();\n                if (routeData.afk) {\n                    if (this.token && this.randomGames && this.randomGames.length >= 2) {\n                        this.setState({ randomGame: true, afkTimer: 0 }, () => {\n                            this.SwitchRandomGame(routeData.gameId);\n                        });\n                    }\n                }\n                else if (routeData.gameId) {\n                    this.HandlePlay(routeData.gameId, false);\n                }\n            }\n            setTimeout(() => {\n                setInterval(() => {\n                    const url = new URL(window.location.href);\n                    let change = false;\n                    if (!this.state.currentGame) {\n                        if (url.pathname === '/games' ||\n                            url.pathname.startsWith('/games/')) {\n                            change = true;\n                            url.pathname = '/';\n                        }\n                        if (url.searchParams.has('roomid')) {\n                            change = true;\n                            url.searchParams.delete('roomid');\n                        }\n                        if (url.searchParams.has('game')) {\n                            change = true;\n                            url.searchParams.delete('game');\n                        }\n                        if (url.searchParams.has('password')) {\n                            change = true;\n                            url.searchParams.delete('password');\n                        }\n                        if (url.searchParams.has('afk')) {\n                            change = true;\n                            url.searchParams.delete('afk');\n                        }\n                    }\n                    if (change) {\n                        window.history.replaceState({}, '', url);\n                        console.log('change', url);\n                        //\n                    }\n                }, 100);\n            }, 1000);\n        });\n        requestAnimationFrame(() => {\n            console.log(`Is prerender: ${_controllers_prerender__WEBPACK_IMPORTED_MODULE_19__.isPrerender}`);\n            const isLangPath = (0,_controllers_language__WEBPACK_IMPORTED_MODULE_2__.getAllLangs)().find(lang => location.pathname.startsWith(`/${lang}`));\n            console.log(_controllers_prerender__WEBPACK_IMPORTED_MODULE_19__.isPrerender, isLangPath);\n            if (!_controllers_prerender__WEBPACK_IMPORTED_MODULE_19__.isPrerender && isLangPath) {\n                const urlNoLang = location.pathname.replace(`/${isLangPath}`, '') +\n                    location.search +\n                    location.hash;\n                window.history.replaceState({}, '', urlNoLang);\n            }\n        });\n    }\n    LangString(id, ...args) {\n        const lang = _controllers_state__WEBPACK_IMPORTED_MODULE_4__.Store.getLang();\n        return (0,_controllers_language__WEBPACK_IMPORTED_MODULE_2__.langString)(lang, id, ...args);\n    }\n    get jwt() {\n        return _api__WEBPACK_IMPORTED_MODULE_9__.Api.token;\n    }\n    get token() {\n        return !this.jwt ? undefined : _controllers_localstorage__WEBPACK_IMPORTED_MODULE_5__.StoreLocal.getTwitchToken();\n    }\n    get username() {\n        return !this.jwt ? undefined : _controllers_localstorage__WEBPACK_IMPORTED_MODULE_5__.StoreLocal.getTwitchUserName();\n    }\n    get randomGames() {\n        return _controllers_state__WEBPACK_IMPORTED_MODULE_4__.Store.getAfkGames();\n    }\n    get webcamShow() {\n        return _controllers_state__WEBPACK_IMPORTED_MODULE_4__.Store.getWebcam();\n    }\n    get currentLang() {\n        return _controllers_state__WEBPACK_IMPORTED_MODULE_4__.Store.getLang();\n    }\n    componentDidUpdate(prevProps, prevState) {\n        if (this.state.showUserCard &&\n            this.state.showUserCard !== prevState.showUserCard) {\n            this.setState({ showUserCardData: undefined });\n            this.LoadUserProfile(this.state.showUserCard);\n        }\n        if (this.state.showMessages && !prevState.showMessages) {\n            this.LoadMessageChats();\n            if (this.state.activeMessageUserId) {\n                this.LoadThread(this.state.activeMessageUserId, true);\n            }\n        }\n    }\n    render() {\n        const currentGame = this.state.currentGame;\n        const LangString = this.LangString;\n        const username = this.username;\n        const token = this.token;\n        const randomGames = this.randomGames;\n        const webcamShow = this.webcamShow;\n        return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_21__[\"default\"], { theme: \"dark\", children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_ebay_nice_modal_react__WEBPACK_IMPORTED_MODULE_8__[\"default\"].Provider, { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(rsuite__WEBPACK_IMPORTED_MODULE_22__[\"default\"], { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_modules_AppNavbar__WEBPACK_IMPORTED_MODULE_13__.AppNavbar, { currentGame: currentGame, randomGame: this.state.randomGame, afkTimer: this.state.afkTimer, token: token, username: username, webcamShow: webcamShow, onlinPlayers: this.state.onlinPlayers, onlinPlayersShow: this.state.onlinPlayersShow, twConnected: this.state.twConnected, settings: this.state.settings, showPlayersPage: this.state.showPlayersPage, randomGames: randomGames, LangString: LangString, onBrandClick: () => {\n                                if (this.state.showPlayersPage) {\n                                    this.setState({ showPlayersPage: false });\n                                }\n                            }, onCloseGame: () => {\n                                this.setState({ currentGame: undefined, randomGame: false });\n                                this.ReplaceGameRoute({});\n                                _api__WEBPACK_IMPORTED_MODULE_9__.Api.currentGame = undefined;\n                            }, onTogglePlayersPage: () => {\n                                this.setState({\n                                    showPlayersPage: !this.state.showPlayersPage,\n                                });\n                            }, onStartAFK: () => __awaiter(this, void 0, void 0, function* () {\n                                if (this.state.currentGame) {\n                                    yield _shared_system__WEBPACK_IMPORTED_MODULE_6__.System.sleep(100);\n                                    this.setState({ currentGame: undefined });\n                                    this.ReplaceGameRoute({});\n                                    _api__WEBPACK_IMPORTED_MODULE_9__.Api.currentGame = undefined;\n                                }\n                                this.setState({ randomGame: true, afkTimer: 0 }, () => {\n                                    this.SwitchRandomGame();\n                                });\n                            }), onToggleOnlinePlayers: () => {\n                                if (this.state.onlinPlayersShow) {\n                                    this.setState({ onlinPlayersShow: false });\n                                }\n                                else {\n                                    this.ReloadOnlinePlayers(true);\n                                }\n                            }, onOpenLeaderboard: () => {\n                                this.setState({ showLeaderboard: true }, () => {\n                                    this.LoadLeaderboard('overall');\n                                });\n                            }, onToggleWebcam: () => {\n                                _controllers_state__WEBPACK_IMPORTED_MODULE_4__.Store.setWebcam(!webcamShow);\n                                this.forceUpdate();\n                            }, onOpenSettings: () => this.setState({ settings: true }), onLogout: () => {\n                                (0,_controllers_twitch__WEBPACK_IMPORTED_MODULE_3__.exitAuth)();\n                                this.forceUpdate();\n                            }, onForceUpdate: () => this.forceUpdate() }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_23__[\"default\"], { style: { padding: '2rem' }, children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_modules_GameRouter__WEBPACK_IMPORTED_MODULE_12__.GameRouter, { currentGame: currentGame, randomGame: this.state.randomGame, errorConnection: this.state.errorConnection, showPlayersPage: this.state.showPlayersPage, token: token, socketConnected: this.state.socketConnected, LangString: LangString, onSetState: state => this.setState(state), onLoadUserProfile: this.LoadUserProfile, onHandlePlay: this.HandlePlay, beforeRunNew: this.BeforeRunNewGame }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_pages_components_notify__WEBPACK_IMPORTED_MODULE_7__.NotifyBlock, {}), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_modules_modals_userProfileModal__WEBPACK_IMPORTED_MODULE_14__.UserProfileModal, { open: !!this.state.showUserCard && !!this.state.showUserCardData, showUserCardData: this.state.showUserCardData, outgoingRequests: this.state.outgoingRequests, onClose: () => this.setState({ showUserCard: '', showUserCardData: undefined }), SetAvatarFallback: this.SetAvatarFallback, LangString: LangString, onLoadUserProfile: this.LoadUserProfile, onOpenMessagesWith: this.OpenMessagesWith }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_modules_modals_onlinePlayersModal__WEBPACK_IMPORTED_MODULE_15__.OnlinePlayersModal, { open: this.state.onlinPlayersShow, onlinPlayersList: this.state.onlinPlayersList, onClose: () => this.setState({ onlinPlayersShow: false }), SetAvatarFallback: this.SetAvatarFallback, LangString: LangString }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_modules_modals_leaderboardModal__WEBPACK_IMPORTED_MODULE_16__.LeaderboardModal, { open: this.state.showLeaderboard, leaderboardLoading: this.state.leaderboardLoading, leaderboardData: this.state.leaderboardData, leaderboardSelectedGame: this.state.leaderboardSelectedGame, playerLeaderboardRank: this.state.playerLeaderboardRank, username: username, onClose: () => this.setState({ showLeaderboard: false }), onLoadLeaderboard: this.LoadLeaderboard, GetPlayerRating: this.GetPlayerRating, SetAvatarFallback: this.SetAvatarFallback, LangString: LangString }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_modules_modals_settingsModal__WEBPACK_IMPORTED_MODULE_17__.SettingsModal, { open: this.state.settings, currentLang: this.currentLang, randomGames: randomGames, onClose: this.CloseSettings, LangString: LangString, onForceUpdate: () => this.forceUpdate() }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(rsuite__WEBPACK_IMPORTED_MODULE_24__[\"default\"], { className: \"footer\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { children: \"\\u00A9 2024\" }), [\n                                    // ['https://github.com/XXanderWP/TwitchGames', 'Github'],\n                                    ['https://xanderwp.page', 'XanderWP'],\n                                ].map((q, i) => ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"a\", { href: q[0], target: \"_blank\", rel: \"noopener noreferrer\", children: q[1] }, i))), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"span\", { children: [\"Build date\", ' ', _shared_system__WEBPACK_IMPORTED_MODULE_6__.System.timeStampString(parseInt(1776794739), true), ' ', \"Local timezone\"] })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_modules_messagesPanel__WEBPACK_IMPORTED_MODULE_18__.MessagesPanel, { showMessages: this.state.showMessages, messageChats: this.state.messageChats, messageUnreadCount: this.state.messageUnreadCount, activeMessageUserId: this.state.activeMessageUserId, activeMessagePeer: this.state.activeMessagePeer, activeMessages: this.state.activeMessages, messageInput: this.state.messageInput, LangString: LangString, SetAvatarFallback: this.SetAvatarFallback, GetPeerOnlineStatus: this.GetPeerOnlineStatus, RenderMessageText: this.RenderMessageText, onLoadThread: this.LoadThread, onSendMessage: this.SendMessage, onOpenFab: () => {\n                                var _a;\n                                const target = this.state.activeMessageUserId ||\n                                    ((_a = this.state.messageChats[0]) === null || _a === void 0 ? void 0 : _a.peer.id) ||\n                                    '';\n                                this.setState({ showMessages: true }, () => {\n                                    if (target)\n                                        this.LoadThread(target, true);\n                                });\n                            }, onClose: () => this.setState({ showMessages: false }), onMessageInputChange: value => this.setState({ messageInput: value }) })] }) }) }));\n    }\n}\n\n\n//# sourceURL=webpack:///./src/frontend/App.tsx?");
+
+/***/ }),
+
+/***/ "./src/frontend/api.tsx":
+/*!******************************!*\
+  !*** ./src/frontend/api.tsx ***!
+  \******************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   Api: () => (/* binding */ Api),\n/* harmony export */   isAuthTsx: () => (/* binding */ isAuthTsx)\n/* harmony export */ });\n/* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! axios */ \"./node_modules/axios/lib/axios.js\");\n/* harmony import */ var _controllers_twitch__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./controllers/twitch */ \"./src/frontend/controllers/twitch.ts\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _shared_web__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../shared/web */ \"./src/shared/web.ts\");\n/* harmony import */ var _shared_games__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../shared/games */ \"./src/shared/games.ts\");\n/* harmony import */ var _pages_components_notify__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./pages/components/notify */ \"./src/frontend/pages/components/notify.tsx\");\n/* harmony import */ var _controllers_localstorage__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./controllers/localstorage */ \"./src/frontend/controllers/localstorage.ts\");\n\n\n\n\n\n\n\nconst Api = new (class {\n    get needReload() {\n        return this._needReload;\n    }\n    set needReload(value) {\n        if (this._needReload)\n            return;\n        this._needReload = value;\n        if (!this.canReload) {\n            (0,_pages_components_notify__WEBPACK_IMPORTED_MODULE_4__.TriggerNotify)({\n                id: 'serverReloadRequired',\n                text: 'ServerReloadRequired',\n                type: 'error',\n                seconds: 30,\n            });\n        }\n    }\n    get currentGameConfig() {\n        return _shared_games__WEBPACK_IMPORTED_MODULE_3__.GAMES_LIST.find(q => q.id === this.currentGame);\n    }\n    get canReload() {\n        const cfg = this.currentGameConfig;\n        return !cfg || cfg.type === \"multiplayer\" /* GameType.MULTIPLAYER */;\n    }\n    get isDebug() {\n        return (location.hostname === 'localhost' ||\n            location.hostname.startsWith('dev.') ||\n            localStorage.getItem('debug') === 'true' ||\n            /^\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}$/.test(location.hostname));\n    }\n    get isCorrectHost() {\n        const hostname = location.hostname;\n        if (hostname === 'localhost') {\n            return true;\n        }\n        if (/^\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}$/.test(hostname)) {\n            return true;\n        }\n        if (!hostname.endsWith(`web-playground.site`)) {\n            return false;\n        }\n        return true;\n    }\n    get apiServer() {\n        if (location.hostname === 'localhost') {\n            return `https://localhost:${_shared_web__WEBPACK_IMPORTED_MODULE_2__.WEB_HTTPS_PORT}`;\n        }\n        if (/^\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}$/.test(location.hostname)) {\n            return location.origin;\n        }\n        if (location.hostname.startsWith('dev.')) {\n            return location.origin;\n        }\n        return `https://api.web-playground.site:${_shared_web__WEBPACK_IMPORTED_MODULE_2__.WEB_HTTPS_PORT}`;\n    }\n    get token() {\n        const jwt = _controllers_localstorage__WEBPACK_IMPORTED_MODULE_5__.StoreLocal.getJwt();\n        return jwt && typeof jwt === 'string' ? `${jwt}` : undefined;\n    }\n    get isAuth() {\n        return !!this.token;\n    }\n    get user_id() {\n        // Get user_id from JWT payload\n        if (!this.token)\n            return undefined;\n        try {\n            const payload = JSON.parse(atob(this.token.split('.')[1]));\n            return payload.id;\n        }\n        catch (e) {\n            console.error('Failed to parse JWT payload:', e);\n            return undefined;\n        }\n    }\n    VerifyToken() {\n        return new Promise(resolve => {\n            if (!this.token) {\n                resolve(false);\n                return;\n            }\n            this.Get('/user/token').then(res => {\n                console.log(`Verifying JWT token, res`, res.status);\n                resolve(res.status);\n            });\n        });\n    }\n    Auth(twitchToken) {\n        return new Promise(resolve => {\n            this.Get('/user/auth/twitch', {\n                twitch_token: twitchToken,\n            }).then(res => {\n                if (res.status) {\n                    _controllers_localstorage__WEBPACK_IMPORTED_MODULE_5__.StoreLocal.setJwt(res.data);\n                }\n                else {\n                    (0,_controllers_twitch__WEBPACK_IMPORTED_MODULE_0__.exitAuth)();\n                }\n                resolve(res.status);\n            });\n        });\n    }\n    Get(path, request = {}) {\n        if (path.startsWith('/')) {\n            path = path.slice(1);\n        }\n        return new Promise((resolve, reject) => {\n            axios__WEBPACK_IMPORTED_MODULE_6__[\"default\"]\n                .get(this.apiServer +\n                '/' +\n                path +\n                `?${new URLSearchParams(request).toString()}`, {\n                headers: {\n                    Authorization: `${this.token}`,\n                },\n            })\n                .then(res => {\n                var _a;\n                resolve((_a = res === null || res === void 0 ? void 0 : res.data) !== null && _a !== void 0 ? _a : { status: false, error: 'No data' });\n            })\n                .catch(err => {\n                console.error(`Request error. Path: ${path}`);\n                resolve({ status: false, error: err.response.data.error });\n            });\n        });\n    }\n    Post(path, request = {}) {\n        if (path.startsWith('/')) {\n            path = path.slice(1);\n        }\n        return new Promise((resolve, reject) => {\n            axios__WEBPACK_IMPORTED_MODULE_6__[\"default\"]\n                .post(this.apiServer + '/' + path, request, {\n                headers: {\n                    Authorization: `${this.token}`,\n                },\n            })\n                .then(res => {\n                var _a;\n                resolve((_a = res === null || res === void 0 ? void 0 : res.data) !== null && _a !== void 0 ? _a : { status: false, error: 'No data' });\n            })\n                .catch(err => {\n                console.error(`Request error. Path: ${path}`);\n                resolve({ status: false, error: err.response.data.error });\n            });\n        });\n    }\n    checkToken() {\n        if (this.token) {\n            this.VerifyToken().then(res => {\n                if (!res)\n                    setTimeout(() => {\n                        this.VerifyToken().then(res => {\n                            if (!res)\n                                (0,_controllers_twitch__WEBPACK_IMPORTED_MODULE_0__.exitAuth)();\n                        });\n                    }, 3000);\n            });\n        }\n    }\n    constructor() {\n        this._needReload = false;\n        if (!this.isCorrectHost) {\n            location.replace('https://web-playground.site');\n        }\n        setInterval(() => {\n            this.checkToken();\n        }, 30000);\n        this.checkToken();\n        if (location.search.includes('debug')) {\n            localStorage.setItem('debug', 'true');\n            location.replace('/');\n        }\n        setInterval(() => {\n            if (this.needReload && this.canReload) {\n                localStorage.setItem('serverReload', '1');\n                window.location.reload();\n            }\n        }, 500);\n    }\n    ShowProfile(id) {\n        window.dispatchEvent(new CustomEvent('showUserProfile', { detail: id }));\n    }\n})();\n__webpack_require__.g.Api = Api;\nconst isAuthTsx = () => {\n    const [auth, setAuth] = (0,react__WEBPACK_IMPORTED_MODULE_1__.useState)(false);\n    (0,react__WEBPACK_IMPORTED_MODULE_1__.useEffect)(() => {\n        let lastAuth = false;\n        const check = () => {\n            const newAuth = Api.isAuth;\n            if (newAuth !== lastAuth) {\n                lastAuth = newAuth;\n                setAuth(newAuth);\n            }\n        };\n        const tm = setInterval(() => {\n            check();\n        }, 100);\n        check();\n        return () => clearInterval(tm);\n    }, []);\n    return auth;\n};\n\n\n//# sourceURL=webpack:///./src/frontend/api.tsx?");
+
+/***/ }),
+
+/***/ "./src/frontend/controllers/events.ts":
+/*!********************************************!*\
+  !*** ./src/frontend/controllers/events.ts ***!
+  \********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   EventSystem: () => (/* binding */ EventSystem)\n/* harmony export */ });\n/* harmony import */ var _shared_system__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../shared/system */ \"./src/shared/system.ts\");\n\nconst EventSystem = new (class {\n    constructor() {\n        this.handlers = [];\n    }\n    Listen(eventName, handler) {\n        const ids = _shared_system__WEBPACK_IMPORTED_MODULE_0__.System.randomString(5);\n        this.handlers.push({\n            id: ids,\n            name: eventName,\n            handler: handler,\n        });\n        return {\n            Destroy: () => {\n                this.handlers = this.handlers.filter(handler => handler.id !== ids);\n            },\n        };\n    }\n    Emit(eventName, ...args) {\n        this.handlers\n            .filter(q => q.name === eventName)\n            .map(q => q.handler(...args));\n    }\n})();\n\n\n//# sourceURL=webpack:///./src/frontend/controllers/events.ts?");
+
+/***/ }),
+
+/***/ "./src/frontend/controllers/images.tsx":
+/*!*********************************************!*\
+  !*** ./src/frontend/controllers/images.tsx ***!
+  \*********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   GetImage: () => (/* binding */ GetImage),\n/* harmony export */   GetLoaderImageSrc: () => (/* binding */ GetLoaderImageSrc),\n/* harmony export */   ImageLoader: () => (/* binding */ ImageLoader)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n\n\nconst GetImage = (name) => {\n    for (const q of ['svg', 'png', 'jpeg', 'webp', 'jpg']) {\n        try {\n            const img = __webpack_require__(\"./src/frontend/images sync recursive ^\\\\.\\\\/.*\\\\..*$\")(`./${name}.${q}`);\n            if (img) {\n                return img === null || img === void 0 ? void 0 : img.default;\n            }\n        }\n        catch (error) { }\n    }\n    return '';\n};\nconst GetLoaderImageSrc = (name, size) => {\n    return `/images/${name}_${size}w.webp`;\n};\nconst ImageLoader = react__WEBPACK_IMPORTED_MODULE_1___default().memo((props) => {\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"img\", { src: GetLoaderImageSrc(props.name, props.size), alt: props.alt, style: props.style, className: props.className }));\n});\n\n\n//# sourceURL=webpack:///./src/frontend/controllers/images.tsx?");
+
+/***/ }),
+
+/***/ "./src/frontend/controllers/language.hook.ts":
+/*!***************************************************!*\
+  !*** ./src/frontend/controllers/language.hook.ts ***!
+  \***************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   LangStringModule: () => (/* binding */ LangStringModule)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _state__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./state */ \"./src/frontend/controllers/state.ts\");\n/* harmony import */ var _language__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./language */ \"./src/frontend/controllers/language.ts\");\n\n\n\nconst LangStringModule = () => {\n    const lang = _state__WEBPACK_IMPORTED_MODULE_1__.Store.useLang();\n    return react__WEBPACK_IMPORTED_MODULE_0___default().useCallback((id, ...args) => {\n        return (0,_language__WEBPACK_IMPORTED_MODULE_2__.langString)(lang, id, ...args);\n    }, [lang]);\n};\n\n\n//# sourceURL=webpack:///./src/frontend/controllers/language.hook.ts?");
+
+/***/ }),
+
+/***/ "./src/frontend/controllers/language.ts":
+/*!**********************************************!*\
+  !*** ./src/frontend/controllers/language.ts ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   allLangStrings: () => (/* binding */ allLangStrings),\n/* harmony export */   getAllLangData: () => (/* binding */ getAllLangData),\n/* harmony export */   getAllLangs: () => (/* binding */ getAllLangs),\n/* harmony export */   getAllLangsKeys: () => (/* binding */ getAllLangsKeys),\n/* harmony export */   langSharedData: () => (/* binding */ langSharedData),\n/* harmony export */   langString: () => (/* binding */ langString),\n/* harmony export */   langStringExist: () => (/* binding */ langStringExist),\n/* harmony export */   langs: () => (/* binding */ langs)\n/* harmony export */ });\n/* harmony import */ var _langs_ru_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../langs/ru.json */ \"./src/frontend/langs/ru.json\");\n/* harmony import */ var _langs_en_json__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../langs/en.json */ \"./src/frontend/langs/en.json\");\n/* harmony import */ var _langs_uk_json__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../langs/uk.json */ \"./src/frontend/langs/uk.json\");\n/* harmony import */ var _langs_shared_json__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../langs/shared.json */ \"./src/frontend/langs/shared.json\");\n\n\n\n\nconst langSharedData = Object.assign({}, _langs_shared_json__WEBPACK_IMPORTED_MODULE_3__);\nconst langs = {\n    ['en']: Object.assign(Object.assign({}, langSharedData), _langs_en_json__WEBPACK_IMPORTED_MODULE_1__),\n    ['uk']: Object.assign(Object.assign({}, langSharedData), _langs_uk_json__WEBPACK_IMPORTED_MODULE_2__),\n    ['ru']: Object.assign(Object.assign({}, langSharedData), _langs_ru_json__WEBPACK_IMPORTED_MODULE_0__),\n};\nconst langString = (lang, id, ...args) => {\n    if (!lang) {\n        lang = 'en';\n    }\n    return langStringSystem(lang, id, true, ...args);\n};\nconst langStringExist = (key) => {\n    return !!langs['en'][key];\n};\nconst langStringSystem = (lang, id, deep, ...args) => {\n    if (!getAllLangs().includes(lang)) {\n        lang = 'en';\n    }\n    let string = langs[lang][id];\n    if (!string) {\n        return '';\n    }\n    args.map((q, ii) => {\n        const i = ii + 1;\n        const reg = new RegExp(`%${i}%`, 'gi');\n        string = string.replace(reg, String(q));\n    });\n    if (deep) {\n        const test = string.match(new RegExp('%[a-zA-Z-_0-9]+%', 'gi'));\n        test === null || test === void 0 ? void 0 : test.forEach((value) => {\n            // Явно указываем тип value\n            const key = value.replace(new RegExp('%', 'gi'), ''); // Убираем as any\n            const res = langStringSystem(lang, key, false, ...args);\n            if (res) {\n                string = string.replace(value, res);\n            }\n        });\n    }\n    return string;\n};\nconst allLangStrings = (id, ...args) => {\n    const res = [];\n    Object.values(langs).forEach(data => {\n        let string = data[id];\n        if (!string) {\n            return '';\n        }\n        args.map((q, ii) => {\n            const i = ii + 1;\n            const reg = new RegExp(`%${i}%`, 'gi');\n            string = string.replace(reg, String(q));\n        });\n        res.push(string);\n    });\n    return res;\n};\nconst getAllLangsKeys = () => {\n    const res = [];\n    Object.values(langs).forEach(data => {\n        Object.keys(data).forEach((key) => {\n            if (!res.includes(key)) {\n                res.push(key);\n            }\n        });\n    });\n    return res;\n};\nconst getAllLangs = () => {\n    return Object.keys(langs);\n};\nconst getAllLangData = () => {\n    return langs;\n};\n\n\n//# sourceURL=webpack:///./src/frontend/controllers/language.ts?");
+
+/***/ }),
+
+/***/ "./src/frontend/controllers/localstorage.ts":
+/*!**************************************************!*\
+  !*** ./src/frontend/controllers/localstorage.ts ***!
+  \**************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   StoreLocal: () => (/* binding */ StoreLocal)\n/* harmony export */ });\n/* harmony import */ var reasy_state__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! reasy-state */ \"./node_modules/reasy-state/dist/index.esm.js\");\n\nconst cyrb53 = (str, seed = 0) => {\n    let h1 = 0xdeadbeef ^ seed, h2 = 0x41c6ce57 ^ seed;\n    for (let i = 0, ch; i < str.length; i++) {\n        ch = str.charCodeAt(i);\n        h1 = Math.imul(h1 ^ ch, 2654435761);\n        h2 = Math.imul(h2 ^ ch, 1597334677);\n    }\n    h1 = Math.imul(h1 ^ (h1 >>> 16), 2246822507);\n    h1 ^= Math.imul(h2 ^ (h2 >>> 13), 3266489909);\n    h2 = Math.imul(h2 ^ (h2 >>> 16), 2246822507);\n    h2 ^= Math.imul(h1 ^ (h1 >>> 13), 3266489909);\n    return 4294967296 * (2097151 & h2) + (h1 >>> 0);\n};\nconst userStore = {\n    twitchToken: '',\n    twitchUserName: '',\n    jwt: '',\n};\nconst userStoreDefaultSTR = JSON.stringify(userStore);\nconst storageKey = `userStorage_${cyrb53(userStoreDefaultSTR)}`;\nconst StoreLocal = (0,reasy_state__WEBPACK_IMPORTED_MODULE_0__.createState)(Object.assign({}, userStore), { key: storageKey, storage: true });\nfor (let i = 0; i < 100; i++) {\n    const key = localStorage.key(i);\n    if (key && !key.includes(storageKey) && key.includes('$#userStorage_')) {\n        localStorage.removeItem(key);\n    }\n}\n\n\n//# sourceURL=webpack:///./src/frontend/controllers/localstorage.ts?");
+
+/***/ }),
+
+/***/ "./src/frontend/controllers/prerender.ts":
+/*!***********************************************!*\
+  !*** ./src/frontend/controllers/prerender.ts ***!
+  \***********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   isPrerender: () => (/* binding */ isPrerender)\n/* harmony export */ });\nconst isPrerender = navigator.userAgent.includes('ReactSnap');\n\n\n//# sourceURL=webpack:///./src/frontend/controllers/prerender.ts?");
+
+/***/ }),
+
+/***/ "./src/frontend/controllers/socket.ts":
+/*!********************************************!*\
+  !*** ./src/frontend/controllers/socket.ts ***!
+  \********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   Socket: () => (/* binding */ Socket)\n/* harmony export */ });\n/* harmony import */ var socket_io_client__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! socket.io-client */ \"./node_modules/socket.io-client/build/esm/index.js\");\n/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../api */ \"./src/frontend/api.tsx\");\n/* harmony import */ var _shared_system__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../shared/system */ \"./src/shared/system.ts\");\n/* harmony import */ var _pages_components_notify__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../pages/components/notify */ \"./src/frontend/pages/components/notify.tsx\");\n/* harmony import */ var _prerender__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./prerender */ \"./src/frontend/controllers/prerender.ts\");\n\n\n\n\n\nconst Socket = new (class {\n    WaitConnect() {\n        return new Promise((resolve, reject) => {\n            if (this.connect_done) {\n                resolve(true);\n            }\n            else {\n                const ev = this.On('connect_done', () => {\n                    resolve(true);\n                    clearTimeout(tm);\n                    ev.remove();\n                });\n                const tm = setTimeout(() => {\n                    resolve(false);\n                    ev.remove();\n                }, 10000);\n            }\n        });\n    }\n    On(name, handle) {\n        this.socket.on(name, handle);\n        return {\n            remove: () => {\n                this.socket.off(name, handle);\n            },\n        };\n    }\n    Send(name, ...args) {\n        this.socket.emit(name, ...args);\n    }\n    constructor() {\n        this.errorConnection = false;\n        this.notifyErr = false;\n        this.socket = (0,socket_io_client__WEBPACK_IMPORTED_MODULE_0__.io)(_api__WEBPACK_IMPORTED_MODULE_1__.Api.apiServer);\n        this.connect_done = false;\n        this.ping = 0;\n        if (_prerender__WEBPACK_IMPORTED_MODULE_4__.isPrerender)\n            return;\n        let pingStart = 0;\n        const sendPingCommand = () => {\n            pingStart = _shared_system__WEBPACK_IMPORTED_MODULE_2__.System.timestampMS;\n            this.Send('ping');\n        };\n        this.socket.on('connect', () => {\n            console.log('Connected to socket server');\n            sendPingCommand();\n        });\n        let auth = false;\n        setInterval(() => {\n            const newAuth = _api__WEBPACK_IMPORTED_MODULE_1__.Api.isAuth;\n            if (newAuth !== auth) {\n                auth = newAuth;\n                if (newAuth) {\n                    this.Send('auth', _api__WEBPACK_IMPORTED_MODULE_1__.Api.token, _api__WEBPACK_IMPORTED_MODULE_1__.Api.user_id);\n                }\n                else {\n                    this.Send('leave');\n                }\n            }\n        }, 400);\n        setInterval(() => {\n            sendPingCommand();\n        }, 10000);\n        const handleErr = (setErr) => {\n            if (setErr) {\n                this.errorConnection = true;\n            }\n            else if (!this.notifyErr) {\n                this.notifyErr = true;\n                (0,_pages_components_notify__WEBPACK_IMPORTED_MODULE_3__.TriggerNotify)({\n                    text: 'socketErrorConnection',\n                    type: 'error',\n                });\n            }\n            window.AppInstance.setState({ socketConnected: false });\n        };\n        this.On('errorConnection', () => {\n            handleErr(true);\n        });\n        this.On('disconnect', reason => {\n            console.warn('Отключились от сервера. Причина:', reason);\n            if (reason === 'io server disconnect') {\n                // Сервер нас отключил вручную — можно переподключиться\n            }\n            else if (reason === 'io client disconnect') {\n                // Клиент сам отключился — всё ок\n            }\n            else if (reason === 'ping timeout' ||\n                reason === 'transport close' ||\n                reason === 'transport error') {\n                handleErr(false);\n            }\n        });\n        this.On('connect_error', () => {\n            handleErr(false);\n        });\n        this.On('connect_done', () => {\n            this.connect_done = true;\n            window.AppInstance.setState({ socketConnected: true });\n            this.notifyErr = false;\n        });\n        this.On('pong', () => {\n            if (!pingStart)\n                return;\n            this.ping = _shared_system__WEBPACK_IMPORTED_MODULE_2__.System.timestampMS - pingStart;\n            console.log('Socket Ping:', this.ping);\n            this.Send('currentPing', this.ping);\n            pingStart = 0;\n        });\n        let oldKey = '';\n        this.On('serverRandomKey', (key) => {\n            if (_api__WEBPACK_IMPORTED_MODULE_1__.Api.needReload)\n                return;\n            console.log('Server random key:', key);\n            if (oldKey) {\n                if (key !== oldKey) {\n                    _api__WEBPACK_IMPORTED_MODULE_1__.Api.needReload = true;\n                }\n            }\n            else {\n                oldKey = key;\n            }\n        });\n    }\n})();\n\n\n//# sourceURL=webpack:///./src/frontend/controllers/socket.ts?");
+
+/***/ }),
+
+/***/ "./src/frontend/controllers/sounds.ts":
+/*!********************************************!*\
+  !*** ./src/frontend/controllers/sounds.ts ***!
+  \********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   GetSound: () => (/* binding */ GetSound),\n/* harmony export */   PlayBackgroundMusic: () => (/* binding */ PlayBackgroundMusic),\n/* harmony export */   PlaySound: () => (/* binding */ PlaySound)\n/* harmony export */ });\n/* harmony import */ var _shared_system__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../shared/system */ \"./src/shared/system.ts\");\n/* harmony import */ var _prerender__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./prerender */ \"./src/frontend/controllers/prerender.ts\");\n/* harmony import */ var _state__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./state */ \"./src/frontend/controllers/state.ts\");\n\n\n\nconst globalVolume = () => _state__WEBPACK_IMPORTED_MODULE_2__.Store.getGlobalVolume() / 100;\nconst GetSound = (name) => {\n    for (const q of ['mp3', 'ogg', 'wav']) {\n        try {\n            const file = __webpack_require__(\"./src/frontend/sounds sync recursive ^\\\\.\\\\/.*\\\\..*$\")(`./${name}.${q}`);\n            if (file) {\n                return file === null || file === void 0 ? void 0 : file.default;\n            }\n        }\n        catch (error) { }\n    }\n    return '';\n};\nconst PlaySound = (name, volume = _state__WEBPACK_IMPORTED_MODULE_2__.Store.getSoundsVolume()) => {\n    if (_prerender__WEBPACK_IMPORTED_MODULE_1__.isPrerender)\n        return false;\n    return new Promise((resolve, reject) => {\n        try {\n            const url = Array.isArray(name) ? GetSound(_shared_system__WEBPACK_IMPORTED_MODULE_0__.System.randomElement(name)) : GetSound(name);\n            console.log('PlaySound', name, url);\n            const audio = new Audio(url);\n            audio.volume = (volume / 100) * globalVolume();\n            audio.play();\n            audio.onended = () => resolve(true);\n            audio.onerror = () => reject(false);\n        }\n        catch (error) {\n        }\n    });\n};\n// export const PlayVoiceSound = (\n//   name: langData,\n//   volume: number = Store.getVoiceVolume(),\n//   voiceID?: string\n// ) => {\n//   if (typeof volume !== 'number') volume = Store.getVoiceVolume();\n//   let soundFilesList: string[] = JSON.parse(JSON.stringify(soundFiles));\n//   const lang = Store.getLang();\n//   let fileName: string = `${name}.${lang}${voiceID ? `.${voiceID}` : ''}`;\n//   if (!voiceID) {\n//     soundFilesList = soundFilesList.filter(q => q.startsWith(fileName));\n//     fileName = System.randomElement(soundFilesList);\n//   }\n//   return PlaySound(`${fileName.replace('.mp3', '')}`, volume);\n// };\nlet backgroundMusic = new Audio();\nconst PlayBackgroundMusic = (name) => {\n    const getVolume = () => {\n        return _state__WEBPACK_IMPORTED_MODULE_2__.Store.getBackgroundMusicVolume() / 100;\n    };\n    let end = false;\n    const url = GetSound(name);\n    backgroundMusic.src = url;\n    backgroundMusic.volume = getVolume() * globalVolume();\n    const play = () => {\n        if (end)\n            return;\n        backgroundMusic.play().catch(err => {\n            setTimeout(() => {\n                if (!end)\n                    play();\n            }, 100);\n        });\n    };\n    play();\n    backgroundMusic.loop = true;\n    const interval = setInterval(() => {\n        if (!end)\n            backgroundMusic.volume = getVolume() * globalVolume();\n    }, 100);\n    const remove = () => {\n        if (end)\n            return;\n        end = true;\n        backgroundMusic.pause();\n        clearInterval(interval);\n    };\n    return {\n        stop: () => {\n            remove();\n        },\n    };\n};\n// global.PlayVoiceSound = PlayVoiceSound;\n\n\n//# sourceURL=webpack:///./src/frontend/controllers/sounds.ts?");
+
+/***/ }),
+
+/***/ "./src/frontend/controllers/state.ts":
+/*!*******************************************!*\
+  !*** ./src/frontend/controllers/state.ts ***!
+  \*******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   Store: () => (/* binding */ Store)\n/* harmony export */ });\n/* harmony import */ var _storage__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./storage */ \"./src/frontend/controllers/storage.ts\");\n/* harmony import */ var _shared_config_user_default__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../shared/config.user.default */ \"./src/shared/config.user.default.ts\");\n/* harmony import */ var _language__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./language */ \"./src/frontend/controllers/language.ts\");\n\n\n\nconst detectLang = () => {\n    const lang = navigator.language || navigator.userLanguage || 'en';\n    if (lang.startsWith('ru'))\n        return 'ru';\n    if (lang.startsWith('uk'))\n        return 'uk';\n    return 'en';\n};\nconst detectLangFromPath = () => {\n    if (typeof window === 'undefined') {\n        return 'en';\n    }\n    const path = window.location.pathname;\n    const parts = path.split('/').filter(Boolean);\n    if (parts.length > 0) {\n        const firstPart = parts[0];\n        if ((0,_language__WEBPACK_IMPORTED_MODULE_2__.getAllLangs)().includes(firstPart)) {\n            return firstPart;\n        }\n        else {\n            return detectLang();\n        }\n    }\n    else {\n        return detectLang();\n    }\n};\n_shared_config_user_default__WEBPACK_IMPORTED_MODULE_1__.userStoreDefault.lang = detectLangFromPath();\nconst Store = new (class extends _storage__WEBPACK_IMPORTED_MODULE_0__.StorageController {\n    getLang() {\n        return this.data.lang;\n    }\n    useLang() {\n        return this.api.useLang();\n    }\n    setLang(lang) {\n        this.UpdateData({ lang });\n    }\n    getAfkGames() {\n        return this.data.afkGames;\n    }\n    setAfkGames(afkGames) {\n        this.UpdateData({ afkGames });\n    }\n    getAfkGamesChange() {\n        return this.data.afkGamesChange;\n    }\n    setAfkGamesChange(afkGamesChange) {\n        this.UpdateData({ afkGamesChange });\n    }\n    getWebcam() {\n        return this.data.webcam;\n    }\n    useWebcam() {\n        return this.api.useWebcam();\n    }\n    setWebcam(webcam) {\n        this.UpdateData({ webcam });\n    }\n    getGame_settings() {\n        return this.data.game_settings;\n    }\n    useGame_settings() {\n        return this.api.useGame_settings();\n    }\n    setGame_settings(game_settings) {\n        this.UpdateData({ game_settings });\n    }\n    getInfoSize() {\n        return this.data.infoSize;\n    }\n    setInfoSize(infoSize) {\n        this.UpdateData({ infoSize });\n    }\n    getSoundsVolume() {\n        return this.data.soundsVolume;\n    }\n    setSoundsVolume(soundsVolume) {\n        this.UpdateData({ soundsVolume });\n    }\n    getVoiceVolume() {\n        return this.data.voiceVolume;\n    }\n    setVoiceVolume(voiceVolume) {\n        this.UpdateData({ voiceVolume });\n    }\n    getBackgroundMusicVolume() {\n        return this.data.backgroundMusicVolume;\n    }\n    setBackgroundMusicVolume(backgroundMusicVolume) {\n        this.UpdateData({ backgroundMusicVolume });\n    }\n    getGlobalVolume() {\n        return this.data.globalVolume;\n    }\n    setGlobalVolume(globalVolume) {\n        this.UpdateData({ globalVolume });\n    }\n    constructor() {\n        super(_shared_config_user_default__WEBPACK_IMPORTED_MODULE_1__.userStoreDefault, true, 'user');\n    }\n})();\n\n\n//# sourceURL=webpack:///./src/frontend/controllers/state.ts?");
+
+/***/ }),
+
+/***/ "./src/frontend/controllers/storage.ts":
+/*!*********************************************!*\
+  !*** ./src/frontend/controllers/storage.ts ***!
+  \*********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   StorageController: () => (/* binding */ StorageController)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../api */ \"./src/frontend/api.tsx\");\n\n\nclass StorageController {\n    get id() {\n        return _api__WEBPACK_IMPORTED_MODULE_1__.Api.user_id;\n    }\n    get isAuth() {\n        return _api__WEBPACK_IMPORTED_MODULE_1__.Api.isAuth;\n    }\n    get data() {\n        return Object.assign({}, this._data);\n    }\n    UpdateData(data) {\n        const keys = Object.keys(data);\n        const oldKeys = Object.keys(this.data);\n        if (keys.find(q => !oldKeys.includes(q)))\n            return;\n        let changed = false;\n        const old = JSON.parse(JSON.stringify(this._data));\n        for (const item of Object.entries(data)) {\n            if (item[1] !== old[item[0]]) {\n                changed = true;\n            }\n        }\n        if (!changed)\n            return;\n        this._data = Object.assign(Object.assign({}, this._data), data);\n        if (this.localSync) {\n            localStorage.setItem(this.localSyncName, JSON.stringify(this._data));\n        }\n        keys.forEach(key => {\n            this.notify(key);\n        });\n        if (this.isAuth)\n            _api__WEBPACK_IMPORTED_MODULE_1__.Api.Post('/api/config/write', data).then(res => {\n                if (!res.status) {\n                    this._data = old;\n                }\n            });\n    }\n    notify(key) {\n        var _a;\n        (_a = this.subscribers.get(key)) === null || _a === void 0 ? void 0 : _a.forEach(callback => callback());\n    }\n    UseController(key) {\n        const [value, setValue] = react__WEBPACK_IMPORTED_MODULE_0___default().useState(() => this.data[key]);\n        react__WEBPACK_IMPORTED_MODULE_0___default().useEffect(() => {\n            const update = () => {\n                setValue(this.data[key]);\n            };\n            if (!this.subscribers.has(key)) {\n                this.subscribers.set(key, new Set());\n            }\n            this.subscribers.get(key).add(update);\n            return () => {\n                this.subscribers.get(key).delete(update);\n                if (this.subscribers.get(key).size === 0) {\n                    this.subscribers.delete(key);\n                }\n            };\n        }, []);\n        return value;\n    }\n    LoadData() {\n        return new Promise(resolve => {\n            _api__WEBPACK_IMPORTED_MODULE_1__.Api.Get('/api/config/read').then(res => {\n                if (!res.status)\n                    return resolve(false);\n                const data = res.data;\n                if (!data)\n                    return resolve(false);\n                this._data = data;\n                resolve(true);\n            });\n        });\n    }\n    constructor(defaultValue, localSync = true, localSyncName) {\n        this._loading = false;\n        this.syncComplete = false;\n        this.api = new Proxy({}, {\n            get: (_, prop) => {\n                if (prop.startsWith('get')) {\n                    const key = (prop[3].toLowerCase() + prop.slice(4));\n                    return () => this._data[key];\n                }\n                if (prop.startsWith('set')) {\n                    const key = (prop[3].toLowerCase() + prop.slice(4));\n                    return (value) => {\n                        if (this.data[key] === value)\n                            return;\n                        this.UpdateData({ key: value });\n                    };\n                }\n                if (prop.startsWith('use')) {\n                    const key = (prop[3].toLowerCase() + prop.slice(4));\n                    return () => this.UseController(key);\n                }\n                return undefined;\n            },\n        });\n        this.subscribers = new Map();\n        if (!localSyncName) {\n            throw new Error('StorageController require correct localSyncName');\n        }\n        this.localSync = localSync;\n        this.localSyncName = localSyncName;\n        if (defaultValue) {\n            this._data = defaultValue;\n        }\n        if (localSync) {\n            const old = localStorage.getItem(this.localSyncName);\n            if (old) {\n                const oldData = JSON.parse(old);\n                if (!this._data)\n                    this._data = {};\n                this._data = Object.assign(Object.assign({}, this._data), oldData);\n            }\n        }\n        setInterval(() => {\n            if (!this.isAuth) {\n                this.syncComplete = false;\n                return;\n            }\n            if (this.syncComplete)\n                return;\n            if (this._loading)\n                return;\n            this._loading = true;\n            this.LoadData().then(res => {\n                if (res) {\n                    this.syncComplete = true;\n                    this._loading = false;\n                    Object.keys(this._data).forEach(q => {\n                        this.notify(q);\n                    });\n                }\n                else {\n                    setTimeout(() => {\n                        this._loading = false;\n                    }, 2000);\n                }\n            });\n        }, 100);\n    }\n}\n\n\n//# sourceURL=webpack:///./src/frontend/controllers/storage.ts?");
+
+/***/ }),
+
+/***/ "./src/frontend/controllers/twitch.ts":
+/*!********************************************!*\
+  !*** ./src/frontend/controllers/twitch.ts ***!
+  \********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   GetTwitchChannelEmotes: () => (/* binding */ GetTwitchChannelEmotes),\n/* harmony export */   GetTwitchEmotes: () => (/* binding */ GetTwitchEmotes),\n/* harmony export */   TwitchChat: () => (/* binding */ TwitchChat),\n/* harmony export */   exitAuth: () => (/* binding */ exitAuth),\n/* harmony export */   getTwitchUserData: () => (/* binding */ getTwitchUserData),\n/* harmony export */   openAuthWindow: () => (/* binding */ openAuthWindow)\n/* harmony export */ });\n/* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! axios */ \"./node_modules/axios/lib/axios.js\");\n/* harmony import */ var _localstorage__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./localstorage */ \"./src/frontend/controllers/localstorage.ts\");\n/* harmony import */ var _shared_twitch__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../shared/twitch */ \"./src/shared/twitch.ts\");\n/* harmony import */ var _shared_system__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../shared/system */ \"./src/shared/system.ts\");\nvar __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {\n    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }\n    return new (P || (P = Promise))(function (resolve, reject) {\n        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }\n        function rejected(value) { try { step(generator[\"throw\"](value)); } catch (e) { reject(e); } }\n        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }\n        step((generator = generator.apply(thisArg, _arguments || [])).next());\n    });\n};\n\n\n\n\nfunction getTwitchUserData() {\n    return __awaiter(this, void 0, void 0, function* () {\n        const accessToken = _localstorage__WEBPACK_IMPORTED_MODULE_0__.StoreLocal.getTwitchToken();\n        if (!accessToken)\n            return undefined;\n        try {\n            const response = yield axios__WEBPACK_IMPORTED_MODULE_3__[\"default\"].get('https://api.twitch.tv/helix/users', {\n                headers: {\n                    Authorization: `Bearer ${accessToken}`,\n                    'Client-Id': _shared_twitch__WEBPACK_IMPORTED_MODULE_1__.TWITCH_CLIENT_ID, // Замените на ваш Client ID\n                },\n            });\n            return response.data.data[0]; // Возвращает массив данных пользователя\n        }\n        catch (error) {\n            console.error('Error fetching user data:', error.response.data);\n            // throw error;\n            return undefined;\n        }\n    });\n}\nfunction openAuthWindow(url, cb) {\n    // Открываем новое окно\n    const authWindow = window.open(url, 'TwitchAuth', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=600');\n    const checkAuthWindow = setInterval(() => {\n        if (authWindow.closed) {\n            clearInterval(checkAuthWindow); // Останавливаем проверку, если окно закрыто\n            console.log('Authorization window closed');\n            return;\n        }\n        try {\n            // Проверяем URL нового окна\n            const currentUrl = authWindow.location.href;\n            // Проверяем наличие access_token в URL\n            if (currentUrl.includes('access_token')) {\n                // Закрываем окно\n                authWindow.close();\n                // Получаем полный URL с токеном\n                console.log('Access Token URL:', currentUrl);\n                // Извлекаем access_token\n                const params = new URLSearchParams(currentUrl.split('#')[1]); // Извлекаем параметры из хеш-части URL\n                const accessToken = params.get('access_token');\n                if (accessToken) {\n                    // console.log('Access Token:', accessToken);\n                }\n                cb(accessToken);\n            }\n        }\n        catch (error) {\n            // Игнорируем ошибки безопасности, если доступ к свойствам нового окна запрещен\n            console.error('Unable to access the authorization window:', error);\n            cb(undefined);\n        }\n    }, 1000); // Проверяем каждую секунду\n}\nconst exitAuth = () => {\n    _localstorage__WEBPACK_IMPORTED_MODULE_0__.StoreLocal.setTwitchToken('');\n    _localstorage__WEBPACK_IMPORTED_MODULE_0__.StoreLocal.setTwitchUserName('');\n    _localstorage__WEBPACK_IMPORTED_MODULE_0__.StoreLocal.setJwt('');\n};\nconst TwitchChat = new (class {\n    get connectionStatus() {\n        return !!this.connection;\n    }\n    constructor() {\n        this.handleMessageCallbacks = [];\n        this.startTokenAndUsernameWatcher();\n    }\n    connect() {\n        const token = _localstorage__WEBPACK_IMPORTED_MODULE_0__.StoreLocal.getTwitchToken();\n        const username = _localstorage__WEBPACK_IMPORTED_MODULE_0__.StoreLocal.getTwitchUserName();\n        if (!token || !username) {\n            console.warn('Cannot connect: Token or Username is missing');\n            return;\n        }\n        this.connection = new window.tmi.Client({\n            identity: {\n                username: username,\n                password: `oauth:${token.replace('oauth:', '')}`,\n            },\n            channels: [username],\n        });\n        this.connection.connect();\n        this.connection.on('chat', (channel, tags, message, self) => {\n            console.log(`Twitch chat message:`, tags['display-name'], message);\n            this.handleMessageCallbacks.forEach(({ callback }) => {\n                callback(tags['display-name'], message);\n            });\n        });\n        this.connection.on('disconnected', () => {\n            console.log(`Disconnected from twitch chat`);\n            if (window.tmiConnectEvent)\n                window.tmiConnectEvent(false);\n            this.connection = undefined;\n        });\n        this.connection.on('connected', () => {\n            console.log(`Connected to twitch chat`);\n            if (window.tmiConnectEvent)\n                window.tmiConnectEvent(true);\n        });\n        this.connection.on('pong', latency => { });\n    }\n    reconnect() {\n        this.closeSocket();\n        this.connect();\n    }\n    closeSocket() {\n        var _a;\n        (_a = this.connection) === null || _a === void 0 ? void 0 : _a.disconnect();\n    }\n    startTokenAndUsernameWatcher() {\n        const check = setInterval(() => {\n            const token = _localstorage__WEBPACK_IMPORTED_MODULE_0__.StoreLocal.getTwitchToken();\n            const username = _localstorage__WEBPACK_IMPORTED_MODULE_0__.StoreLocal.getTwitchUserName();\n            if (!token || !username) {\n                this.closeSocket();\n            }\n            else if (!this.connection) {\n                this.connect();\n            }\n        }, 1000);\n    }\n    handleMessage(callback) {\n        const id = _shared_system__WEBPACK_IMPORTED_MODULE_2__.System.randomString(10);\n        this.handleMessageCallbacks.push({ id, callback });\n        return {\n            destroy: () => {\n                this.handleMessageCallbacks = this.handleMessageCallbacks.filter(cb => cb.id !== id);\n            },\n        };\n    }\n    sendMessage(message) {\n        var _a;\n        (_a = this.connection) === null || _a === void 0 ? void 0 : _a.say(_localstorage__WEBPACK_IMPORTED_MODULE_0__.StoreLocal.getTwitchUserName(), message);\n    }\n})();\nwindow.TwitchChat = TwitchChat;\nconst GetTwitchEmotes = () => {\n    return new Promise(resolve => {\n        axios__WEBPACK_IMPORTED_MODULE_3__[\"default\"]\n            .get('https://api.twitch.tv/helix/chat/emotes/global', {\n            headers: {\n                'Client-ID': _shared_twitch__WEBPACK_IMPORTED_MODULE_1__.TWITCH_CLIENT_ID,\n                Authorization: `Bearer ${_localstorage__WEBPACK_IMPORTED_MODULE_0__.StoreLocal.getTwitchToken()}`,\n            },\n        })\n            .then(res => {\n            const data = res.data;\n            const emotes = data.data;\n            resolve(emotes);\n        })\n            .catch(err => {\n            resolve(undefined);\n        });\n    });\n};\nconst GetTwitchChannelEmotes = () => {\n    return new Promise(resolve => {\n        getTwitchUserData()\n            .then(userdata => {\n            axios__WEBPACK_IMPORTED_MODULE_3__[\"default\"]\n                .get('https://api.twitch.tv/helix/chat/emotes?broadcaster_id=' +\n                userdata.id, {\n                headers: {\n                    'Client-ID': _shared_twitch__WEBPACK_IMPORTED_MODULE_1__.TWITCH_CLIENT_ID,\n                    Authorization: `Bearer ${_localstorage__WEBPACK_IMPORTED_MODULE_0__.StoreLocal.getTwitchToken()}`,\n                },\n            })\n                .then(res => {\n                const data = res.data;\n                const emotes = data.data;\n                resolve(emotes);\n            })\n                .catch(err => {\n                resolve(undefined);\n            });\n        })\n            .catch(err => {\n            resolve(undefined);\n        });\n    });\n};\n\n\n//# sourceURL=webpack:///./src/frontend/controllers/twitch.ts?");
+
+/***/ }),
+
+/***/ "./src/frontend/index.tsx":
+/*!********************************!*\
+  !*** ./src/frontend/index.tsx ***!
+  \********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var react_dom_client__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-dom/client */ \"./node_modules/react-dom/client.js\");\n/* harmony import */ var _App__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./App */ \"./src/frontend/App.tsx\");\n/* harmony import */ var _styles_main_less__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./styles/main.less */ \"./src/frontend/styles/main.less\");\n\n\n\n\nconst container = document.getElementById('root');\nconst root = (0,react_dom_client__WEBPACK_IMPORTED_MODULE_1__.createRoot)(container);\nroot.render((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_App__WEBPACK_IMPORTED_MODULE_2__.App, {}));\n\n\n//# sourceURL=webpack:///./src/frontend/index.tsx?");
+
+/***/ }),
+
+/***/ "./src/frontend/modules/AppNavbar.tsx":
+/*!********************************************!*\
+  !*** ./src/frontend/modules/AppNavbar.tsx ***!
+  \********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   AppNavbar: () => (/* binding */ AppNavbar)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Navbar/index.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Nav/index.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Header/index.js\");\n/* harmony import */ var _rsuite_icons_legacy_Cog__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! @rsuite/icons/legacy/Cog */ \"./node_modules/@rsuite/icons/esm/icons/legacy/Cog.js\");\n/* harmony import */ var _rsuite_icons_Exit__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! @rsuite/icons/Exit */ \"./node_modules/@rsuite/icons/esm/icons/Exit.js\");\n/* harmony import */ var _rsuite_icons_Page__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! @rsuite/icons/Page */ \"./node_modules/@rsuite/icons/esm/icons/Page.js\");\n/* harmony import */ var _rsuite_icons_RelatedMap__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! @rsuite/icons/RelatedMap */ \"./node_modules/@rsuite/icons/esm/icons/RelatedMap.js\");\n/* harmony import */ var _rsuite_icons_PlayOutline__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! @rsuite/icons/PlayOutline */ \"./node_modules/@rsuite/icons/esm/icons/PlayOutline.js\");\n/* harmony import */ var _shared_games__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../shared/games */ \"./src/shared/games.ts\");\n/* harmony import */ var _shared_system__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../shared/system */ \"./src/shared/system.ts\");\n/* harmony import */ var _controllers_localstorage__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../controllers/localstorage */ \"./src/frontend/controllers/localstorage.ts\");\n/* harmony import */ var _controllers_twitch__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../controllers/twitch */ \"./src/frontend/controllers/twitch.ts\");\n/* harmony import */ var _shared_twitch__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../shared/twitch */ \"./src/shared/twitch.ts\");\n/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../api */ \"./src/frontend/api.tsx\");\n/* harmony import */ var _pages_components_switch__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../pages/components/switch */ \"./src/frontend/pages/components/switch.tsx\");\n/* harmony import */ var _pages_components_tooltip__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../pages/components/tooltip */ \"./src/frontend/pages/components/tooltip.tsx\");\n/* harmony import */ var _pages_components_notify__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../pages/components/notify */ \"./src/frontend/pages/components/notify.tsx\");\n/* harmony import */ var _pages_components_confirm__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../pages/components/confirm */ \"./src/frontend/pages/components/confirm.tsx\");\nvar __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {\n    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }\n    return new (P || (P = Promise))(function (resolve, reject) {\n        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }\n        function rejected(value) { try { step(generator[\"throw\"](value)); } catch (e) { reject(e); } }\n        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }\n        step((generator = generator.apply(thisArg, _arguments || [])).next());\n    });\n};\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst AppNavbar = ({ currentGame, randomGame, afkTimer, token, username, webcamShow, onlinPlayers, onlinPlayersShow, twConnected, settings, showPlayersPage, randomGames, LangString, onCloseGame, onTogglePlayersPage, onStartAFK, onToggleOnlinePlayers, onOpenLeaderboard, onToggleWebcam, onOpenSettings, onLogout, onForceUpdate, onBrandClick, }) => {\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_11__[\"default\"], { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(rsuite__WEBPACK_IMPORTED_MODULE_12__[\"default\"], { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_12__[\"default\"].Brand, { href: \"#\", style: { display: 'flex' }, onClick: e => {\n                        e.preventDefault();\n                        onBrandClick();\n                    }, children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"span\", { children: [\"Web Playground\", currentGame\n                                ? ` | ${LangString(_shared_games__WEBPACK_IMPORTED_MODULE_1__.GAMES_LIST.find(q => q.id === currentGame).name)}${randomGame ? ` | ${LangString('PlayAFKTitle', _shared_system__WEBPACK_IMPORTED_MODULE_2__.System.secondsToString(afkTimer))}` : ''}`\n                                : ''] }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(rsuite__WEBPACK_IMPORTED_MODULE_13__[\"default\"], { onSelect: id => {\n                        if (id === '2') {\n                            (0,_pages_components_confirm__WEBPACK_IMPORTED_MODULE_10__.Confirm)('CloseGameAccept').then(q => {\n                                if (q) {\n                                    onCloseGame();\n                                }\n                            });\n                        }\n                    }, children: [currentGame ? ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_13__[\"default\"].Item, { eventKey: \"2\", children: LangString('CloseGame') })) : ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {})), !currentGame && !randomGame ? ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_13__[\"default\"].Item, { icon: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_rsuite_icons_RelatedMap__WEBPACK_IMPORTED_MODULE_14__[\"default\"], {}), onClick: () => {\n                                onTogglePlayersPage();\n                            }, children: LangString('PlayersPageNav') })) : ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {})), username && token && !randomGame && !currentGame ? ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_13__[\"default\"].Item, { icon: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_rsuite_icons_PlayOutline__WEBPACK_IMPORTED_MODULE_15__[\"default\"], {}), onClick: e => {\n                                if (randomGames.length < 2)\n                                    return (0,_pages_components_notify__WEBPACK_IMPORTED_MODULE_9__.TriggerNotify)({\n                                        id: 'afkErrStart',\n                                        text: 'PlayAFKGamesReq2Min',\n                                        header: 'PlayAFK',\n                                        type: 'error',\n                                        seconds: 5,\n                                    });\n                                (0,_pages_components_confirm__WEBPACK_IMPORTED_MODULE_10__.Confirm)('PlayAFKGamesReq').then((q) => __awaiter(void 0, void 0, void 0, function* () {\n                                    if (q) {\n                                        onStartAFK();\n                                    }\n                                }));\n                            }, children: LangString('PlayAFK') })) : ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {}))] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(rsuite__WEBPACK_IMPORTED_MODULE_13__[\"default\"], { pullRight: true, children: [onlinPlayers ? ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_13__[\"default\"].Item, { onClick: () => {\n                                        onToggleOnlinePlayers();\n                                    }, children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { children: LangString('OnlinePlayers', onlinPlayers) }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_13__[\"default\"].Item, { onClick: () => {\n                                        onOpenLeaderboard();\n                                    }, children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"span\", { children: [\"\\uD83C\\uDFC6 \", LangString('Leaderboard') || 'Leaderboard'] }) })] })) : ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {})), currentGame &&\n                            _shared_games__WEBPACK_IMPORTED_MODULE_1__.GAMES_LIST.find(q => q.id === currentGame) &&\n                            [\"chat\" /* GameType.CHAT */, \"multiplayer\" /* GameType.MULTIPLAYER */].includes(_shared_games__WEBPACK_IMPORTED_MODULE_1__.GAMES_LIST.find(q => q.id === currentGame).type) ? ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_13__[\"default\"].Item, { onClick: () => {\n                                onToggleWebcam();\n                            }, children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_pages_components_switch__WEBPACK_IMPORTED_MODULE_7__.Switcher, { active: webcamShow, onChange: () => { }, separate: true, color: 'yellow', checkedText: \"webCamButton\" }) })) : ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {})), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_13__[\"default\"].Item, { icon: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_rsuite_icons_legacy_Cog__WEBPACK_IMPORTED_MODULE_16__[\"default\"], {}), onClick: e => {\n                                onOpenSettings();\n                            }, active: settings, children: LangString('Settings') }), username && token ? ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_13__[\"default\"].Item, { icon: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_rsuite_icons_Exit__WEBPACK_IMPORTED_MODULE_17__[\"default\"], {}), onClick: e => {\n                                    (0,_pages_components_confirm__WEBPACK_IMPORTED_MODULE_10__.Confirm)('LeaveAccAccept').then(q => {\n                                        if (q) {\n                                            onLogout();\n                                        }\n                                    });\n                                }, children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"connectionStatus\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { className: \"username\", children: LangString('LeaveAcc', username) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_pages_components_tooltip__WEBPACK_IMPORTED_MODULE_8__.DrawToolTip, { text: `Twitch chat status: ${twConnected ? 'ON' : 'OFF'}`, trigger: \"hover\", children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { className: \"status\", style: {\n                                                    color: twConnected ? 'green' : 'red',\n                                                }, children: '•' }) })] }) }) })) : ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_13__[\"default\"].Item, { icon: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_rsuite_icons_Page__WEBPACK_IMPORTED_MODULE_18__[\"default\"], {}), onClick: e => {\n                                (0,_controllers_twitch__WEBPACK_IMPORTED_MODULE_4__.openAuthWindow)((0,_shared_twitch__WEBPACK_IMPORTED_MODULE_5__.TWITCH_OAUTH_LINK)(location.origin.includes('github.io')\n                                    ? `https://xxanderwp.github.io/TwitchGamesPublic`\n                                    : location.origin), token => {\n                                    if (token)\n                                        _controllers_localstorage__WEBPACK_IMPORTED_MODULE_3__.StoreLocal.setTwitchToken(token);\n                                    (0,_controllers_twitch__WEBPACK_IMPORTED_MODULE_4__.getTwitchUserData)().then(res => {\n                                        if (res) {\n                                            _api__WEBPACK_IMPORTED_MODULE_6__.Api.Auth(token).then(status => {\n                                                if (status) {\n                                                    _controllers_localstorage__WEBPACK_IMPORTED_MODULE_3__.StoreLocal.setTwitchUserName(res ? res.display_name : '');\n                                                }\n                                                onForceUpdate();\n                                            });\n                                        }\n                                    });\n                                });\n                            }, children: \"Twitch Login\" }))] })] }) }));\n};\n\n\n//# sourceURL=webpack:///./src/frontend/modules/AppNavbar.tsx?");
+
+/***/ }),
+
+/***/ "./src/frontend/modules/GameRouter.tsx":
+/*!*********************************************!*\
+  !*** ./src/frontend/modules/GameRouter.tsx ***!
+  \*********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   GameRouter: () => (/* binding */ GameRouter)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _pages_players__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../pages/players */ \"./src/frontend/pages/players.tsx\");\n/* harmony import */ var _pages_main__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../pages/main */ \"./src/frontend/pages/main.tsx\");\n\n// ErrorBoundary для отлова ошибок в игровых компонентах\nclass ErrorBoundary extends (react__WEBPACK_IMPORTED_MODULE_1___default().Component) {\n    constructor(props) {\n        super(props);\n        this.state = { hasError: false };\n    }\n    static getDerivedStateFromError() {\n        return { hasError: true };\n    }\n    componentDidCatch(error, info) {\n        // Можно логировать ошибку\n    }\n    render() {\n        if (this.state.hasError) {\n            return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { style: { color: 'red', padding: 24 }, children: \"Game crashed. Please reload or choose another game.\" }));\n        }\n        return this.props.children;\n    }\n}\n\n\n\nconst LabyrinthGameClass = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"vendors-node_modules_rsuite_icons_esm_icons_EyeClose_js-node_modules_rsuite_icons_esm_icons_V-f94952\"), __webpack_require__.e(\"src_frontend_pages_components_gameClass_tsx-src_shared_config_games_default_ts\"), __webpack_require__.e(\"src_frontend_pages_games_Labyrinth_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/Labyrinth */ \"./src/frontend/pages/games/Labyrinth.tsx\")).then(m => ({\n    default: m.LabyrinthGameClass,\n})));\nconst WordsGameClass = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"src_frontend_pages_components_gameClass_tsx-src_shared_config_games_default_ts\"), __webpack_require__.e(\"src_shared_words_en_json-src_shared_words_ru_json-src_shared_words_uk_json\"), __webpack_require__.e(\"src_frontend_pages_games_Words_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/Words */ \"./src/frontend/pages/games/Words.tsx\")).then(m => ({ default: m.WordsGameClass })));\nconst SectionGameClass = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"src_frontend_pages_components_gameClass_tsx-src_shared_config_games_default_ts\"), __webpack_require__.e(\"src_shared_words_en_json-src_shared_words_ru_json-src_shared_words_uk_json\"), __webpack_require__.e(\"src_frontend_pages_games_Section_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/Section */ \"./src/frontend/pages/games/Section.tsx\")).then(m => ({ default: m.SectionGameClass })));\nconst DestroyGameClass = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"src_frontend_pages_components_gameClass_tsx-src_shared_config_games_default_ts\"), __webpack_require__.e(\"src_frontend_pages_games_Destroy_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/Destroy */ \"./src/frontend/pages/games/Destroy.tsx\")).then(m => ({ default: m.DestroyGameClass })));\nconst DecryptGameClass = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"src_frontend_pages_components_gameClass_tsx-src_shared_config_games_default_ts\"), __webpack_require__.e(\"src_frontend_pages_games_Decrypt_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/Decrypt */ \"./src/frontend/pages/games/Decrypt.tsx\")).then(m => ({ default: m.DecryptGameClass })));\nconst SearchGameClass = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"src_frontend_pages_components_gameClass_tsx-src_shared_config_games_default_ts\"), __webpack_require__.e(\"src_frontend_pages_games_Search_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/Search */ \"./src/frontend/pages/games/Search.tsx\")).then(m => ({ default: m.SearchGameClass })));\nconst VectorGameClass = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"src_frontend_pages_components_gameClass_tsx-src_shared_config_games_default_ts\"), __webpack_require__.e(\"src_frontend_pages_games_Vectors_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/Vectors */ \"./src/frontend/pages/games/Vectors.tsx\")).then(m => ({ default: m.VectorGameClass })));\nconst WordGameClass = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"vendors-node_modules_rsuite_esm_internals_Picker_Listbox_js-node_modules_rsuite_esm_internals-c62735\"), __webpack_require__.e(\"vendors-node_modules_rsuite_esm_SelectPicker_index_js\"), __webpack_require__.e(\"src_frontend_pages_components_gameClass_tsx-src_shared_config_games_default_ts\"), __webpack_require__.e(\"src_shared_words_en_json-src_shared_words_ru_json-src_shared_words_uk_json\"), __webpack_require__.e(\"src_frontend_pages_games_Word_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/Word */ \"./src/frontend/pages/games/Word.tsx\")).then(m => ({ default: m.WordGameClass })));\nconst TreasuresGameClass = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"src_frontend_pages_components_gameClass_tsx-src_shared_config_games_default_ts\"), __webpack_require__.e(\"src_frontend_pages_games_Treasures_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/Treasures */ \"./src/frontend/pages/games/Treasures.tsx\")).then(m => ({\n    default: m.TreasuresGameClass,\n})));\nconst MorzeGameClass = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"vendors-node_modules_rsuite_esm_internals_Picker_Listbox_js-node_modules_rsuite_esm_internals-c62735\"), __webpack_require__.e(\"vendors-node_modules_rsuite_esm_SelectPicker_index_js\"), __webpack_require__.e(\"src_frontend_pages_components_gameClass_tsx-src_shared_config_games_default_ts\"), __webpack_require__.e(\"src_frontend_pages_games_Morze_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/Morze */ \"./src/frontend/pages/games/Morze.tsx\")).then(m => ({ default: m.MorzeGameClass })));\nconst GameGuessrClass = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"vendors-node_modules_rsuite_esm_internals_Picker_Listbox_js-node_modules_rsuite_esm_internals-c62735\"), __webpack_require__.e(\"vendors-node_modules_rsuite_esm_CheckPicker_index_js-node_modules_rsuite_esm_Col_index_js-nod-a35a9f\"), __webpack_require__.e(\"src_frontend_pages_components_gameClass_tsx-src_shared_config_games_default_ts\"), __webpack_require__.e(\"src_frontend_pages_games_GameGuessr_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/GameGuessr */ \"./src/frontend/pages/games/GameGuessr.tsx\")).then(m => ({\n    default: m.GameGuessrClass,\n})));\nconst TestGameClass = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"src_frontend_pages_components_gameClass_tsx-src_shared_config_games_default_ts\"), __webpack_require__.e(\"src_frontend_pages_games_Test_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/Test */ \"./src/frontend/pages/games/Test.tsx\")).then(m => ({ default: m.TestGameClass })));\nconst ChooseDoorClass = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"src_frontend_pages_components_gameClass_tsx-src_shared_config_games_default_ts\"), __webpack_require__.e(\"src_frontend_pages_games_ChooseDoor_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/ChooseDoor */ \"./src/frontend/pages/games/ChooseDoor.tsx\")).then(m => ({\n    default: m.ChooseDoorClass,\n})));\nconst LiarsBarController = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"vendors-node_modules_rsuite_icons_esm_icons_CloseOutline_js-node_modules_rsuite_icons_esm_ico-e973b9\"), __webpack_require__.e(\"vendors-node_modules_rsuite_esm_internals_Picker_Listbox_js-node_modules_rsuite_esm_internals-c62735\"), __webpack_require__.e(\"vendors-node_modules_rsuite_esm_SelectPicker_index_js\"), __webpack_require__.e(\"src_frontend_pages_games_multiplayer_Controller_tsx\"), __webpack_require__.e(\"src_frontend_pages_games_multiplayer_LiarsBar_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/multiplayer/LiarsBar */ \"./src/frontend/pages/games/multiplayer/LiarsBar.tsx\")).then(m => ({\n    default: m.LiarsBarController,\n})));\nconst UnoController = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"vendors-node_modules_rsuite_icons_esm_icons_CloseOutline_js-node_modules_rsuite_icons_esm_ico-e973b9\"), __webpack_require__.e(\"vendors-node_modules_three_build_three_module_js\"), __webpack_require__.e(\"vendors-node_modules_three_examples_jsm_loaders_GLTFLoader_js\"), __webpack_require__.e(\"src_frontend_pages_games_multiplayer_Controller_tsx\"), __webpack_require__.e(\"src_frontend_pages_games_multiplayer_Uno_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/multiplayer/Uno */ \"./src/frontend/pages/games/multiplayer/Uno.tsx\")).then(m => ({\n    default: m.UnoController,\n})));\nconst TypeCompetitionController = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"vendors-node_modules_rsuite_icons_esm_icons_CloseOutline_js-node_modules_rsuite_icons_esm_ico-e973b9\"), __webpack_require__.e(\"vendors-node_modules_rsuite_esm_internals_Picker_Listbox_js-node_modules_rsuite_esm_internals-c62735\"), __webpack_require__.e(\"vendors-node_modules_rsuite_esm_SelectPicker_index_js\"), __webpack_require__.e(\"src_frontend_pages_games_multiplayer_Controller_tsx\"), __webpack_require__.e(\"src_shared_words_en_json-src_shared_words_ru_json-src_shared_words_uk_json\"), __webpack_require__.e(\"src_frontend_pages_games_multiplayer_TypeCompetition_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/multiplayer/TypeCompetition */ \"./src/frontend/pages/games/multiplayer/TypeCompetition.tsx\")).then(m => ({\n    default: m.TypeCompetitionController,\n})));\nconst SpacePowerController = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"vendors-node_modules_rsuite_icons_esm_icons_CloseOutline_js-node_modules_rsuite_icons_esm_ico-e973b9\"), __webpack_require__.e(\"src_frontend_pages_games_multiplayer_Controller_tsx\"), __webpack_require__.e(\"src_frontend_pages_games_multiplayer_SpacePower_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/multiplayer/SpacePower */ \"./src/frontend/pages/games/multiplayer/SpacePower.tsx\")).then(m => ({\n    default: m.SpacePowerController,\n})));\nconst TenSecondsController = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"vendors-node_modules_rsuite_icons_esm_icons_CloseOutline_js-node_modules_rsuite_icons_esm_ico-e973b9\"), __webpack_require__.e(\"src_frontend_pages_games_multiplayer_Controller_tsx\"), __webpack_require__.e(\"src_frontend_pages_games_multiplayer_TenSeconds_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/multiplayer/TenSeconds */ \"./src/frontend/pages/games/multiplayer/TenSeconds.tsx\")).then(m => ({\n    default: m.TenSecondsController,\n})));\nconst NavalBattleController = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"vendors-node_modules_rsuite_icons_esm_icons_CloseOutline_js-node_modules_rsuite_icons_esm_ico-e973b9\"), __webpack_require__.e(\"src_frontend_pages_games_multiplayer_Controller_tsx\"), __webpack_require__.e(\"src_frontend_pages_games_multiplayer_NavalBattle_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/multiplayer/NavalBattle */ \"./src/frontend/pages/games/multiplayer/NavalBattle.tsx\")).then(m => ({\n    default: m.NavalBattleController,\n})));\nconst SharpshooterController = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"vendors-node_modules_rsuite_icons_esm_icons_CloseOutline_js-node_modules_rsuite_icons_esm_ico-e973b9\"), __webpack_require__.e(\"vendors-node_modules_rsuite_esm_internals_Picker_Listbox_js-node_modules_rsuite_esm_internals-c62735\"), __webpack_require__.e(\"vendors-node_modules_rsuite_esm_SelectPicker_index_js\"), __webpack_require__.e(\"src_frontend_pages_games_multiplayer_Controller_tsx\"), __webpack_require__.e(\"src_frontend_pages_games_multiplayer_Sharpshooter_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/multiplayer/Sharpshooter */ \"./src/frontend/pages/games/multiplayer/Sharpshooter.tsx\")).then(m => ({\n    default: m.SharpshooterController,\n})));\nconst GolfController = react__WEBPACK_IMPORTED_MODULE_1___default().lazy(() => Promise.all(/*! import() */[__webpack_require__.e(\"vendors-node_modules_rsuite_icons_esm_icons_CloseOutline_js-node_modules_rsuite_icons_esm_ico-e973b9\"), __webpack_require__.e(\"vendors-node_modules_three_build_three_module_js\"), __webpack_require__.e(\"src_frontend_pages_games_multiplayer_Controller_tsx\"), __webpack_require__.e(\"src_frontend_pages_games_multiplayer_Golf_tsx\")]).then(__webpack_require__.bind(__webpack_require__, /*! ../pages/games/multiplayer/Golf */ \"./src/frontend/pages/games/multiplayer/Golf.tsx\")).then(m => ({\n    default: m.GolfController,\n})));\nconst GameRouter = ({ currentGame, randomGame, errorConnection, showPlayersPage, token, socketConnected, LangString, onSetState, onLoadUserProfile, onHandlePlay, beforeRunNew, }) => {\n    if (errorConnection) {\n        return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"errorConnection\", children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"errorConnection-title\", children: LangString('errorConnectionDublicate') }) }));\n    }\n    if (!currentGame && showPlayersPage) {\n        return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_pages_players__WEBPACK_IMPORTED_MODULE_2__.PlayersPage, { LangString: LangString, onOpenProfile: id => {\n                onSetState({ showUserCard: id, showUserCardData: undefined });\n                onLoadUserProfile(id);\n            } }));\n    }\n    if (!currentGame)\n        return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_pages_main__WEBPACK_IMPORTED_MODULE_3__.Main, { handlePlay: game => {\n                onHandlePlay(game);\n            }, socketConnected: socketConnected }));\n    // Оборачиваем все игровые компоненты в ErrorBoundary и Suspense\n    const gameComponent = (() => {\n        if (currentGame === \"1\" /* GameID.LABYRINTH */)\n            return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(LabyrinthGameClass, { auto: randomGame, beforeRunNew: beforeRunNew }, currentGame));\n        if (currentGame === \"2\" /* GameID.WORDS */)\n            return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(WordsGameClass, { auto: randomGame, beforeRunNew: beforeRunNew }, currentGame));\n        if (currentGame === \"3\" /* GameID.SECTIONS */)\n            return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(SectionGameClass, { auto: randomGame, beforeRunNew: beforeRunNew }, currentGame));\n        if (currentGame === \"5\" /* GameID.DESTROY */)\n            return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(DestroyGameClass, { auto: randomGame, beforeRunNew: beforeRunNew }, currentGame));\n        if (currentGame === \"6\" /* GameID.DECRYPT */)\n            return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(DecryptGameClass, { auto: randomGame, beforeRunNew: beforeRunNew }, currentGame));\n        if (currentGame === \"7\" /* GameID.SEARCH */)\n            return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(SearchGameClass, { auto: randomGame, beforeRunNew: beforeRunNew }, currentGame));\n        if (currentGame === \"13\" /* GameID.VECTORS */)\n            return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(VectorGameClass, { auto: randomGame, beforeRunNew: beforeRunNew }, currentGame));\n        if (currentGame === \"8\" /* GameID.WORD */)\n            return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(WordGameClass, { auto: randomGame, beforeRunNew: beforeRunNew }, currentGame));\n        if (currentGame === \"9\" /* GameID.TREASURES */)\n            return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(TreasuresGameClass, { auto: randomGame, beforeRunNew: beforeRunNew }, currentGame));\n        if (currentGame === \"10\" /* GameID.MORZE */)\n            return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(MorzeGameClass, { auto: randomGame, beforeRunNew: beforeRunNew }, currentGame));\n        if (currentGame === \"11\" /* GameID.GAME_GUESSR */)\n            return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(GameGuessrClass, { auto: randomGame, beforeRunNew: beforeRunNew }, currentGame));\n        if (currentGame === \"999\" /* GameID.TEST */)\n            return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(TestGameClass, { auto: randomGame, beforeRunNew: beforeRunNew }, currentGame));\n        if (currentGame === \"12\" /* GameID.CHOOSE_DOOR */)\n            return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(ChooseDoorClass, { auto: randomGame, beforeRunNew: beforeRunNew }, currentGame));\n        if (currentGame === \"101\" /* GameID.LIARS_BAR */)\n            return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(LiarsBarController, {}, currentGame);\n        if (currentGame === \"100\" /* GameID.UNO */)\n            return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(UnoController, {}, currentGame);\n        if (currentGame === \"102\" /* GameID.TYPE_COMPETITION */)\n            return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(TypeCompetitionController, {}, currentGame);\n        if (currentGame === \"103\" /* GameID.SPACE_POWER */)\n            return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(SpacePowerController, {}, currentGame);\n        if (currentGame === \"104\" /* GameID.TEN_SECONDS */)\n            return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(TenSecondsController, {}, currentGame);\n        if (currentGame === \"105\" /* GameID.NAVAL_BATTLE */)\n            return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(NavalBattleController, {}, currentGame);\n        if (currentGame === \"106\" /* GameID.SHARP_SHOOTER */)\n            return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(SharpshooterController, {}, currentGame);\n        if (currentGame === \"107\" /* GameID.GOLF */)\n            return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(GolfController, {}, currentGame);\n        return null;\n    })();\n    if (gameComponent) {\n        return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(ErrorBoundary, { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(react__WEBPACK_IMPORTED_MODULE_1__.Suspense, { fallback: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { style: { padding: 24 }, children: \"Loading...\" }), children: gameComponent }) }));\n    }\n    return null;\n};\n\n\n//# sourceURL=webpack:///./src/frontend/modules/GameRouter.tsx?");
+
+/***/ }),
+
+/***/ "./src/frontend/modules/appState.ts":
+/*!******************************************!*\
+  !*** ./src/frontend/modules/appState.ts ***!
+  \******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   AppState: () => (/* binding */ AppState)\n/* harmony export */ });\nconst AppState = {\n    settings: false,\n    currentGame: undefined,\n    randomGame: false,\n    currentGamePlayed: 0,\n    afkTimer: 0,\n    twConnected: false,\n    errorConnection: false,\n    onlinPlayers: 0,\n    onlinPlayersShow: false,\n    onlinPlayersList: [],\n    version: '',\n    showUserCard: '',\n    showUserCardData: undefined,\n    outgoingRequests: [],\n    socketConnected: false,\n    showPlayersPage: false,\n    showMessages: false,\n    messageChats: [],\n    activeMessageUserId: '',\n    activeMessagePeer: undefined,\n    activeMessages: [],\n    messageInput: '',\n    messageUnreadCount: 0,\n    loadingMessages: false,\n    showLeaderboard: false,\n    leaderboardData: [],\n    leaderboardLoading: false,\n    leaderboardSelectedGame: undefined,\n    playerLeaderboardRank: undefined,\n};\n\n\n//# sourceURL=webpack:///./src/frontend/modules/appState.ts?");
+
+/***/ }),
+
+/***/ "./src/frontend/modules/messagesPanel.tsx":
+/*!************************************************!*\
+  !*** ./src/frontend/modules/messagesPanel.tsx ***!
+  \************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   MessagesPanel: () => (/* binding */ MessagesPanel)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Input/index.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Button/index.js\");\n/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../api */ \"./src/frontend/api.tsx\");\n/* harmony import */ var _shared_system__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../shared/system */ \"./src/shared/system.ts\");\n\n\n\n\nconst MessagesPanel = ({ showMessages, messageChats, messageUnreadCount, activeMessageUserId, activeMessagePeer, activeMessages, messageInput, LangString, SetAvatarFallback, GetPeerOnlineStatus, RenderMessageText, onLoadThread, onSendMessage, onOpenFab, onClose, onMessageInputChange, }) => {\n    if (messageChats.length === 0 && !showMessages)\n        return null;\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, { children: [!showMessages && ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"button\", { className: \"messages-fab\", onClick: onOpenFab, children: [\"\\uD83D\\uDCAC\", messageUnreadCount > 0 && ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { className: \"badge\", children: messageUnreadCount }))] })), showMessages && ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"messages-panel\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"messages-sidebar\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"messages-header\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { children: LangString('MessagesTitle') }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"button\", { className: \"close\", onClick: onClose, children: \"\\u2715\" })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"messages-chats\", children: messageChats.length ? (messageChats.map(chat => {\n                                    var _a;\n                                    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"button\", { className: `messages-chat-item ${activeMessageUserId === chat.peer.id ? 'active' : ''}`, onClick: () => onLoadThread(chat.peer.id, true), children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"chat-avatar-wrap\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"img\", { src: chat.peer.avatar, alt: chat.peer.displayName, onError: SetAvatarFallback }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { className: `online-dot ${GetPeerOnlineStatus(chat.peer)}` })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"text\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"name\", children: chat.peer.displayName }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"preview\", children: ((_a = chat.lastMessage) === null || _a === void 0 ? void 0 : _a.text) || '' })] }), !!chat.unread && ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { className: \"unread\", children: chat.unread }))] }, chat.peer.id));\n                                })) : ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"messages-empty\", children: LangString('MessagesNoChats') })) })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"messages-thread\", children: activeMessageUserId ? ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"thread-header\", children: (() => {\n                                        const peer = activeMessagePeer;\n                                        const status = peer ? GetPeerOnlineStatus(peer) : 'offline';\n                                        return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"thread-avatar-wrap\", style: { position: 'relative', cursor: 'pointer' }, onClick: () => peer && _api__WEBPACK_IMPORTED_MODULE_1__.Api.ShowProfile(peer.id), children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"img\", { src: (peer === null || peer === void 0 ? void 0 : peer.avatar) || './logo.png', alt: (peer === null || peer === void 0 ? void 0 : peer.displayName) || 'peer', onError: SetAvatarFallback }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { className: `online-dot ${status}` })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { style: { cursor: 'pointer' }, onClick: () => peer && _api__WEBPACK_IMPORTED_MODULE_1__.Api.ShowProfile(peer.id), children: (peer === null || peer === void 0 ? void 0 : peer.displayName) || '' })] }));\n                                    })() }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"thread-messages\", children: activeMessages.map(msg => {\n                                        const me = msg.from === _api__WEBPACK_IMPORTED_MODULE_1__.Api.user_id;\n                                        const isRead = me && activeMessagePeer\n                                            ? msg.readBy.includes(activeMessagePeer.id)\n                                            : false;\n                                        return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: `bubble-row ${me ? 'me' : 'peer'}`, children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: `bubble ${me ? 'me' : 'peer'}`, children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"text\", children: RenderMessageText(msg.text) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"time\", children: [_shared_system__WEBPACK_IMPORTED_MODULE_2__.System.timeStampString(msg.time), me && ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { className: `read-tick ${isRead ? 'read' : ''}`, children: isRead ? ' ✓✓' : ' ✓' }))] })] }) }, msg.id));\n                                    }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"thread-input\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_3__[\"default\"], { value: messageInput, onChange: value => onMessageInputChange(value), placeholder: LangString('MessagesInputPlaceholder'), onKeyDown: e => {\n                                                if (e.key === 'Enter')\n                                                    onSendMessage();\n                                            } }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"], { appearance: \"primary\", onClick: onSendMessage, children: LangString('MessagesSend') })] })] })) : ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"messages-empty\", children: LangString('MessagesSelectChat') })) })] }))] }));\n};\n\n\n//# sourceURL=webpack:///./src/frontend/modules/messagesPanel.tsx?");
+
+/***/ }),
+
+/***/ "./src/frontend/modules/modals/leaderboardModal.tsx":
+/*!**********************************************************!*\
+  !*** ./src/frontend/modules/modals/leaderboardModal.tsx ***!
+  \**********************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   LeaderboardModal: () => (/* binding */ LeaderboardModal)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Modal/index.js\");\n/* harmony import */ var _shared_games__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../shared/games */ \"./src/shared/games.ts\");\n/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../api */ \"./src/frontend/api.tsx\");\n/* harmony import */ var _controllers_images__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../controllers/images */ \"./src/frontend/controllers/images.tsx\");\n\n\n\n\n\nconst LeaderboardModal = ({ open, leaderboardLoading, leaderboardData, leaderboardSelectedGame, playerLeaderboardRank, username, onClose, onLoadLeaderboard, GetPlayerRating, SetAvatarFallback, LangString, }) => {\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"], { size: 'lg', className: \"leaderboard-modal\", open: open, onClose: onClose, children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"].Header, { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"].Title, { children: [\"\\uD83C\\uDFC6 \", LangString('Leaderboard') || 'Leaderboard'] }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"].Body, { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"leaderboard-container\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"leaderboard-games-filter\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"button\", { className: `filter-btn ${leaderboardSelectedGame === 'overall' ? 'active' : ''}`, onClick: () => onLoadLeaderboard('overall'), children: \"\\uD83D\\uDCCA Overall\" }), _shared_games__WEBPACK_IMPORTED_MODULE_1__.GAMES_LIST.filter(game => game.type === \"multiplayer\" /* GameType.MULTIPLAYER */).map(game => ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"button\", { className: `filter-btn ${leaderboardSelectedGame === game.id ? 'active' : ''}`, onClick: () => onLoadLeaderboard(game.id), title: LangString(game.name), children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_controllers_images__WEBPACK_IMPORTED_MODULE_3__.ImageLoader, { name: `${game.id}`, size: 32, alt: game.id, style: { height: '1.5em' } }) }, game.id)))] }), leaderboardLoading ? ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { style: { padding: '2rem', textAlign: 'center' }, children: \"Loading...\" })) : ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"table\", { className: \"leaderboard-table\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"thead\", { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"tr\", { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"th\", { style: { width: '5%' }, children: \"#\" }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"th\", { style: { width: '60%' }, children: \"Player\" }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"th\", { style: { width: '20%' }, children: \"Rating\" }), leaderboardSelectedGame !== 'overall' && ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"th\", { style: { width: '15%' }, children: \"Stats\" }))] }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"tbody\", { children: leaderboardData.map((player, index) => ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"tr\", { onClick: () => _api__WEBPACK_IMPORTED_MODULE_2__.Api.ShowProfile(player.id), style: { cursor: 'pointer' }, children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { className: \"rank\", children: index + 1 }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"td\", { className: \"player-name\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"img\", { src: player.avatar, alt: player.displayName, onError: SetAvatarFallback, style: {\n                                                                    height: '2em',\n                                                                    borderRadius: '50%',\n                                                                    marginRight: '0.5em',\n                                                                    verticalAlign: 'middle',\n                                                                } }), player.displayName] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { className: \"rating\", style: { textAlign: 'center', fontWeight: 'bold' }, children: GetPlayerRating(player, leaderboardSelectedGame) }), leaderboardSelectedGame !== 'overall' && ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { className: \"stats\", style: { textAlign: 'center' }, children: (() => {\n                                                            var _a;\n                                                            const gameData = (_a = player.playedGames) === null || _a === void 0 ? void 0 : _a.find(g => g.gameId === leaderboardSelectedGame);\n                                                            return gameData\n                                                                ? `${gameData.wins}W / ${gameData.losses}L`\n                                                                : '-';\n                                                        })() }))] }, player.id))) })] }), playerLeaderboardRank && ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"leaderboard-player-rank\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"divider\", children: \"...\" }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"table\", { className: \"leaderboard-table\", children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"tbody\", { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"tr\", { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { className: \"rank\", style: { width: '5%' }, children: playerLeaderboardRank.rank }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { className: \"player-name\", style: { width: '60%' }, children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"strong\", { children: [\"\\uD83D\\uDCCD \", username || 'You'] }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { className: \"rating\", style: {\n                                                                width: '20%',\n                                                                textAlign: 'center',\n                                                                fontWeight: 'bold',\n                                                            }, children: playerLeaderboardRank.rating })] }) }) })] }))] }))] }) })] }));\n};\n\n\n//# sourceURL=webpack:///./src/frontend/modules/modals/leaderboardModal.tsx?");
+
+/***/ }),
+
+/***/ "./src/frontend/modules/modals/onlinePlayersModal.tsx":
+/*!************************************************************!*\
+  !*** ./src/frontend/modules/modals/onlinePlayersModal.tsx ***!
+  \************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   OnlinePlayersModal: () => (/* binding */ OnlinePlayersModal)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Modal/index.js\");\n/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../api */ \"./src/frontend/api.tsx\");\n/* harmony import */ var _shared_system__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../shared/system */ \"./src/shared/system.ts\");\n\n\n\n\nconst OnlinePlayersModal = ({ open, onlinPlayersList, onClose, SetAvatarFallback, LangString, }) => {\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(rsuite__WEBPACK_IMPORTED_MODULE_3__[\"default\"], { size: 'sm', open: open && onlinPlayersList.length > 0, enforceFocus: false, onClose: onClose, children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_3__[\"default\"].Header, { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_3__[\"default\"].Title, { children: LangString('OnlinePlayersList') }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_3__[\"default\"].Body, { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"players-list-page\", children: onlinPlayersList.map(player => ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"players-list-item\", onClick: () => _api__WEBPACK_IMPORTED_MODULE_1__.Api.ShowProfile(player.id), children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"img\", { src: player.avatar, alt: player.displayName, onError: SetAvatarFallback }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"players-list-item-content\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"name\", children: player.displayName }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"meta\", children: [\"@\", player.name, \" #\", player.id] })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"status\", children: player.lastSeenTimestamp\n                                    ? LangString('OnlinePlayersListLastSeen', _shared_system__WEBPACK_IMPORTED_MODULE_2__.System.timeStampString(player.lastSeenTimestamp))\n                                    : LangString('NowOnline') })] }, player.id))) }) })] }));\n};\n\n\n//# sourceURL=webpack:///./src/frontend/modules/modals/onlinePlayersModal.tsx?");
+
+/***/ }),
+
+/***/ "./src/frontend/modules/modals/settingsModal.tsx":
+/*!*******************************************************!*\
+  !*** ./src/frontend/modules/modals/settingsModal.tsx ***!
+  \*******************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   SettingsModal: () => (/* binding */ SettingsModal)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Modal/index.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Checkbox/index.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Slider/index.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/InputNumber/index.js\");\n/* harmony import */ var _rsuite_icons_Global__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @rsuite/icons/Global */ \"./node_modules/@rsuite/icons/esm/icons/Global.js\");\n/* harmony import */ var _rsuite_icons_PeoplesUploaded__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! @rsuite/icons/PeoplesUploaded */ \"./node_modules/@rsuite/icons/esm/icons/PeoplesUploaded.js\");\n/* harmony import */ var _rsuite_icons_IdInfo__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! @rsuite/icons/IdInfo */ \"./node_modules/@rsuite/icons/esm/icons/IdInfo.js\");\n/* harmony import */ var _rsuite_icons_Media__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @rsuite/icons/Media */ \"./node_modules/@rsuite/icons/esm/icons/Media.js\");\n/* harmony import */ var _shared_games__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../shared/games */ \"./src/shared/games.ts\");\n/* harmony import */ var _controllers_language__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../controllers/language */ \"./src/frontend/controllers/language.ts\");\n/* harmony import */ var _controllers_state__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../controllers/state */ \"./src/frontend/controllers/state.ts\");\n/* harmony import */ var _controllers_images__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../controllers/images */ \"./src/frontend/controllers/images.tsx\");\n/* harmony import */ var _controllers_sounds__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../controllers/sounds */ \"./src/frontend/controllers/sounds.ts\");\n\n\n\n\n\n\n\n\n\n\n\nconst SettingsModal = ({ open, currentLang, randomGames, onClose, LangString, onForceUpdate, }) => {\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(rsuite__WEBPACK_IMPORTED_MODULE_6__[\"default\"], { size: 'sm', open: open, onClose: onClose, children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_6__[\"default\"].Header, { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_6__[\"default\"].Title, { children: LangString('Settings') }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_6__[\"default\"].Body, { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"settingsBody\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"item \", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"title\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_rsuite_icons_Global__WEBPACK_IMPORTED_MODULE_7__[\"default\"], {}), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { children: LangString('language') })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"items language\", children: (0,_controllers_language__WEBPACK_IMPORTED_MODULE_2__.getAllLangs)().map(lang => ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(rsuite__WEBPACK_IMPORTED_MODULE_8__[\"default\"], { checked: lang === currentLang, color: \"green\", onClick: e => {\n                                            e.preventDefault();\n                                            _controllers_state__WEBPACK_IMPORTED_MODULE_3__.Store.setLang(lang);\n                                            onForceUpdate();\n                                        }, children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"img\", { src: (0,_controllers_images__WEBPACK_IMPORTED_MODULE_4__.GetImage)(`flags/${lang}`), style: { height: '1.2em' } }), ' ', LangString(lang)] }, lang))) })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"item \", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"title\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_rsuite_icons_Media__WEBPACK_IMPORTED_MODULE_9__[\"default\"], {}), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { children: LangString('SoundsVolume') })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"items\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"label\", { children: LangString('GlobalVolume') }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_10__[\"default\"], { value: _controllers_state__WEBPACK_IMPORTED_MODULE_3__.Store.getGlobalVolume(), onChange: e => {\n                                                _controllers_state__WEBPACK_IMPORTED_MODULE_3__.Store.setGlobalVolume(e);\n                                                onForceUpdate();\n                                            }, min: 0, max: 100, step: 10, graduated: true, progress: true, renderMark: mark => mark + '%' })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"items\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"label\", { children: LangString('SoundsVolumeSound') }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_10__[\"default\"], { value: _controllers_state__WEBPACK_IMPORTED_MODULE_3__.Store.getSoundsVolume(), onChange: e => {\n                                                _controllers_state__WEBPACK_IMPORTED_MODULE_3__.Store.setSoundsVolume(e);\n                                                onForceUpdate();\n                                            }, onChangeCommitted: e => {\n                                                _controllers_state__WEBPACK_IMPORTED_MODULE_3__.Store.setSoundsVolume(e);\n                                                (0,_controllers_sounds__WEBPACK_IMPORTED_MODULE_5__.PlaySound)('notify');\n                                                onForceUpdate();\n                                            }, min: 0, max: 100, step: 10, graduated: true, progress: true, renderMark: mark => mark + '%' })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"items\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"label\", { children: LangString('BackgroundMusicVolume') }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_10__[\"default\"], { value: _controllers_state__WEBPACK_IMPORTED_MODULE_3__.Store.getBackgroundMusicVolume(), onChange: e => {\n                                                _controllers_state__WEBPACK_IMPORTED_MODULE_3__.Store.setBackgroundMusicVolume(e);\n                                                onForceUpdate();\n                                            }, min: 0, max: 100, step: 10, graduated: true, progress: true, renderMark: mark => mark + '%' })] })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"item \", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"title\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_rsuite_icons_PeoplesUploaded__WEBPACK_IMPORTED_MODULE_11__[\"default\"], {}), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { children: LangString('PlayAFKGames') })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"desc\", children: LangString('PlayAFKGamesDesc') }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"items\", children: _shared_games__WEBPACK_IMPORTED_MODULE_1__.GAMES_LIST.filter(q => q.type === \"chat\" /* GameType.CHAT */ && q.afk).map(game => ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(rsuite__WEBPACK_IMPORTED_MODULE_8__[\"default\"], { checked: randomGames &&\n                                            (randomGames === null || randomGames === void 0 ? void 0 : randomGames.length) &&\n                                            randomGames.includes(game.id), color: \"green\", onClick: e => {\n                                            e.stopPropagation();\n                                            e.preventDefault();\n                                            const old = _controllers_state__WEBPACK_IMPORTED_MODULE_3__.Store.getAfkGames() || [];\n                                            if (old.includes(game.id)) {\n                                                _controllers_state__WEBPACK_IMPORTED_MODULE_3__.Store.setAfkGames(old.filter(q => q !== game.id));\n                                            }\n                                            else {\n                                                _controllers_state__WEBPACK_IMPORTED_MODULE_3__.Store.setAfkGames([...old, game.id]);\n                                            }\n                                            onForceUpdate();\n                                        }, children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_controllers_images__WEBPACK_IMPORTED_MODULE_4__.ImageLoader, { name: `${game.id}`, size: 32, style: { height: '1.2em' } }), ' ', LangString(game.name), \" (\", game.autoTime, \"s)\"] }, game.id))) })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"item \", children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"items\", children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_12__[\"default\"], { size: \"lg\", value: _controllers_state__WEBPACK_IMPORTED_MODULE_3__.Store.getAfkGamesChange(), onChange: e => {\n                                        _controllers_state__WEBPACK_IMPORTED_MODULE_3__.Store.setAfkGamesChange(parseInt(e) || 1);\n                                        onForceUpdate();\n                                    }, min: 1, max: 500, formatter: value => LangString('PlayAFKGamesLimitGame', value) }) }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"item \", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"title\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_rsuite_icons_IdInfo__WEBPACK_IMPORTED_MODULE_13__[\"default\"], {}), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { children: LangString('SettingsInfoFont') })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"items\", children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_12__[\"default\"], { size: \"lg\", value: _controllers_state__WEBPACK_IMPORTED_MODULE_3__.Store.getInfoSize(), onChange: e => {\n                                            _controllers_state__WEBPACK_IMPORTED_MODULE_3__.Store.setInfoSize(parseFloat(e) || 1);\n                                            onForceUpdate();\n                                        }, min: 1, max: 10, step: 0.1, formatter: value => `x${value}` }) })] })] }) })] }));\n};\n\n\n//# sourceURL=webpack:///./src/frontend/modules/modals/settingsModal.tsx?");
+
+/***/ }),
+
+/***/ "./src/frontend/modules/modals/userProfileModal.tsx":
+/*!**********************************************************!*\
+  !*** ./src/frontend/modules/modals/userProfileModal.tsx ***!
+  \**********************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   UserProfileModal: () => (/* binding */ UserProfileModal)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Modal/index.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Button/index.js\");\n/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../api */ \"./src/frontend/api.tsx\");\n/* harmony import */ var _shared_system__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../shared/system */ \"./src/shared/system.ts\");\n/* harmony import */ var _shared_games__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../shared/games */ \"./src/shared/games.ts\");\n/* harmony import */ var _controllers_images__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../controllers/images */ \"./src/frontend/controllers/images.tsx\");\nvar __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {\n    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }\n    return new (P || (P = Promise))(function (resolve, reject) {\n        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }\n        function rejected(value) { try { step(generator[\"throw\"](value)); } catch (e) { reject(e); } }\n        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }\n        step((generator = generator.apply(thisArg, _arguments || [])).next());\n    });\n};\n\n\n\n\n\n\nconst UserProfileModal = ({ open, showUserCardData, outgoingRequests, onClose, SetAvatarFallback, LangString, onLoadUserProfile, onOpenMessagesWith, }) => {\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_5__[\"default\"], { size: 'lg', className: \"profile-user-modal\", open: open, onClose: onClose, children: showUserCardData ? ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_5__[\"default\"].Header, { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_5__[\"default\"].Title, { children: LangString('CardUserInfo', showUserCardData.displayName) }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_5__[\"default\"].Body, { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"userInfo userInfo-columns\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"profile-col profile-main\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"profile-avatar\", children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"img\", { src: showUserCardData.avatar, alt: showUserCardData.displayName, onError: SetAvatarFallback }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"profile-displayName\", children: showUserCardData.displayName }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"profile-username\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"a\", { href: `https://twitch.tv/${showUserCardData.name}`, target: \"_blank\", rel: \"noopener noreferrer\", children: [\"@\", showUserCardData.name] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"span\", { className: \"profile-id\", children: [\"#\", showUserCardData.id] })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"profile-lastseen\", children: showUserCardData.lastSeenTimestamp\n                                            ? LangString('OnlinePlayersListLastSeen', _shared_system__WEBPACK_IMPORTED_MODULE_2__.System.timeStampString(showUserCardData.lastSeenTimestamp))\n                                            : LangString('NowOnline') }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"profile-stats\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"b\", { children: LangString('ProfilePlayedSeconds') }), \":\", ' ', _shared_system__WEBPACK_IMPORTED_MODULE_2__.System.secondsToString(showUserCardData.playedSeconds || 0)] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"b\", { children: LangString('ProfilePlayedGames') }), \":\", ' ', showUserCardData.playedGames\n                                                        ? showUserCardData.playedGames.reduce((sum, g) => sum + g.wins + g.losses, 0)\n                                                        : 0] })] }), showUserCardData.id !== _api__WEBPACK_IMPORTED_MODULE_1__.Api.user_id && ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { style: { margin: '1em 0' }, children: [showUserCardData.friends &&\n                                                showUserCardData.friends.find(f => f.id === _api__WEBPACK_IMPORTED_MODULE_1__.Api.user_id) ? ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"button\", { className: \"friend-btn remove\", onClick: () => __awaiter(void 0, void 0, void 0, function* () {\n                                                    yield _api__WEBPACK_IMPORTED_MODULE_1__.Api.Post('/api/friends/remove', {\n                                                        id: showUserCardData.id,\n                                                    });\n                                                    onLoadUserProfile(showUserCardData.id);\n                                                }), children: LangString('ProfileRemoveFriend') })) : showUserCardData.friends_requests &&\n                                                showUserCardData.friends_requests.find(f => f.id === _api__WEBPACK_IMPORTED_MODULE_1__.Api.user_id) ? ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"button\", { className: \"friend-btn remove\", onClick: () => __awaiter(void 0, void 0, void 0, function* () {\n                                                    yield _api__WEBPACK_IMPORTED_MODULE_1__.Api.Post('/api/friends/cancel', {\n                                                        id: showUserCardData.id,\n                                                    });\n                                                    onLoadUserProfile(showUserCardData.id);\n                                                }), children: LangString('ProfileCancelRequest') })) : ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"button\", { className: \"friend-btn add\", onClick: () => __awaiter(void 0, void 0, void 0, function* () {\n                                                    yield _api__WEBPACK_IMPORTED_MODULE_1__.Api.Post('/api/friends/add', {\n                                                        id: showUserCardData.id,\n                                                    });\n                                                    onLoadUserProfile(showUserCardData.id);\n                                                }), children: LangString('ProfileAddFriend') })), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"button\", { className: \"friend-btn message\", style: { marginLeft: 8 }, onClick: () => onOpenMessagesWith(showUserCardData.id), children: LangString('ProfileMessage') })] })), showUserCardData.id === _api__WEBPACK_IMPORTED_MODULE_1__.Api.user_id && ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, { children: [showUserCardData.friends_requests &&\n                                                showUserCardData.friends_requests.length > 0 && ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"profile-table-block\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"profile-table-title\", children: LangString('ProfileIncomingRequests') }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"table\", { className: \"profile-table\", children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"tbody\", { children: showUserCardData.friends_requests.map(req => ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"tr\", { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"img\", { src: req.avatar, alt: req.name, onError: SetAvatarFallback, style: {\n                                                                                width: 32,\n                                                                                height: 32,\n                                                                                borderRadius: '50%',\n                                                                            } }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { children: req.name }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"td\", { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_6__[\"default\"], { size: \"sm\", color: \"green\", appearance: \"primary\", title: LangString('ProfileAccept'), style: {\n                                                                                    marginRight: 4,\n                                                                                    minWidth: 0,\n                                                                                    padding: '4px 10px',\n                                                                                }, onClick: () => __awaiter(void 0, void 0, void 0, function* () {\n                                                                                    yield _api__WEBPACK_IMPORTED_MODULE_1__.Api.Post('/api/friends/accept', {\n                                                                                        id: req.id,\n                                                                                    });\n                                                                                    onLoadUserProfile(showUserCardData.id);\n                                                                                }), children: \"\\u2713\" }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_6__[\"default\"], { size: \"sm\", color: \"red\", appearance: \"primary\", title: LangString('ProfileDecline'), style: {\n                                                                                    minWidth: 0,\n                                                                                    padding: '4px 10px',\n                                                                                }, onClick: () => __awaiter(void 0, void 0, void 0, function* () {\n                                                                                    yield _api__WEBPACK_IMPORTED_MODULE_1__.Api.Post('/api/friends/decline', {\n                                                                                        id: req.id,\n                                                                                    });\n                                                                                    onLoadUserProfile(showUserCardData.id);\n                                                                                }), children: \"\\u2717\" })] })] }, req.id))) }) })] })), outgoingRequests && outgoingRequests.length > 0 && ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"profile-table-block\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"profile-table-title\", children: LangString('ProfileOutgoingRequests') }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"table\", { className: \"profile-table\", children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"tbody\", { children: outgoingRequests.map(req => ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"tr\", { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"img\", { src: req.avatar, alt: req.displayName, onError: SetAvatarFallback, style: {\n                                                                                width: 32,\n                                                                                height: 32,\n                                                                                borderRadius: '50%',\n                                                                            } }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { children: req.displayName }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_6__[\"default\"], { size: \"sm\", color: \"red\", appearance: \"primary\", title: LangString('ProfileCancel'), style: {\n                                                                                minWidth: 0,\n                                                                                padding: '4px 10px',\n                                                                            }, onClick: () => __awaiter(void 0, void 0, void 0, function* () {\n                                                                                yield _api__WEBPACK_IMPORTED_MODULE_1__.Api.Post('/api/friends/cancel', {\n                                                                                    id: req.id,\n                                                                                });\n                                                                                onLoadUserProfile(showUserCardData.id);\n                                                                            }), children: \"\\u2717\" }) })] }, req.id))) }) })] }))] }))] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"profile-col profile-tables\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"profile-table-block\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"profile-table-title\", children: LangString('ProfileFriends') }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"table\", { className: \"profile-table\", children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"tbody\", { children: showUserCardData.friends &&\n                                                        showUserCardData.friends.length > 0 ? (showUserCardData.friends.map(friend => ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"tr\", { onClick: () => _api__WEBPACK_IMPORTED_MODULE_1__.Api.ShowProfile(friend.id), style: { cursor: 'pointer' }, children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"img\", { src: friend.avatar, alt: friend.id, onError: SetAvatarFallback, style: {\n                                                                        width: 32,\n                                                                        height: 32,\n                                                                        borderRadius: '50%',\n                                                                    } }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { children: friend.name })] }, friend.id)))) : ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"tr\", { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { colSpan: 2, children: LangString('ProfileNoData') }) })) }) })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"profile-table-block\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"profile-table-title\", children: LangString('ProfileGames') }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"table\", { className: \"profile-table profile-games-table\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"colgroup\", { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"col\", { className: \"col-game\" }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"col\", { className: \"col-wins\" }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"col\", { className: \"col-losses\" }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"col\", { className: \"col-rating\" })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"thead\", { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"tr\", { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"th\", { children: LangString('ProfileGame') }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"th\", { children: LangString('ProfileWins') }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"th\", { children: LangString('ProfileLoses') }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"th\", { children: LangString('ProfileRating') })] }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"tbody\", { children: showUserCardData.playedGames &&\n                                                            showUserCardData.playedGames.length > 0 ? (Object.entries(showUserCardData.playedGames.reduce((acc, g) => {\n                                                            var _a;\n                                                            acc[g.gameId] = {\n                                                                wins: g.wins,\n                                                                losses: g.losses,\n                                                                rating: (_a = g.rating) !== null && _a !== void 0 ? _a : 1000,\n                                                            };\n                                                            return acc;\n                                                        }, {})).map(([gameId, stats]) => {\n                                                            const game = _shared_games__WEBPACK_IMPORTED_MODULE_3__.GAMES_LIST.find(g => g.id === gameId);\n                                                            return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"tr\", { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"profile-game-cell\", children: [game && ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_controllers_images__WEBPACK_IMPORTED_MODULE_4__.ImageLoader, { className: \"profile-game-logo\", name: `${game.id}`, size: 32, alt: gameId })), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { children: game ? LangString(game.name) : gameId })] }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { children: stats.wins }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { children: stats.losses }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"td\", { children: [stats.rating, \" Elo\"] })] }, gameId));\n                                                        })) : ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"tr\", { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"td\", { colSpan: 4, children: LangString('ProfileNoData') }) })) })] })] })] })] }) })] })) : ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { style: { padding: 40, textAlign: 'center' }, children: \"Loading...\" })) }));\n};\n\n\n//# sourceURL=webpack:///./src/frontend/modules/modals/userProfileModal.tsx?");
+
+/***/ }),
+
+/***/ "./src/frontend/pages/components/confirm.tsx":
+/*!***************************************************!*\
+  !*** ./src/frontend/pages/components/confirm.tsx ***!
+  \***************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   Confirm: () => (/* binding */ Confirm),\n/* harmony export */   ConfirmPassword: () => (/* binding */ ConfirmPassword)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Modal/index.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Button/index.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/InputGroup/index.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Input/index.js\");\n/* harmony import */ var _ebay_nice_modal_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @ebay/nice-modal-react */ \"./node_modules/@ebay/nice-modal-react/lib/esm/index.js\");\n/* harmony import */ var _controllers_language_hook__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../controllers/language.hook */ \"./src/frontend/controllers/language.hook.ts\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_3__);\n\n\n\n\n\nconst ConfirmModal = _ebay_nice_modal_react__WEBPACK_IMPORTED_MODULE_1__[\"default\"].create((props) => {\n    const LangString = (0,_controllers_language_hook__WEBPACK_IMPORTED_MODULE_2__.LangStringModule)();\n    const modal = (0,_ebay_nice_modal_react__WEBPACK_IMPORTED_MODULE_1__.useModal)();\n    const handleClose = (status) => {\n        modal.hide();\n        props.onAction(status);\n    };\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"], { open: modal.visible, onExited: modal.remove, backdrop: \"static\", children: [props.title ? ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"].Header, { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"].Title, { children: LangString(props.title) }) })) : ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {})), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"].Body, { children: LangString(props.text) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"].Footer, { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_5__[\"default\"], { onClick: () => handleClose(true), appearance: \"primary\", children: \"Ok\" }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_5__[\"default\"], { onClick: () => handleClose(false), appearance: \"subtle\", children: \"Cancel\" })] })] }));\n});\nconst PasswordModal = _ebay_nice_modal_react__WEBPACK_IMPORTED_MODULE_1__[\"default\"].create((props) => {\n    const LangString = (0,_controllers_language_hook__WEBPACK_IMPORTED_MODULE_2__.LangStringModule)();\n    const modal = (0,_ebay_nice_modal_react__WEBPACK_IMPORTED_MODULE_1__.useModal)();\n    const [password, setPassword] = (0,react__WEBPACK_IMPORTED_MODULE_3__.useState)('');\n    const handleClose = (status) => {\n        modal.hide();\n        props.onAction(status && password ? password : undefined);\n    };\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"], { open: modal.visible, onExited: modal.remove, backdrop: \"static\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"].Header, { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"].Title, { children: LangString(props.title) }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"].Body, { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_6__[\"default\"], { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_7__[\"default\"], { value: password, onChange: e => setPassword(e), type: \"password\" }) }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"].Footer, { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_5__[\"default\"], { onClick: () => handleClose(true), appearance: \"primary\", children: \"Ok\" }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_5__[\"default\"], { onClick: () => handleClose(false), appearance: \"subtle\", children: \"Cancel\" })] })] }));\n});\nconst Confirm = (text, title) => {\n    return new Promise(resolve => {\n        _ebay_nice_modal_react__WEBPACK_IMPORTED_MODULE_1__[\"default\"].show(ConfirmModal, { text, title, onAction: resolve });\n    });\n};\nconst ConfirmPassword = (title) => {\n    return new Promise(resolve => {\n        _ebay_nice_modal_react__WEBPACK_IMPORTED_MODULE_1__[\"default\"].show(PasswordModal, { title, onAction: resolve });\n    });\n};\n\n\n//# sourceURL=webpack:///./src/frontend/pages/components/confirm.tsx?");
+
+/***/ }),
+
+/***/ "./src/frontend/pages/components/notify.tsx":
+/*!**************************************************!*\
+  !*** ./src/frontend/pages/components/notify.tsx ***!
+  \**************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   NotifyBlock: () => (/* binding */ NotifyBlock),\n/* harmony export */   TriggerNotify: () => (/* binding */ TriggerNotify)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _controllers_language_hook__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../controllers/language.hook */ \"./src/frontend/controllers/language.hook.ts\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Notification/index.js\");\n/* harmony import */ var _shared_system__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../shared/system */ \"./src/shared/system.ts\");\n/* harmony import */ var _controllers_events__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../controllers/events */ \"./src/frontend/controllers/events.ts\");\n/* harmony import */ var _controllers_sounds__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../controllers/sounds */ \"./src/frontend/controllers/sounds.ts\");\n\n\n\n\n\n\n\nconst TriggerNotify = (...items) => {\n    (0,_controllers_sounds__WEBPACK_IMPORTED_MODULE_5__.PlaySound)('notify');\n    _controllers_events__WEBPACK_IMPORTED_MODULE_4__.EventSystem.Emit('addNotify', ...items);\n};\nwindow.TriggerNotify = TriggerNotify;\nconst NotifyBlock = react__WEBPACK_IMPORTED_MODULE_1___default().memo(() => {\n    const LangString = (0,_controllers_language_hook__WEBPACK_IMPORTED_MODULE_2__.LangStringModule)();\n    const [notifyList, setNotifyList] = react__WEBPACK_IMPORTED_MODULE_1___default().useState([]);\n    const RemoveItem = react__WEBPACK_IMPORTED_MODULE_1___default().useCallback((id) => {\n        setNotifyList(old => old.map(q2 => {\n            return Object.assign(Object.assign({}, q2), { hide: q2.id2 === id ? true : q2.hide });\n        }));\n        setTimeout(() => {\n            setNotifyList(old => old.filter(q2 => id !== q2.id2));\n        }, 800);\n    }, [notifyList]);\n    react__WEBPACK_IMPORTED_MODULE_1___default().useEffect(() => {\n        const listen = _controllers_events__WEBPACK_IMPORTED_MODULE_4__.EventSystem.Listen('addNotify', (...items) => {\n            items = items.map(q => {\n                return Object.assign(Object.assign({}, q), { id: q.id || _shared_system__WEBPACK_IMPORTED_MODULE_3__.System.randomString(5), id2: _shared_system__WEBPACK_IMPORTED_MODULE_3__.System.randomString(5) });\n            });\n            setNotifyList(old => [\n                ...items.reverse(),\n                ...old.filter(q => !items.find(q2 => q2.id === q.id)),\n            ]);\n            items.forEach(q => {\n                if (q.seconds) {\n                    setTimeout(() => {\n                        RemoveItem(q.id2);\n                    }, q.seconds * 1000);\n                }\n            });\n        });\n        return () => {\n            listen.Destroy();\n        };\n    }, []);\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"notifyBlock\", children: notifyList.map(q => {\n            return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_6__[\"default\"], { type: q.type || 'info', className: q.hide ? 'hide' : '', header: q.header\n                    ? LangString(q.header, ...(q.headerArgs || []))\n                    : undefined, closable: true, onClose: e => {\n                    e.preventDefault();\n                    e.stopPropagation();\n                    RemoveItem(q.id2);\n                }, children: LangString(q.text, ...(q.textArgs || [])) }, `${q.id}_${q.id2}`));\n        }) }));\n});\n\n\n//# sourceURL=webpack:///./src/frontend/pages/components/notify.tsx?");
+
+/***/ }),
+
+/***/ "./src/frontend/pages/components/switch.tsx":
+/*!**************************************************!*\
+  !*** ./src/frontend/pages/components/switch.tsx ***!
+  \**************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   Switcher: () => (/* binding */ Switcher),\n/* harmony export */   SwitcherAutoMod: () => (/* binding */ SwitcherAutoMod)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Toggle/index.js\");\n/* harmony import */ var _controllers_language_hook__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../controllers/language.hook */ \"./src/frontend/controllers/language.hook.ts\");\n\n\n\n\nconst Switcher = react__WEBPACK_IMPORTED_MODULE_1___default().memo((props) => {\n    const LangString = (0,_controllers_language_hook__WEBPACK_IMPORTED_MODULE_2__.LangStringModule)();\n    if (props.separate) {\n        return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_3__[\"default\"], { checked: props.active, disabled: props.disable, onChange: val => {\n                props.onChange(val);\n            }, color: props.color, children: props.active\n                ? LangString(props.checkedText)\n                : LangString(props.unCheckedText || props.checkedText) }));\n    }\n    else {\n        return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_3__[\"default\"], { checkedChildren: LangString(props.checkedText), unCheckedChildren: LangString(props.unCheckedText || props.checkedText), checked: props.active, onChange: val => {\n                props.onChange(val);\n            }, disabled: props.disable }));\n    }\n});\nconst SwitcherAutoMod = react__WEBPACK_IMPORTED_MODULE_1___default().memo((props) => {\n    const LangString = (0,_controllers_language_hook__WEBPACK_IMPORTED_MODULE_2__.LangStringModule)();\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(Switcher, { active: props.active, onChange: props.onChange, checkedText: \"Labyrinth_Autostart\", \n        // unCheckedText=\"Labyrinth_Manual\"\n        separate: props.separate, color: props.color, disable: props.disable }));\n});\n\n\n//# sourceURL=webpack:///./src/frontend/pages/components/switch.tsx?");
+
+/***/ }),
+
+/***/ "./src/frontend/pages/components/tooltip.tsx":
+/*!***************************************************!*\
+  !*** ./src/frontend/pages/components/tooltip.tsx ***!
+  \***************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   DrawToolTip: () => (/* binding */ DrawToolTip)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _shared_system__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../shared/system */ \"./src/shared/system.ts\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Whisper/index.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Tooltip/index.js\");\n\n\n\n\nconst DrawToolTip = react__WEBPACK_IMPORTED_MODULE_1___default().memo((props) => {\n    let id = react__WEBPACK_IMPORTED_MODULE_1___default().useRef(_shared_system__WEBPACK_IMPORTED_MODULE_2__.System.randomString(15));\n    const mouseMoveFix = (e) => {\n        const el = document.getElementById(id.current);\n        if (!el)\n            return;\n        if (props.draggable && e.buttons === 1) {\n            e.preventDefault();\n            if (el) {\n                // console.log(el.style.left, el.style.top, el.clientWidth, el.clientHeight);\n                el.style.left = `${parseInt(el.style.left) + e.movementX}px`;\n                el.style.top = `${parseInt(el.style.top) + e.movementY}px`;\n            }\n        }\n        if (props.limitWindowPosition) {\n            const maxW = window.innerWidth - 10;\n            const maxH = window.innerHeight - 10;\n            if (maxW <= parseInt(el.style.left) + el.clientWidth) {\n                const left = maxW - el.clientWidth;\n                el.style.left = `${left}px`;\n            }\n            if (maxH <= parseInt(el.style.top) + el.clientHeight) {\n                const top = maxH - el.clientHeight;\n                el.style.top = `${top}px`;\n            }\n            if (el.style.left.startsWith('-')) {\n                el.style.left = `0px`;\n            }\n            if (el.style.top.startsWith('-')) {\n                el.style.top = `0px`;\n            }\n        }\n    };\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_3__[\"default\"], { placement: props.placement || 'auto', trigger: props.trigger || 'click', defaultOpen: props.trigger === 'active', onOpen: () => {\n            if (props.onOpen)\n                props.onOpen();\n        }, speaker: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"], { id: id.current, onMouseMove: (e) => {\n                mouseMoveFix(e);\n            }, arrow: typeof props.arrow === 'boolean' ? props.arrow : false, className: `${props.draggable ? 'draggableToolTip ' : ''} ${props.leftText ? ' tooltipObjectSText ' : ' tooltipObjectText '} ${props.className ? ` ${props.className}` : ''}`, children: props.text }), children: props.children }));\n});\n\n\n//# sourceURL=webpack:///./src/frontend/pages/components/tooltip.tsx?");
+
+/***/ }),
+
+/***/ "./src/frontend/pages/main.tsx":
+/*!*************************************!*\
+  !*** ./src/frontend/pages/main.tsx ***!
+  \*************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   GamesSection: () => (/* binding */ GamesSection),\n/* harmony export */   Main: () => (/* binding */ Main)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Button/index.js\");\n/* harmony import */ var _controllers_language_hook__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../controllers/language.hook */ \"./src/frontend/controllers/language.hook.ts\");\n/* harmony import */ var _shared_games__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../shared/games */ \"./src/shared/games.ts\");\n/* harmony import */ var _controllers_images__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../controllers/images */ \"./src/frontend/controllers/images.tsx\");\n/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../api */ \"./src/frontend/api.tsx\");\n/* harmony import */ var _components_tooltip__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./components/tooltip */ \"./src/frontend/pages/components/tooltip.tsx\");\n\n\n\n\n\n\n\n\nconst GamesSection = (title, icon, category, handlePlay, socketConnected) => {\n    const isAuth = (0,_api__WEBPACK_IMPORTED_MODULE_5__.isAuthTsx)();\n    const LangString = (0,_controllers_language_hook__WEBPACK_IMPORTED_MODULE_2__.LangStringModule)();\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"mainGamesTitle\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"img\", { src: icon }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { children: title })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"mainGames\", children: _shared_games__WEBPACK_IMPORTED_MODULE_3__.GAMES_LIST.filter(q => q.type === category && (q.hide !== \"hide\" /* GameHideType.HIDE */ || _api__WEBPACK_IMPORTED_MODULE_5__.Api.isDebug)).map(product => {\n                    const button = ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_7__[\"default\"], { appearance: \"ghost\", color: product.hide === \"disable\" /* GameHideType.DISABLE */ ? 'red' : 'blue', onClick: () => handlePlay(product.id), disabled: !isAuth ||\n                            product.hide === \"disable\" /* GameHideType.DISABLE */ ||\n                            (product.type === \"multiplayer\" /* GameType.MULTIPLAYER */ && !socketConnected), children: LangString('Play') }));\n                    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"gameInfo\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"image\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_controllers_images__WEBPACK_IMPORTED_MODULE_4__.ImageLoader, { name: `${product.id}`, size: 256, alt: LangString(product.name) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"labels\", children: [product.beta && (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"beta\", children: \"\\u2B50 BETA\" }), product.hide && (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"hide\", children: \"WIP\" })] })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: 'text', children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"h3\", { children: LangString(product.name) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"p\", { children: LangString(product.desc) })] }), product.hide === \"disable\" /* GameHideType.DISABLE */ ? ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components_tooltip__WEBPACK_IMPORTED_MODULE_6__.DrawToolTip, { text: LangString('ComingSoon'), trigger: \"hover\", children: button })) : product.type === \"multiplayer\" /* GameType.MULTIPLAYER */ &&\n                                !socketConnected &&\n                                _api__WEBPACK_IMPORTED_MODULE_5__.Api.isAuth ? ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components_tooltip__WEBPACK_IMPORTED_MODULE_6__.DrawToolTip, { text: LangString('socketErrorConnection'), trigger: \"hover\", children: button })) : (button)] }, product.id));\n                }) })] }));\n};\nconst Main = react__WEBPACK_IMPORTED_MODULE_1___default().memo((props) => {\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, { children: [GamesSection('MULTIPLAYER GAMES', (0,_controllers_images__WEBPACK_IMPORTED_MODULE_4__.GetImage)('gamesIcon'), \"multiplayer\" /* GameType.MULTIPLAYER */, props.handlePlay, props.socketConnected), GamesSection('TWITCH GAMES', 'https://dev.twitch.tv/docs/assets/favicon.ico', \"chat\" /* GameType.CHAT */, props.handlePlay, props.socketConnected)] }));\n});\n\n\n//# sourceURL=webpack:///./src/frontend/pages/main.tsx?");
+
+/***/ }),
+
+/***/ "./src/frontend/pages/players.tsx":
+/*!****************************************!*\
+  !*** ./src/frontend/pages/players.tsx ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   PlayersPage: () => (/* binding */ PlayersPage)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _api__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../api */ \"./src/frontend/api.tsx\");\n/* harmony import */ var _shared_system__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../shared/system */ \"./src/shared/system.ts\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Input/index.js\");\n/* harmony import */ var rsuite__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! rsuite */ \"./node_modules/rsuite/esm/Loader/index.js\");\nvar __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {\n    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }\n    return new (P || (P = Promise))(function (resolve, reject) {\n        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }\n        function rejected(value) { try { step(generator[\"throw\"](value)); } catch (e) { reject(e); } }\n        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }\n        step((generator = generator.apply(thisArg, _arguments || [])).next());\n    });\n};\n\n\n\n\n\nconst PAGE_SIZE = 30;\nconst PlayersPage = ({ LangString, onOpenProfile }) => {\n    const [players, setPlayers] = react__WEBPACK_IMPORTED_MODULE_1___default().useState([]);\n    const [search, setSearch] = react__WEBPACK_IMPORTED_MODULE_1___default().useState('');\n    const [loading, setLoading] = react__WEBPACK_IMPORTED_MODULE_1___default().useState(false);\n    const [loadingMore, setLoadingMore] = react__WEBPACK_IMPORTED_MODULE_1___default().useState(false);\n    const [hasMore, setHasMore] = react__WEBPACK_IMPORTED_MODULE_1___default().useState(true);\n    const [total, setTotal] = react__WEBPACK_IMPORTED_MODULE_1___default().useState(0);\n    const offsetRef = react__WEBPACK_IMPORTED_MODULE_1___default().useRef(0);\n    const setAvatarFallback = react__WEBPACK_IMPORTED_MODULE_1___default().useCallback((e) => {\n        e.currentTarget.onerror = null;\n        e.currentTarget.src = './logo.png';\n    }, []);\n    const fetchPlayers = react__WEBPACK_IMPORTED_MODULE_1___default().useCallback((reset, query) => __awaiter(void 0, void 0, void 0, function* () {\n        if (loading || loadingMore)\n            return;\n        if (!reset && !hasMore)\n            return;\n        if (reset) {\n            setLoading(true);\n            offsetRef.current = 0;\n        }\n        else {\n            setLoadingMore(true);\n        }\n        const offset = reset ? 0 : offsetRef.current;\n        const res = yield _api__WEBPACK_IMPORTED_MODULE_2__.Api.Get('/api/users/list', {\n            offset,\n            limit: PAGE_SIZE,\n            search: query,\n        });\n        if (res.status && res.data) {\n            const nextItems = res.data.items || [];\n            setPlayers(prev => (reset ? nextItems : [...prev, ...nextItems]));\n            setTotal(res.data.total || 0);\n            setHasMore(!!res.data.hasMore);\n            offsetRef.current = offset + nextItems.length;\n        }\n        if (reset) {\n            setLoading(false);\n        }\n        else {\n            setLoadingMore(false);\n        }\n    }), [hasMore, loading, loadingMore]);\n    react__WEBPACK_IMPORTED_MODULE_1___default().useEffect(() => {\n        fetchPlayers(true, '');\n    }, []);\n    react__WEBPACK_IMPORTED_MODULE_1___default().useEffect(() => {\n        const tm = setTimeout(() => {\n            fetchPlayers(true, search);\n        }, 350);\n        return () => clearTimeout(tm);\n    }, [search]);\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"players-page\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"players-page-header\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"h2\", { children: LangString('PlayersPageTitle') }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"span\", { children: LangString('PlayersPageTotal', total) })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"players-search\", children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_4__[\"default\"], { value: search, onChange: value => setSearch(value), placeholder: LangString('PlayersPageSearch') }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"players-list-page\", onScroll: e => {\n                    const el = e.currentTarget;\n                    const nearBottom = el.scrollTop + el.clientHeight >= el.scrollHeight - 120;\n                    if (nearBottom) {\n                        fetchPlayers(false, search);\n                    }\n                }, children: [loading ? ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"players-list-loader\", children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_5__[\"default\"], { size: \"md\", content: \"Loading\" }) })) : players.length === 0 ? ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"players-empty\", children: LangString('ProfileNoData') })) : (players.map(player => ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"players-list-item\", onClick: () => onOpenProfile(player.id), children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"img\", { src: player.avatar, alt: player.displayName, onError: setAvatarFallback }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"players-list-item-content\", children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"name\", children: player.displayName }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", { className: \"meta\", children: [\"@\", player.name, \" #\", player.id] })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"status\", children: player.lastSeenTimestamp\n                                    ? LangString('OnlinePlayersListLastSeen', _shared_system__WEBPACK_IMPORTED_MODULE_3__.System.timeStampString(player.lastSeenTimestamp))\n                                    : LangString('NowOnline') })] }, player.id)))), loadingMore && ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"div\", { className: \"players-list-loader\", children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(rsuite__WEBPACK_IMPORTED_MODULE_5__[\"default\"], { size: \"sm\", content: \"Loading\" }) }))] })] }));\n};\n\n\n//# sourceURL=webpack:///./src/frontend/pages/players.tsx?");
+
+/***/ }),
+
+/***/ "./src/shared/config.user.default.ts":
+/*!*******************************************!*\
+  !*** ./src/shared/config.user.default.ts ***!
+  \*******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   userStoreDefault: () => (/* binding */ userStoreDefault)\n/* harmony export */ });\n/* harmony import */ var _games__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./games */ \"./src/shared/games.ts\");\n\nconst userStoreDefault = {\n    lang: 'en',\n    afkGames: (_games__WEBPACK_IMPORTED_MODULE_0__.GAMES_LIST.filter(q => q.type === \"chat\" /* GameType.CHAT */ && q.afk).map(q => q.id)),\n    afkGamesChange: 2,\n    webcam: true,\n    game_settings: true,\n    infoSize: 1,\n    soundsVolume: 50,\n    voiceVolume: 50,\n    backgroundMusicVolume: 20,\n    globalVolume: 100,\n};\n\n\n//# sourceURL=webpack:///./src/shared/config.user.default.ts?");
+
+/***/ }),
+
+/***/ "./src/shared/games.ts":
+/*!*****************************!*\
+  !*** ./src/shared/games.ts ***!
+  \*****************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   GAMES_LIST: () => (/* binding */ GAMES_LIST),\n/* harmony export */   GAME_SHOW_WINNER_TIME: () => (/* binding */ GAME_SHOW_WINNER_TIME),\n/* harmony export */   GetGameAutoTime: () => (/* binding */ GetGameAutoTime)\n/* harmony export */ });\nconst GAME_SHOW_WINNER_TIME = 5000;\nconst GAMES_LIST = [\n    {\n        id: \"1\" /* GameID.LABYRINTH */,\n        type: \"chat\" /* GameType.CHAT */,\n        name: 'GameLab',\n        desc: 'GameLabDesc',\n        minPlayers: 1,\n        afk: true,\n        autoTime: 60,\n    },\n    {\n        id: \"2\" /* GameID.WORDS */,\n        type: \"chat\" /* GameType.CHAT */,\n        name: 'GameWords',\n        desc: 'GameWordsDesc',\n        minPlayers: 1,\n        afk: true,\n        autoTime: 90,\n    },\n    {\n        id: \"3\" /* GameID.SECTIONS */,\n        type: \"chat\" /* GameType.CHAT */,\n        name: 'GameSections',\n        desc: 'GameSectionsDesc',\n        minPlayers: 1,\n        afk: true,\n        autoTime: 90,\n    },\n    // {\n    //   id: GameID.RACE,\n    //   type: GameType.CHAT,\n    //   name: 'GameRace',\n    //   desc: 'GameRaceDesc',\n    //   minPlayers: 1,\n    //   maxPlayers: 10,\n    //   afk: false,\n    //   hide: true,\n    //   autoTime: 90,\n    // },\n    {\n        id: \"5\" /* GameID.DESTROY */,\n        type: \"chat\" /* GameType.CHAT */,\n        name: 'GameDestroy',\n        desc: 'GameDestroyDesc',\n        minPlayers: 1,\n        afk: true,\n        // hide: true,\n        autoTime: 120,\n    },\n    {\n        id: \"6\" /* GameID.DECRYPT */,\n        type: \"chat\" /* GameType.CHAT */,\n        name: 'GameDecrypt',\n        desc: 'GameDecryptDesc',\n        minPlayers: 1,\n        afk: true,\n        // hide: true,\n        autoTime: 240,\n    },\n    {\n        id: \"7\" /* GameID.SEARCH */,\n        type: \"chat\" /* GameType.CHAT */,\n        name: 'GameSearch',\n        desc: 'GameSearchDesc',\n        minPlayers: 1,\n        afk: true,\n        // hide: true,\n        autoTime: 120,\n    },\n    {\n        id: \"8\" /* GameID.WORD */,\n        type: \"chat\" /* GameType.CHAT */,\n        name: 'GameWord',\n        desc: 'GameWordDesc',\n        minPlayers: 1,\n        afk: true,\n        // hide: true,\n        autoTime: 120,\n    },\n    {\n        id: \"9\" /* GameID.TREASURES */,\n        type: \"chat\" /* GameType.CHAT */,\n        name: 'GameTreasures',\n        desc: 'GameTreasuresDesc',\n        minPlayers: 1,\n        afk: true,\n        // hide: true,\n        autoTime: 120,\n    },\n    {\n        id: \"10\" /* GameID.MORZE */,\n        type: \"chat\" /* GameType.CHAT */,\n        name: 'GameMorze',\n        desc: 'GameMorzeDesc',\n        minPlayers: 1,\n        afk: true,\n        // hide: true,\n        autoTime: 120,\n    },\n    {\n        id: \"11\" /* GameID.GAME_GUESSR */,\n        type: \"chat\" /* GameType.CHAT */,\n        name: 'gameGuessrName',\n        desc: 'gameGuessrDesc',\n        minPlayers: 1,\n        afk: false,\n        hide: \"disable\" /* GameHideType.DISABLE */,\n        autoTime: 120,\n    },\n    {\n        id: \"12\" /* GameID.CHOOSE_DOOR */,\n        type: \"chat\" /* GameType.CHAT */,\n        name: 'GameDoorChoice',\n        desc: 'GameDoorChoiceDesc',\n        minPlayers: 1,\n        afk: true,\n        autoTime: 120,\n        beta: false,\n    },\n    {\n        id: \"13\" /* GameID.VECTORS */,\n        type: \"chat\" /* GameType.CHAT */,\n        name: 'GameVectors',\n        desc: 'GameVectorsDesc',\n        minPlayers: 1,\n        afk: true,\n        autoTime: 120,\n        beta: true,\n    },\n    {\n        id: \"100\" /* GameID.UNO */,\n        type: \"multiplayer\" /* GameType.MULTIPLAYER */,\n        name: 'gameUno',\n        desc: 'gameUnoDesc',\n        minPlayers: 2,\n        // hide: GameHideType.DISABLE,\n        autoTime: 0,\n        beta: true,\n        allowBots: true,\n        canPause: true,\n        maxPlayers: 8,\n        rules: [\n            'UnoRule1',\n            'UnoRule2',\n            'UnoRule3',\n            'UnoRule4',\n            'UnoRule5',\n            'UnoRule6',\n            'UnoRule7',\n            'UnoRule8',\n            'UnoRule9',\n            'UnoRule10',\n        ]\n    },\n    {\n        id: \"101\" /* GameID.LIARS_BAR */,\n        type: \"multiplayer\" /* GameType.MULTIPLAYER */,\n        name: 'gameLiarsBar',\n        desc: 'gameLiarsBarDesc',\n        minPlayers: 2,\n        maxPlayers: 11,\n        autoTime: 0,\n        beta: true,\n        allowBots: true,\n        canPause: true,\n        rules: [\n            'LiarsBarRule1',\n            'LiarsBarRule2',\n            'LiarsBarRule3',\n            'LiarsBarRule4',\n            'LiarsBarRule5',\n            'LiarsBarRule6',\n            'LiarsBarRule7',\n            'LiarsBarRule8',\n        ]\n    },\n    {\n        id: \"102\" /* GameID.TYPE_COMPETITION */,\n        type: \"multiplayer\" /* GameType.MULTIPLAYER */,\n        name: 'gameTypeCompetition',\n        desc: 'gameTypeCompetitionDesc',\n        minPlayers: 2,\n        maxPlayers: 10,\n        autoTime: 0,\n        beta: true,\n        allowBots: true,\n        canPause: true,\n        rules: [\n            'TypeCompetitionRule1',\n            'TypeCompetitionRule2',\n            'TypeCompetitionRule3',\n            'TypeCompetitionRule4',\n            'TypeCompetitionRule5',\n            'TypeCompetitionRule6',\n            'TypeCompetitionRule7',\n            'TypeCompetitionRule8',\n        ]\n    },\n    {\n        id: \"103\" /* GameID.SPACE_POWER */,\n        type: \"multiplayer\" /* GameType.MULTIPLAYER */,\n        name: 'gameSpacePower',\n        desc: 'gameSpacePowerDesc',\n        minPlayers: 2,\n        maxPlayers: 10,\n        autoTime: 0,\n        beta: true,\n        allowBots: true,\n        canPause: true,\n        rules: [\n            'SpacePowerRule1',\n            'SpacePowerRule2',\n            'SpacePowerRule3',\n            'SpacePowerRule4',\n            'SpacePowerRule5',\n            'SpacePowerRule6',\n        ]\n    },\n    {\n        id: \"104\" /* GameID.TEN_SECONDS */,\n        type: \"multiplayer\" /* GameType.MULTIPLAYER */,\n        name: 'gameTenSeconds',\n        desc: 'gameTenSecondsDesc',\n        minPlayers: 2,\n        maxPlayers: 10,\n        autoTime: 0,\n        beta: true,\n        allowBots: true,\n        canPause: true,\n        rules: [\n            'TenSecondsRule1',\n            'TenSecondsRule2',\n            'TenSecondsRule3',\n            'TenSecondsRule4',\n            'TenSecondsRule5',\n            'TenSecondsRule6',\n            'TenSecondsRule7',\n            'TenSecondsRule8',\n            'TenSecondsRule9',\n            'TenSecondsRule10',\n        ]\n    },\n    {\n        id: \"105\" /* GameID.NAVAL_BATTLE */,\n        type: \"multiplayer\" /* GameType.MULTIPLAYER */,\n        name: 'gameNavalBattle',\n        desc: 'gameNavalBattleDesc',\n        minPlayers: 2,\n        maxPlayers: 10,\n        autoTime: 0,\n        beta: true,\n        allowBots: true,\n        canPause: true,\n        rules: [\n            'NavalBattleRule1',\n            'NavalBattleRule2',\n            'NavalBattleRule3',\n            'NavalBattleRule4',\n            'NavalBattleRule5',\n            'NavalBattleRule6',\n            'NavalBattleRule7',\n            'NavalBattleRule8',\n        ]\n    },\n    {\n        id: \"106\" /* GameID.SHARP_SHOOTER */,\n        type: \"multiplayer\" /* GameType.MULTIPLAYER */,\n        name: 'gameSharpShooter',\n        desc: 'gameSharpShooterDesc',\n        minPlayers: 2,\n        maxPlayers: 10,\n        autoTime: 0,\n        beta: true,\n        allowBots: true,\n        canPause: true,\n        rules: [\n            'SharpShooterRule1',\n            'SharpShooterRule2',\n            'SharpShooterRule3',\n            'SharpShooterRule4',\n            'SharpShooterRule5',\n        ]\n    },\n    {\n        id: \"107\" /* GameID.GOLF */,\n        type: \"multiplayer\" /* GameType.MULTIPLAYER */,\n        name: 'gameGolf',\n        desc: 'gameGolfDesc',\n        minPlayers: 1,\n        maxPlayers: 12,\n        autoTime: 0,\n        beta: true,\n        hide: \"disable\" /* GameHideType.DISABLE */,\n        allowBots: false,\n        canPause: true,\n        rules: [\n            'GolfRule1',\n            'GolfRule2',\n            'GolfRule3',\n            'GolfRule4',\n            'GolfRule5',\n            'GolfRule6',\n            'GolfRule7',\n            'GolfRule8',\n        ]\n    },\n];\nconst GetGameAutoTime = (game) => {\n    var _a;\n    return (_a = GAMES_LIST.find(q => q.id === game)) === null || _a === void 0 ? void 0 : _a.autoTime;\n};\n\n\n//# sourceURL=webpack:///./src/shared/games.ts?");
+
+/***/ }),
+
+/***/ "./src/shared/system.ts":
+/*!******************************!*\
+  !*** ./src/shared/system.ts ***!
+  \******************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   System: () => (/* binding */ System)\n/* harmony export */ });\nfunction getRandomInt(min, max) {\n    if (max < min)\n        [min, max] = [max, min];\n    return Math.floor(Math.random() * (max - min + 1)) + min;\n}\nfunction getRandomFloat(min, max) {\n    if (max < min)\n        [min, max] = [max, min];\n    return Math.random() * (max - min) + min;\n}\nfunction randElIndex(arr) {\n    const newArr = [...arr];\n    return getRandomInt(0, newArr.length - 1);\n}\nfunction randEl(arr) {\n    const newArr = [...arr];\n    return newArr[getRandomInt(0, newArr.length - 1)];\n}\nfunction shuffleArray(data) {\n    const array = JSON.parse(JSON.stringify(data));\n    let currentIndex = array.length;\n    // While there remain elements to shuffle...\n    while (currentIndex != 0) {\n        // Pick a remaining element...\n        let randomIndex = Math.floor(Math.random() * currentIndex);\n        currentIndex--;\n        // And swap it with the current element.\n        [array[currentIndex], array[randomIndex]] = [\n            array[randomIndex],\n            array[currentIndex],\n        ];\n    }\n    return array;\n}\nconst System = new (class {\n    constructor() {\n        this.randomElement = randEl;\n        this.randomElementIndex = randElIndex;\n        this.shuffleArray = shuffleArray;\n        this.getRandomInt = getRandomInt;\n        this.getRandomFloat = getRandomFloat;\n    }\n    extractURL(string) {\n        const urlRegex = /^(?:https?:\\/\\/)?(?:www\\.)?([\\w-]+\\.[\\w-]+)/i;\n        const match = string.match(urlRegex);\n        if (match) {\n            const fullURL = match[0];\n            const domain = match[1];\n            const url = fullURL.startsWith('http') ? fullURL : `https://${fullURL}`;\n            return { url, name: domain };\n        }\n        return null;\n    }\n    randomString(length, characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789') {\n        let result = '';\n        const charactersLength = characters.length;\n        let counter = 0;\n        while (counter < length) {\n            result += characters.charAt(Math.floor(Math.random() * charactersLength));\n            counter += 1;\n        }\n        return result;\n    }\n    toBinary(string) {\n        const codeUnits = new Uint16Array(string.length);\n        for (let i = 0; i < codeUnits.length; i++) {\n            codeUnits[i] = string.charCodeAt(i);\n        }\n        return btoa(String.fromCharCode(...new Uint8Array(codeUnits.buffer)));\n    }\n    fromBinary(encoded) {\n        const binary = atob(encoded);\n        const bytes = new Uint8Array(binary.length);\n        for (let i = 0; i < bytes.length; i++) {\n            bytes[i] = binary.charCodeAt(i);\n        }\n        return String.fromCharCode(...new Uint16Array(bytes.buffer));\n    }\n    sleep(time) {\n        return new Promise(resolve => {\n            setTimeout(() => {\n                resolve(true);\n            }, time);\n        });\n    }\n    chunkArray(array, size) {\n        const result = [];\n        for (let i = 0; i < array.length; i += size) {\n            result.push(array.slice(i, i + size));\n        }\n        return result;\n    }\n    isImageLink(url) {\n        const imageExtensions = /\\.(jpg|jpeg|png|gif|bmp|webp|svg)(\\?.*)?$/i;\n        return imageExtensions.test(url);\n    }\n    get test() {\n        return process.env.WORK_DEV == '1';\n    }\n    get domain() {\n        return process.env.DOMAIN || 'localhost';\n    }\n    numberFormat(num, replaceIntEnd = true) {\n        if (typeof num !== 'number') {\n            num = Number(num);\n        }\n        let n = num.toFixed(2);\n        if (replaceIntEnd) {\n            n = n.replace('.00', '');\n        }\n        return n.replace(/.+?(?=\\D|$)/, function (f) {\n            return f.replace(/(\\d)(?=(?:\\d\\d\\d)+$)/g, '$1 ');\n        });\n    }\n    get timestamp() {\n        return Math.floor(this.timestampMS / 1000);\n    }\n    get timestampMS() {\n        return Date.now();\n    }\n    get fullDateTime() {\n        const dateTime = new Date();\n        return `${this.digitFormat(dateTime.getDate())}.${this.digitFormat(dateTime.getMonth() + 1)}.${this.digitFormat(dateTime.getFullYear())} ${this.digitFormat(dateTime.getHours())}:${this.digitFormat(dateTime.getMinutes())}`;\n    }\n    get fullDateTimeS() {\n        const dateTime = new Date();\n        return `${this.digitFormat(dateTime.getDate())}.${this.digitFormat(dateTime.getMonth() + 1)}.${this.digitFormat(dateTime.getFullYear())} ${this.digitFormat(dateTime.getHours())}:${this.digitFormat(dateTime.getMinutes())}:${this.digitFormat(dateTime.getSeconds())}`;\n    }\n    get dateNotTime() {\n        const dateTime = new Date();\n        return `${this.digitFormat(dateTime.getDate())}.${this.digitFormat(dateTime.getMonth() + 1)}.${this.digitFormat(dateTime.getFullYear())}`;\n    }\n    digitFormat(number) {\n        return `0${number}`.slice(-2);\n    }\n    lerp2d(vector1, vector2, amount) {\n        return {\n            x: this.lerp(vector1.x, vector2.x, amount),\n            y: this.lerp(vector1.y, vector2.y, amount),\n        };\n    }\n    lerp(value1, value2, amount) {\n        amount = amount < 0 ? 0 : amount;\n        amount = amount > 1 ? 1 : amount;\n        return value1 + (value2 - value1) * amount;\n    }\n    lerpTime(start, end, current = this.timestampMS) {\n        const cnt = current - start;\n        return Math.max(0, Math.min(1, cnt / (end - start)));\n    }\n    lerpVectors(vector1, vector2, amount) {\n        return {\n            x: this.lerp(vector1.x, vector2.x, amount),\n            y: this.lerp(vector1.y, vector2.y, amount),\n            z: this.lerp(vector1.z, vector2.z, amount),\n        };\n    }\n    /** Полная строка с датой и временем\n     * @example 20.01.2020 12:00\n     * @example 12:00 (Дата не рисуется если она сегодняшняя)\n     * @example 20.01.2020 12:00 (В любом случае будет дата, если параметр full = true)\n     */\n    timeStampString(time = this.timestamp, full = false) {\n        const dateTimeNow = new Date();\n        const dateTime = new Date(time * 1000);\n        let res = `${this.digitFormat(dateTime.getHours())}:${this.digitFormat(dateTime.getMinutes())}`;\n        if (full ||\n            dateTimeNow.getDate() != dateTime.getDate() ||\n            dateTimeNow.getMonth() != dateTime.getMonth() ||\n            dateTimeNow.getFullYear() != dateTime.getFullYear()) {\n            res = `${this.digitFormat(dateTime.getDate())}.${this.digitFormat(dateTime.getMonth() + 1)}${dateTimeNow.getFullYear() != dateTime.getFullYear() || full\n                ? `.${this.digitFormat(dateTime.getFullYear())}`\n                : ''} ${res}`;\n        }\n        return res;\n    }\n    secondsToString(duration) {\n        // Hours, minutes and seconds\n        const hrs = ~~(duration / 3600);\n        const mins = ~~((duration % 3600) / 60);\n        const secs = ~~duration % 60;\n        // Output like \"1:01\" or \"4:03:59\" or \"123:03:59\"\n        let ret = '';\n        if (hrs > 0) {\n            ret += `${hrs}:${mins < 10 ? '0' : ''}`;\n        }\n        ret += `${mins}:${secs < 10 ? '0' : ''}`;\n        ret += `${secs}`;\n        return ret;\n    }\n    msToString(duration) {\n        const seconds = Math.floor(duration / 1000);\n        let ret = this.secondsToString(seconds);\n        let ms = (duration % 1000).toString();\n        while (ms.length < 3) {\n            ms = `0${ms}`;\n        }\n        ret += `.${ms}`;\n        return ret;\n    }\n    sortArray(array, type = 'DESC') {\n        return array.sort((a, b) => {\n            let res = 0;\n            if (type !== 'DESC') {\n                if (a < b) {\n                    res = -1;\n                }\n                else if (a > b) {\n                    res = 1;\n                }\n            }\n            else {\n                if (a < b) {\n                    res = 1;\n                }\n                else if (a > b) {\n                    res = -1;\n                }\n            }\n            return res;\n        });\n    }\n    sortArrayObjects(array, param) {\n        return array.sort((a, b) => {\n            let res = 0;\n            param.map(q => {\n                if (res != 0) {\n                    return;\n                }\n                const aval = a[q.id];\n                const bval = b[q.id];\n                if (q.type !== 'DESC') {\n                    if (aval < bval) {\n                        res = -1;\n                    }\n                    else if (aval > bval) {\n                        res = 1;\n                    }\n                }\n                else {\n                    if (aval < bval) {\n                        res = 1;\n                    }\n                    else if (aval > bval) {\n                        res = -1;\n                    }\n                }\n            });\n            return res;\n        });\n    }\n    toBuffer(ab) {\n        const buf = Buffer.alloc(ab.byteLength);\n        const view = new Uint8Array(ab);\n        for (let i = 0; i < buf.length; ++i) {\n            buf[i] = view[i];\n        }\n        return buf;\n    }\n})();\n\n\n//# sourceURL=webpack:///./src/shared/system.ts?");
+
+/***/ }),
+
+/***/ "./src/shared/twitch.ts":
+/*!******************************!*\
+  !*** ./src/shared/twitch.ts ***!
+  \******************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   TWITCH_CLIENT_ID: () => (/* binding */ TWITCH_CLIENT_ID),\n/* harmony export */   TWITCH_OAUTH_LINK: () => (/* binding */ TWITCH_OAUTH_LINK),\n/* harmony export */   TWITCH_SCOPES: () => (/* binding */ TWITCH_SCOPES)\n/* harmony export */ });\nconst TWITCH_CLIENT_ID = '0hqrrg50fsmxymg97bl6q826wf09f8';\nconst TWITCH_SCOPES = ['chat:read', 'chat:edit'];\nconst TWITCH_OAUTH_LINK = (url) => {\n    return `https://id.twitch.tv/oauth2/authorize?client_id=${TWITCH_CLIENT_ID}&redirect_uri=${url}&response_type=token&scope=${TWITCH_SCOPES.join('+')}`;\n};\n\n\n//# sourceURL=webpack:///./src/shared/twitch.ts?");
+
+/***/ }),
+
+/***/ "./src/shared/web.ts":
+/*!***************************!*\
+  !*** ./src/shared/web.ts ***!
+  \***************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   WEB_HTTPS_PORT: () => (/* binding */ WEB_HTTPS_PORT)\n/* harmony export */ });\nconst WEB_HTTPS_PORT = 8443;\n\n\n//# sourceURL=webpack:///./src/shared/web.ts?");
+
+/***/ }),
+
+/***/ "./src/frontend/images sync recursive ^\\.\\/.*\\..*$":
+/*!************************************************!*\
+  !*** ./src/frontend/images/ sync ^\.\/.*\..*$ ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("var map = {\n\t\"./crown.svg\": \"./src/frontend/images/crown.svg\",\n\t\"./door/door.png\": \"./src/frontend/images/door/door.png\",\n\t\"./door/door_open.png\": \"./src/frontend/images/door/door_open.png\",\n\t\"./flags/en.svg\": \"./src/frontend/images/flags/en.svg\",\n\t\"./flags/ru.svg\": \"./src/frontend/images/flags/ru.svg\",\n\t\"./flags/uk.svg\": \"./src/frontend/images/flags/uk.svg\",\n\t\"./games/1.png\": \"./src/frontend/images/games/1.png\",\n\t\"./games/10.png\": \"./src/frontend/images/games/10.png\",\n\t\"./games/100.png\": \"./src/frontend/images/games/100.png\",\n\t\"./games/101.png\": \"./src/frontend/images/games/101.png\",\n\t\"./games/102.png\": \"./src/frontend/images/games/102.png\",\n\t\"./games/103.png\": \"./src/frontend/images/games/103.png\",\n\t\"./games/104.png\": \"./src/frontend/images/games/104.png\",\n\t\"./games/105.png\": \"./src/frontend/images/games/105.png\",\n\t\"./games/106.png\": \"./src/frontend/images/games/106.png\",\n\t\"./games/107.png\": \"./src/frontend/images/games/107.png\",\n\t\"./games/11.png\": \"./src/frontend/images/games/11.png\",\n\t\"./games/12.png\": \"./src/frontend/images/games/12.png\",\n\t\"./games/13.png\": \"./src/frontend/images/games/13.png\",\n\t\"./games/2.png\": \"./src/frontend/images/games/2.png\",\n\t\"./games/3.png\": \"./src/frontend/images/games/3.png\",\n\t\"./games/4.png\": \"./src/frontend/images/games/4.png\",\n\t\"./games/5.png\": \"./src/frontend/images/games/5.png\",\n\t\"./games/6.png\": \"./src/frontend/images/games/6.png\",\n\t\"./games/7.png\": \"./src/frontend/images/games/7.png\",\n\t\"./games/8.png\": \"./src/frontend/images/games/8.png\",\n\t\"./games/9.png\": \"./src/frontend/images/games/9.png\",\n\t\"./games/999.png\": \"./src/frontend/images/games/999.png\",\n\t\"./gamesIcon.svg\": \"./src/frontend/images/gamesIcon.svg\",\n\t\"./guessr/genshin_1_answer_1.jpg\": \"./src/frontend/images/guessr/genshin_1_answer_1.jpg\",\n\t\"./guessr/genshin_1_answer_2.jpg\": \"./src/frontend/images/guessr/genshin_1_answer_2.jpg\",\n\t\"./guessr/genshin_1_answer_3.jpg\": \"./src/frontend/images/guessr/genshin_1_answer_3.jpg\",\n\t\"./guessr/genshin_1_answer_4.jpg\": \"./src/frontend/images/guessr/genshin_1_answer_4.jpg\",\n\t\"./guessr/genshin_1_question.jpg\": \"./src/frontend/images/guessr/genshin_1_question.jpg\",\n\t\"./guessr/genshin_2_answer_1.jpg\": \"./src/frontend/images/guessr/genshin_2_answer_1.jpg\",\n\t\"./guessr/genshin_2_answer_2.jpg\": \"./src/frontend/images/guessr/genshin_2_answer_2.jpg\",\n\t\"./guessr/genshin_2_answer_3.jpg\": \"./src/frontend/images/guessr/genshin_2_answer_3.jpg\",\n\t\"./guessr/genshin_2_answer_4.jpg\": \"./src/frontend/images/guessr/genshin_2_answer_4.jpg\",\n\t\"./guessr/genshin_2_question.jpg\": \"./src/frontend/images/guessr/genshin_2_question.jpg\",\n\t\"./guessr/genshin_3_answer_1.jpg\": \"./src/frontend/images/guessr/genshin_3_answer_1.jpg\",\n\t\"./guessr/genshin_3_answer_2.jpg\": \"./src/frontend/images/guessr/genshin_3_answer_2.jpg\",\n\t\"./guessr/genshin_3_answer_3.jpg\": \"./src/frontend/images/guessr/genshin_3_answer_3.jpg\",\n\t\"./guessr/genshin_3_answer_4.jpg\": \"./src/frontend/images/guessr/genshin_3_answer_4.jpg\",\n\t\"./guessr/genshin_3_question.jpg\": \"./src/frontend/images/guessr/genshin_3_question.jpg\",\n\t\"./guessr/genshin_4_answer_1.jpg\": \"./src/frontend/images/guessr/genshin_4_answer_1.jpg\",\n\t\"./guessr/genshin_4_answer_2.jpg\": \"./src/frontend/images/guessr/genshin_4_answer_2.jpg\",\n\t\"./guessr/genshin_4_answer_3.jpg\": \"./src/frontend/images/guessr/genshin_4_answer_3.jpg\",\n\t\"./guessr/genshin_4_answer_4.jpg\": \"./src/frontend/images/guessr/genshin_4_answer_4.jpg\",\n\t\"./guessr/genshin_4_question.jpg\": \"./src/frontend/images/guessr/genshin_4_question.jpg\",\n\t\"./guessr/gta5_1_loc.png\": \"./src/frontend/images/guessr/gta5_1_loc.png\",\n\t\"./guessr/gta5_1_loc_1.png\": \"./src/frontend/images/guessr/gta5_1_loc_1.png\",\n\t\"./guessr/gta5_1_loc_2.png\": \"./src/frontend/images/guessr/gta5_1_loc_2.png\",\n\t\"./guessr/gta5_1_loc_3.png\": \"./src/frontend/images/guessr/gta5_1_loc_3.png\",\n\t\"./guessr/gta5_1_loc_4.png\": \"./src/frontend/images/guessr/gta5_1_loc_4.png\",\n\t\"./guessr/gta5_2_loc.png\": \"./src/frontend/images/guessr/gta5_2_loc.png\",\n\t\"./guessr/gta5_2_loc_1.png\": \"./src/frontend/images/guessr/gta5_2_loc_1.png\",\n\t\"./guessr/gta5_2_loc_2.png\": \"./src/frontend/images/guessr/gta5_2_loc_2.png\",\n\t\"./guessr/gta5_2_loc_3.png\": \"./src/frontend/images/guessr/gta5_2_loc_3.png\",\n\t\"./guessr/gta5_2_loc_4.png\": \"./src/frontend/images/guessr/gta5_2_loc_4.png\",\n\t\"./guessr/test.png\": \"./src/frontend/images/guessr/test.png\",\n\t\"./liarsBar/cards/ace.svg\": \"./src/frontend/images/liarsBar/cards/ace.svg\",\n\t\"./liarsBar/cards/joker.svg\": \"./src/frontend/images/liarsBar/cards/joker.svg\",\n\t\"./liarsBar/cards/king.svg\": \"./src/frontend/images/liarsBar/cards/king.svg\",\n\t\"./liarsBar/cards/queen.svg\": \"./src/frontend/images/liarsBar/cards/queen.svg\",\n\t\"./liarsBar/death.svg\": \"./src/frontend/images/liarsBar/death.svg\",\n\t\"./liarsBar/joker.svg\": \"./src/frontend/images/liarsBar/joker.svg\",\n\t\"./liarsBar/life.svg\": \"./src/frontend/images/liarsBar/life.svg\",\n\t\"./liarsBar/shootMain.svg\": \"./src/frontend/images/liarsBar/shootMain.svg\",\n\t\"./liarsBar/shootMain1.svg\": \"./src/frontend/images/liarsBar/shootMain1.svg\",\n\t\"./liarsBar/shootMain2.svg\": \"./src/frontend/images/liarsBar/shootMain2.svg\",\n\t\"./liarsBar/shootMain3.svg\": \"./src/frontend/images/liarsBar/shootMain3.svg\",\n\t\"./liarsBar/shootMain4.svg\": \"./src/frontend/images/liarsBar/shootMain4.svg\",\n\t\"./liarsBar/shootMain5.svg\": \"./src/frontend/images/liarsBar/shootMain5.svg\",\n\t\"./liarsBar/shootMain6.svg\": \"./src/frontend/images/liarsBar/shootMain6.svg\",\n\t\"./liarsBar/tableLogo.png\": \"./src/frontend/images/liarsBar/tableLogo.png\",\n\t\"./liarsBar/wait.svg\": \"./src/frontend/images/liarsBar/wait.svg\",\n\t\"./treasures/bomb.svg\": \"./src/frontend/images/treasures/bomb.svg\",\n\t\"./treasures/chest.svg\": \"./src/frontend/images/treasures/chest.svg\",\n\t\"./treasures/coin.svg\": \"./src/frontend/images/treasures/coin.svg\",\n\t\"./treasures/hole.svg\": \"./src/frontend/images/treasures/hole.svg\",\n\t\"./uno/cards/+4.svg\": \"./src/frontend/images/uno/cards/+4.svg\",\n\t\"./uno/cards/b+2.svg\": \"./src/frontend/images/uno/cards/b+2.svg\",\n\t\"./uno/cards/b+4.svg\": \"./src/frontend/images/uno/cards/b+4.svg\",\n\t\"./uno/cards/b0.svg\": \"./src/frontend/images/uno/cards/b0.svg\",\n\t\"./uno/cards/b1.svg\": \"./src/frontend/images/uno/cards/b1.svg\",\n\t\"./uno/cards/b2.svg\": \"./src/frontend/images/uno/cards/b2.svg\",\n\t\"./uno/cards/b3.svg\": \"./src/frontend/images/uno/cards/b3.svg\",\n\t\"./uno/cards/b4.svg\": \"./src/frontend/images/uno/cards/b4.svg\",\n\t\"./uno/cards/b5.svg\": \"./src/frontend/images/uno/cards/b5.svg\",\n\t\"./uno/cards/b6.svg\": \"./src/frontend/images/uno/cards/b6.svg\",\n\t\"./uno/cards/b7.svg\": \"./src/frontend/images/uno/cards/b7.svg\",\n\t\"./uno/cards/b8.svg\": \"./src/frontend/images/uno/cards/b8.svg\",\n\t\"./uno/cards/b9.svg\": \"./src/frontend/images/uno/cards/b9.svg\",\n\t\"./uno/cards/bb.svg\": \"./src/frontend/images/uno/cards/bb.svg\",\n\t\"./uno/cards/bcolor.svg\": \"./src/frontend/images/uno/cards/bcolor.svg\",\n\t\"./uno/cards/bs.svg\": \"./src/frontend/images/uno/cards/bs.svg\",\n\t\"./uno/cards/color.svg\": \"./src/frontend/images/uno/cards/color.svg\",\n\t\"./uno/cards/empty.png\": \"./src/frontend/images/uno/cards/empty.png\",\n\t\"./uno/cards/g+2.svg\": \"./src/frontend/images/uno/cards/g+2.svg\",\n\t\"./uno/cards/g+4.svg\": \"./src/frontend/images/uno/cards/g+4.svg\",\n\t\"./uno/cards/g0.svg\": \"./src/frontend/images/uno/cards/g0.svg\",\n\t\"./uno/cards/g1.svg\": \"./src/frontend/images/uno/cards/g1.svg\",\n\t\"./uno/cards/g2.svg\": \"./src/frontend/images/uno/cards/g2.svg\",\n\t\"./uno/cards/g3.svg\": \"./src/frontend/images/uno/cards/g3.svg\",\n\t\"./uno/cards/g4.svg\": \"./src/frontend/images/uno/cards/g4.svg\",\n\t\"./uno/cards/g5.svg\": \"./src/frontend/images/uno/cards/g5.svg\",\n\t\"./uno/cards/g6.svg\": \"./src/frontend/images/uno/cards/g6.svg\",\n\t\"./uno/cards/g7.svg\": \"./src/frontend/images/uno/cards/g7.svg\",\n\t\"./uno/cards/g8.svg\": \"./src/frontend/images/uno/cards/g8.svg\",\n\t\"./uno/cards/g9.svg\": \"./src/frontend/images/uno/cards/g9.svg\",\n\t\"./uno/cards/gb.svg\": \"./src/frontend/images/uno/cards/gb.svg\",\n\t\"./uno/cards/gcolor.svg\": \"./src/frontend/images/uno/cards/gcolor.svg\",\n\t\"./uno/cards/gs.svg\": \"./src/frontend/images/uno/cards/gs.svg\",\n\t\"./uno/cards/r+2.svg\": \"./src/frontend/images/uno/cards/r+2.svg\",\n\t\"./uno/cards/r+4.svg\": \"./src/frontend/images/uno/cards/r+4.svg\",\n\t\"./uno/cards/r0.svg\": \"./src/frontend/images/uno/cards/r0.svg\",\n\t\"./uno/cards/r1.svg\": \"./src/frontend/images/uno/cards/r1.svg\",\n\t\"./uno/cards/r2.svg\": \"./src/frontend/images/uno/cards/r2.svg\",\n\t\"./uno/cards/r3.svg\": \"./src/frontend/images/uno/cards/r3.svg\",\n\t\"./uno/cards/r4.svg\": \"./src/frontend/images/uno/cards/r4.svg\",\n\t\"./uno/cards/r5.svg\": \"./src/frontend/images/uno/cards/r5.svg\",\n\t\"./uno/cards/r6.svg\": \"./src/frontend/images/uno/cards/r6.svg\",\n\t\"./uno/cards/r7.svg\": \"./src/frontend/images/uno/cards/r7.svg\",\n\t\"./uno/cards/r8.svg\": \"./src/frontend/images/uno/cards/r8.svg\",\n\t\"./uno/cards/r9.svg\": \"./src/frontend/images/uno/cards/r9.svg\",\n\t\"./uno/cards/rb.svg\": \"./src/frontend/images/uno/cards/rb.svg\",\n\t\"./uno/cards/rcolor.svg\": \"./src/frontend/images/uno/cards/rcolor.svg\",\n\t\"./uno/cards/rs.svg\": \"./src/frontend/images/uno/cards/rs.svg\",\n\t\"./uno/cards/y+2.svg\": \"./src/frontend/images/uno/cards/y+2.svg\",\n\t\"./uno/cards/y+4.svg\": \"./src/frontend/images/uno/cards/y+4.svg\",\n\t\"./uno/cards/y0.svg\": \"./src/frontend/images/uno/cards/y0.svg\",\n\t\"./uno/cards/y1.svg\": \"./src/frontend/images/uno/cards/y1.svg\",\n\t\"./uno/cards/y2.svg\": \"./src/frontend/images/uno/cards/y2.svg\",\n\t\"./uno/cards/y3.svg\": \"./src/frontend/images/uno/cards/y3.svg\",\n\t\"./uno/cards/y4.svg\": \"./src/frontend/images/uno/cards/y4.svg\",\n\t\"./uno/cards/y5.svg\": \"./src/frontend/images/uno/cards/y5.svg\",\n\t\"./uno/cards/y6.svg\": \"./src/frontend/images/uno/cards/y6.svg\",\n\t\"./uno/cards/y7.svg\": \"./src/frontend/images/uno/cards/y7.svg\",\n\t\"./uno/cards/y8.svg\": \"./src/frontend/images/uno/cards/y8.svg\",\n\t\"./uno/cards/y9.svg\": \"./src/frontend/images/uno/cards/y9.svg\",\n\t\"./uno/cards/yb.svg\": \"./src/frontend/images/uno/cards/yb.svg\",\n\t\"./uno/cards/ycolor.svg\": \"./src/frontend/images/uno/cards/ycolor.svg\",\n\t\"./uno/cards/ys.svg\": \"./src/frontend/images/uno/cards/ys.svg\"\n};\n\n\nfunction webpackContext(req) {\n\tvar id = webpackContextResolve(req);\n\treturn __webpack_require__(id);\n}\nfunction webpackContextResolve(req) {\n\tif(!__webpack_require__.o(map, req)) {\n\t\tvar e = new Error(\"Cannot find module '\" + req + \"'\");\n\t\te.code = 'MODULE_NOT_FOUND';\n\t\tthrow e;\n\t}\n\treturn map[req];\n}\nwebpackContext.keys = function webpackContextKeys() {\n\treturn Object.keys(map);\n};\nwebpackContext.resolve = webpackContextResolve;\nmodule.exports = webpackContext;\nwebpackContext.id = \"./src/frontend/images sync recursive ^\\\\.\\\\/.*\\\\..*$\";\n\n//# sourceURL=webpack:///./src/frontend/images/_sync_^\\.\\/.*\\..*$?");
+
+/***/ }),
+
+/***/ "./src/frontend/sounds sync recursive ^\\.\\/.*\\..*$":
+/*!************************************************!*\
+  !*** ./src/frontend/sounds/ sync ^\.\/.*\..*$ ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("var map = {\n\t\"./BallHit.mp3\": \"./src/frontend/sounds/BallHit.mp3\",\n\t\"./BallInHole.mp3\": \"./src/frontend/sounds/BallInHole.mp3\",\n\t\"./BallInWater.mp3\": \"./src/frontend/sounds/BallInWater.mp3\",\n\t\"./ButtonHoverClick.mp3\": \"./src/frontend/sounds/ButtonHoverClick.mp3\",\n\t\"./Plonk loud 01.mp3\": \"./src/frontend/sounds/Plonk loud 01.mp3\",\n\t\"./Plonk loud 02.mp3\": \"./src/frontend/sounds/Plonk loud 02.mp3\",\n\t\"./Plonk loud 03.mp3\": \"./src/frontend/sounds/Plonk loud 03.mp3\",\n\t\"./Plonk weak 01.mp3\": \"./src/frontend/sounds/Plonk weak 01.mp3\",\n\t\"./Plonk weak 02.mp3\": \"./src/frontend/sounds/Plonk weak 02.mp3\",\n\t\"./Plonk weak 03.mp3\": \"./src/frontend/sounds/Plonk weak 03.mp3\",\n\t\"./join.ogg\": \"./src/frontend/sounds/join.ogg\",\n\t\"./leave.ogg\": \"./src/frontend/sounds/leave.ogg\",\n\t\"./liarsbar.background.ogg\": \"./src/frontend/sounds/liarsbar.background.ogg\",\n\t\"./liarsbar.callliar.mp3\": \"./src/frontend/sounds/liarsbar.callliar.mp3\",\n\t\"./liarsbar.cardsflip.ogg\": \"./src/frontend/sounds/liarsbar.cardsflip.ogg\",\n\t\"./liarsbar.death.mp3\": \"./src/frontend/sounds/liarsbar.death.mp3\",\n\t\"./liarsbar.gameover.mp3\": \"./src/frontend/sounds/liarsbar.gameover.mp3\",\n\t\"./liarsbar.myturn.mp3\": \"./src/frontend/sounds/liarsbar.myturn.mp3\",\n\t\"./liarsbar.myturn1.mp3\": \"./src/frontend/sounds/liarsbar.myturn1.mp3\",\n\t\"./liarsbar.nexthand.mp3\": \"./src/frontend/sounds/liarsbar.nexthand.mp3\",\n\t\"./liarsbar.select.ogg\": \"./src/frontend/sounds/liarsbar.select.ogg\",\n\t\"./liarsbar.shoot.ogg\": \"./src/frontend/sounds/liarsbar.shoot.ogg\",\n\t\"./liarsbar.shootfalse.ogg\": \"./src/frontend/sounds/liarsbar.shootfalse.ogg\",\n\t\"./liarsbar.shuffle.ogg\": \"./src/frontend/sounds/liarsbar.shuffle.ogg\",\n\t\"./liarsbar.startgame.mp3\": \"./src/frontend/sounds/liarsbar.startgame.mp3\",\n\t\"./liarsbar.trow.ogg\": \"./src/frontend/sounds/liarsbar.trow.ogg\",\n\t\"./liarsbar.trow1.ogg\": \"./src/frontend/sounds/liarsbar.trow1.ogg\",\n\t\"./newmessage.mp3\": \"./src/frontend/sounds/newmessage.mp3\",\n\t\"./notify.mp3\": \"./src/frontend/sounds/notify.mp3\",\n\t\"./uno.background.ogg\": \"./src/frontend/sounds/uno.background.ogg\"\n};\n\n\nfunction webpackContext(req) {\n\tvar id = webpackContextResolve(req);\n\treturn __webpack_require__(id);\n}\nfunction webpackContextResolve(req) {\n\tif(!__webpack_require__.o(map, req)) {\n\t\tvar e = new Error(\"Cannot find module '\" + req + \"'\");\n\t\te.code = 'MODULE_NOT_FOUND';\n\t\tthrow e;\n\t}\n\treturn map[req];\n}\nwebpackContext.keys = function webpackContextKeys() {\n\treturn Object.keys(map);\n};\nwebpackContext.resolve = webpackContextResolve;\nmodule.exports = webpackContext;\nwebpackContext.id = \"./src/frontend/sounds sync recursive ^\\\\.\\\\/.*\\\\..*$\";\n\n//# sourceURL=webpack:///./src/frontend/sounds/_sync_^\\.\\/.*\\..*$?");
+
+/***/ }),
+
+/***/ "./src/frontend/langs/en.json":
+/*!************************************!*\
+  !*** ./src/frontend/langs/en.json ***!
+  \************************************/
+/***/ ((module) => {
+
+"use strict";
+eval("module.exports = /*#__PURE__*/JSON.parse('{\"Settings\":\"Settings\",\"Settings2\":\"Hide settings\",\"Settings3\":\"Settings\",\"SettingsInfoFont\":\"Font size of the game description\",\"GameLab\":\"Labyrinth\",\"GameLabDesc\":\"Does getting out of the maze seem like a simple task? Not when only the first person in your audience can get out and time is running out!\",\"GameWords\":\"Words\",\"GameWordsDesc\":\"So how many of your viewers are those who can type fast? That\\'s easy to find out\",\"language\":\"Language\",\"uk\":\"Ukrainian\",\"ru\":\"Russian\",\"en\":\"English\",\"Play\":\"Play\",\"PlayAFKTitle\":\"AFK Mode (%1%)\",\"PlayAFK\":\"Enable AFK Mode\",\"PlayAFKGames\":\"AFK Mode games\",\"PlayAFKGamesDesc\":\"Select the games that will be enabled during AFK mode. The games will be changed in random order. A minimum of 2 games must be selected to work\",\"PlayAFKGamesLimitGame\":\"Game change after %1% game\",\"PlayAFKGamesReq\":\"Start AFK mode? The games will automatically switch between the ones you have specified in the settings\",\"PlayAFKGamesReq2Min\":\"Select at least 2 games in the settings to run\",\"CloseGame\":\"Close game\",\"CloseGameAccept\":\"Are you sure?\",\"LeaveAcc\":\"Exit (%1%)\",\"LeaveAccAccept\":\"Are you sure?\",\"Game_Timer\":\"TIMER\",\"Game_New\":\"New Game\",\"Game_Stop\":\"End Game\",\"Labyrinth_Autostart\":\"Auto mode\",\"Labyrinth_AutostartDisableAuto\":\"The setting is disabled in AFK mode\",\"Labyrinth_Manual\":\"Manual mode\",\"Labyrinth_Width\":\"Width\",\"Labyrinth_Height\":\"Height\",\"Labyrinth_Size\":\"Size\",\"Labyrinth_Route\":\"Correct route\",\"Labyrinth_Info\":\"To participate in the game, enter the correct path from the white cell to the door in the chat, using WASD as the route\",\"Labyrinth_Last\":\"Current progress\",\"Labyrinth_Winner\":\"Winner is %1%. Congratulations\",\"Labyrinth_Waiting\":\"Waiting for start\",\"Words_Shuffle\":\"Shuffle mode\",\"Words_Winner\":\"Winner is %1% (Score: %2%). Congratulations\",\"Words_Count\":\"Count words\",\"Words_TimeLimit\":\"Time limit\",\"Words_Info\":\"The task of the viewers is to write the words that appear on the left in the chat. The one who writes the most words wins. A word is counted only if it is written for the first time\",\"Words_Leaders\":\"Current leaders\",\"GameSections\":\"Sections\",\"GameSectionsDesc\":\"You can\\'t get anywhere without mindfulness. A game to develop the attention of your viewers, as well as the ability of the streamer to sleep while the chat pretends that mini games are more interesting to them than the streamer himself\",\"GameSections_Count\":\"Count sections\",\"GameSections_Size\":\"Size\",\"GameSections_Info\":\"Your task is to find identical squares and write their numbers in the chat via the space bar. The winner is the one who finds the most cells in the allotted time, or until the cells themselves run out.\",\"GameSections_Leaders\":\"Leaderboard\",\"GameSections_Winner\":\"Winner is %1% (Score: %2%). Congratulations\",\"webCamButton\":\"Switch WebCam zone\",\"GameRace\":\"Race\",\"GameRaceDesc\":\"Participate in races where reactions and sneakiness towards your opponents are important\",\"GameDestroy\":\"Accurate shoot\",\"GameDestroyDesc\":\"Anticipate the movement of the smileys to hit the target with an accurate shot\",\"GameDestroyShowFalse\":\"Show players misses\",\"GameRaceBoardSize\":\"Board size\",\"GameRaceBoardSpeed\":\"Speed\",\"GameRaceBoardTargets\":\"Targets\",\"GameRaceBoardInfo\":\"Specify the cell number (e.g. B5) to hit the moving target. It is advisable to take into account the broadcast delay in order to hit the target accurately\",\"GameDecrypt\":\"Encryption\",\"GameDecryptDesc\":\"Use your brains to encrypt the message as quickly as possible. Speed and accuracy are most important\",\"GameDecryptDone\":\"@%1% finished encrypting the message with a score of %2%\",\"GameDecryptStep\":\"@%1%, the encryption intermediate step is accepted. Your current account: %2%. Completed %3%/%4% of rules\",\"GameDecryptInfo\":\"The encryption key is your nickname, so don\\'t try to copy from other viewers.\\\\nTo successfully encrypt, you must follow the \\'Rules List\\' (each step modifies your final result). The faster you complete the encryption, the higher your score will be.\\\\nSend the result of each step in the chat!\",\"GameDecryptSymbolsTable\":\"Character table\",\"GameDecryptVowelsList\":\"List of vowels\",\"GameDecryptRulesList\":\"List of rules for encryption\",\"GameDecryptRulesCount\":\"Number of rules\",\"GameDecryptRule1\":\"Take the first 6 characters of your Twitch name and replace them with characters from the table above. Ignore numbers and symbols (skip them). If any character is missing from the table, leave it unchanged\",\"GameDecryptRule2\":\"Add a digit at the end of the string, representing the number of vowels. If there are none, add 0.\",\"GameDecryptRule3\":\"Reverse the resulting cipher (ABC -> CBA).\",\"GameDecryptRule4\":\"Take every second character and place it at the end of the cipher in reverse order (ABCDEF -> ABCDEFFDB).\",\"GameDecryptRule5\":\"Add a digit at the end of the cipher, representing the number of characters in it (ABCD -> ABCD4).\",\"GameDecryptRule6\":\"Remove all vowels, or add an X at the start of the cipher if there are no vowels (ABC -> BC, D -> XD).\",\"GameDecryptRule7\":\"Double each character (ABC1 -> AABBCC11).\",\"GameDecryptRule8\":\"Remove characters that appear more than once (ABCA -> BC).\",\"GameDecryptRule9\":\"Move the last two characters to the beginning of the cipher (ABCDEF -> EFABCD).\",\"GameDecryptRule10\":\"Remove the first and last characters of the string (ABCD -> BC).\",\"GameDecryptRule11\":\"Insert a ! after every third character (ABCDEF -> ABC!DEF!).\",\"GameDecryptRule12\":\"Swap the first and second halves of the cipher. If the length is odd, leave the central character in place (ABCDEF -> DEFABC, ABCDE -> CDEAB).\",\"GameSearch\":\"Finding a target\",\"GameSearchDesc\":\"Only a keen eye will help you spot a hunted target before anyone else does\",\"GameSearchInfo\":\"Your task is to find the specified target and write its cell number before the others, earning points. The winner is the one who gets the most points\",\"GameWord\":\"Find the word\",\"GameWordDesc\":\"Chatters will have several tries to guess the correct word\",\"GameWordMissplace\":\"Out of place\",\"GameWordTarget\":\"The target word\",\"GameWordCorrect\":\"In its place\",\"GameWordLength\":\"Length of word\",\"GameWordLengthItem\":\"x%1% letters (%2% words in DB)\",\"GameWordFontSize\":\"Font size\",\"GameWordAttempts\":\"Attempts count\",\"GameWordTitleWord\":\"Word\",\"GameWordInfo\":\"A game where you have to guess the word, letter by letter. Send your choices to the chat room and pay attention to what color a position has\",\"GameTreasures\":\"Treasure hunt\",\"GameTreasuresDesc\":\"Try your luck by opening random squares on the field in hopes of earning the most points\",\"GameTreasuresInfo\":\"To participate in the game, write in the broadcast chat the number of the not yet opened cell, using letters and numbers on the edges of the field (e.g. A1) to open the field. Depending on your luck, you will either earn or lose game points. The winner is the one who earns the most points at the end of the game\",\"GameMorze\":\"Morse code\",\"GameMorzeDesc\":\"Recognize the message conveyed by the flashing light bulb\",\"GameMorzeInfo\":\"Your task is to be the first to recognize the random number (%1%-%2%) that is guessed and write it in the chat. If the number is successfully entered, the next number appears, and so on until the time runs out. The one who first enters the most correct answers wins the game\",\"GameMorzeInfoLetters\":\"Your task is to be the first to recognize an arbitrary set of letters (Latin, %1% characters) that is riddled and write it in the chat. On successful entry, the next set of letters appears, and so on until time runs out. The one who first enters the most correct answers wins the game\",\"GameMorzeDataTable\":\"Data table\",\"GameMorzeDot\":\"Dot\",\"GameMorzeDash\":\"Dash\",\"GameMorzeSpace\":\"Repeat from the beginning\",\"GameMorzeSuccess\":\"Correct answer given\",\"GameMorzeVolume\":\"Volume\",\"GameMorzeLen\":\"Character count\",\"GameMorzeType\":\"Type\",\"GameMorzeTypeNumbers\":\"Numbers\",\"GameMorzeTypeLetters\":\"Letters\",\"gameGuessrName\":\"GameGuessr\",\"gameGuessrDesc\":\"Do you know the games well? Test the knowledge of the audience\",\"gameGuessrTime\":\"Response time\",\"gameGuessrInfo\":\"In this quiz the players\\' task is to give correct answers to the questions. The faster a player answers a question correctly, the more points he gets. The player who will get the most points at the end of %1% of the rounds wins\",\"gameGuessrRounds\":\"Number of rounds\",\"gameGuessrWaiting\":\"Waiting for start\",\"gameGuessrSelectedGames\":\"Selected games\",\"gameGuessrSelectedModes\":\"Selected modes\",\"gameGuessrSelectedModesText\":\"Text questions\",\"gameGuessrSelectedModesLocation\":\"Locations (pictures)\",\"gameGuessrSelectedModesImage\":\"Pictures\",\"gameGuessrSize\":\"Font/Image size\",\"gameGuessrTimeRemain\":\"Time left\",\"gameGuessrRound\":\"Round %1% / %2%\",\"gameGuessrLocation\":\"Guess the location\",\"gameGuessr_GTA5_text1\":\"In what year was GTA 5 released on PC?\",\"gameGuessr_GTA5_text1_1\":\"2013\",\"gameGuessr_GTA5_text1_2\":\"2014\",\"gameGuessr_GTA5_text1_3\":\"2015\",\"gameGuessr_GTA5_text1_4\":\"2017\",\"gameGuessr_GTA5_text2\":\"How much money has GTA 5 made in total sales across all platforms?\",\"gameGuessr_GTA5_text2_1\":\"1-3 billion $\",\"gameGuessr_GTA5_text2_2\":\"3-6 billion $\",\"gameGuessr_GTA5_text2_3\":\"6-9 billion $\",\"gameGuessr_GTA5_text2_4\":\"More than 10 billion $\",\"GameDoorChoice\":\"Door Choice\",\"GameDoorChoiceDesc\":\"Pick the right door to advance. Others are eliminated!\",\"GameDoorChoiceDescDetail\":\"In each round, several doors appear on the screen. Participants choose one of them. Only one door leads further.\\\\n\\\\nPoints for correct answer: +%2%\\\\nPenalty for wrong answer: -%3%\\\\nMultiplier for the first correct answer: x%4%\",\"GameVectors\":\"Connection Point\",\"GameVectorsDesc\":\"Two short vectors appear on the board. The task is to find their intersection point.\",\"GameVectorsDescDetail\":\"Two short vectors (lines) appear on the board. The task is to find their intersection point if they were longer and write the cell number in the chat, for example, A1, B4, etc.\",\"GameVectorsLineLen\":\"Line length\",\"GameVectorsLineThik\":\"Line thickness\",\"GameVectorsLineOff\":\"Offset of lines from intersection point\",\"GameVectorsLineCount\":\"Lines count\",\"example\":\"Example\",\"DoorNumber\":\"Door number: %1%\",\"DoorVotes\":\"Votes: %1%\",\"DoorResultInfo\":\"Correct door: %1%. Number of players who answered correctly: %2%. Number of players who guessed wrong: %3%\",\"DoorResultInfoBonus\":\"Correct door: %1%. Number of players who answered correctly: %2%. Number of players who guessed wrong: %3%. Player %4% received a x2 bonus as the first player to choose the correct door.\",\"DoorVoteTime\":\"Time to vote for the door\",\"DoorCountSetting\":\"Number of doors\",\"GameDoorChoiceSettingCorrect\":\"Reward for correct answer\",\"GameDoorChoiceSettingWrong\":\"Penalty for wrong answer\",\"GameDoorChoiceSettingFirst\":\"Multiplier for first correct\",\"GameDoorChoiceSettingDelay\":\"Delay between rounds (sec)\",\"GameDoorChoiceSettingNotify\":\"Notify about new round in chat\",\"GameDoorChoiceNotify\":\"A new round has started, waiting for your choices in chat. To participate, type a number from 1 to %1% in the chat. Voting time: %2% seconds\",\"DoorVoteTimeParam\":\"Time to choose a door: %1%\",\"DoorChoosingWinner\":\"Choosing the winner\",\"DoorWaitingStart\":\"Waiting for the game to start\",\"gameUnoDesc\":\"Play with friends in one of the most popular and exciting card games — UNO! Match cards by color or number, use powerful action cards, and be the first to get rid of all your cards!\",\"gameLiarsBarDesc\":\"Get rid of all your cards, bluff your friends, and hope for a blank shot — a thrilling and fun game where every move could be your last!\",\"gameTypeCompetition\":\"Type Competition\",\"gameTypeCompetitionDesc\":\"Compete in typing speed: mistakes lock your input, too many mistakes eliminate you. Fast and accurate wins!\",\"gameSpacePower\":\"Space Power\",\"gameSpacePowerDesc\":\"Team-based spacebar clicking game! Press spacebar to help your team win the tug-of-war. Whichever team clicks more wins each second and pulls the rope closer to victory!\",\"gameTenSecondsDesc\":\"Hold SPACE through the countdown, release as close as possible to the target time, and force your opponents into Russian roulette.\",\"gameNavalBattle\":\"Naval Battle\",\"gameNavalBattleDesc\":\"Choose your ship and sink everyone else. Move with W/S, rotate with A/D, aim with Q/E/SPACE, and survive with modifiers, shields and respawns.\",\"gameSharpShooter\":\"Sharpshooter\",\"gameSharpShooterDesc\":\"Test your aim and reflexes! Hit moving targets before anyone else. Miss too many times and you\\'re out. First to hit all targets wins!\",\"gameGolf\":\"Golf\",\"gameGolfDesc\":\"Top-down mini golf with procedural maps, obstacles and pits. Pull back from the ball to strike, finish in the hole with the fewest strokes and fastest time.\",\"GolfRule1\":\"The map is generated before game start. The host can regenerate it only while the lobby is waiting.\",\"GolfRule2\":\"Hold left mouse on your ball and pull opposite to shot direction. Stronger pull means stronger shot, but power is limited.\",\"GolfRule3\":\"Release left mouse near the ball to cancel the shot. No stroke is counted on cancel.\",\"GolfRule4\":\"Falling into a pit or leaving the map gives +1 penalty stroke and returns ball to previous position.\",\"GolfRule5\":\"Press R to rollback your ball to previous position and receive +2 strokes.\",\"GolfRule6\":\"You lose if you exceed stroke limit or time limit.\",\"GolfRule7\":\"Winner is the player who reaches the hole with fewer strokes. Tie-breaker is less time.\",\"GolfRule8\":\"Camera follows your ball. Mouse wheel changes zoom. Hold right mouse to rotate camera around your ball.\",\"GolfGenerating\":\"Generating map...\",\"GolfRegenerateMap\":\"Generate New Map\",\"GolfStrokes\":\"Strokes\",\"GolfTime\":\"Time\",\"GolfLimitTime\":\"Time limit\",\"GolfPower\":\"Power\",\"GolfDone\":\"Done\",\"GolfFail\":\"Fail\",\"GolfMaxStrokes\":\"Max strokes\",\"GolfTimeLimit\":\"Time limit (sec)\",\"GolfMaxPower\":\"Max shot power\",\"GolfHintShoot\":\"LMB — drag from ball to shoot\",\"GolfHintCamera\":\"RMB — rotate camera\",\"GolfHintMove\":\"WASD — move camera (Shift — x2)\",\"GolfHintReset\":\"Space — reset camera\",\"GolfHintZoom\":\"Scroll — zoom\",\"GolfHintRollback\":\"R — rollback (+2 strokes)\",\"SharpShooterRule1\":\"A countdown starts before the game begins. Targets appear one by one on the game field.\",\"SharpShooterRule2\":\"Click on targets (or use WASD + Space if enabled by the host) to hit them. In WASD mode, hold Shift to move the crosshair faster.\",\"SharpShooterRule3\":\"Missing a target triggers a cooldown period where you cannot shoot. Miss too many times and you are eliminated.\",\"SharpShooterRule4\":\"First player to hit all targets wins instantly. If time runs out, the winner is determined by: most targets hit > fewest misses > highest accuracy.\",\"SharpShooterRule5\":\"Accuracy is calculated based on how close your shot is to the target\\'s center. The closer the better!\",\"SharpShooterTarget\":\"Target\",\"SharpShooterTime\":\"Time\",\"SharpShooterPlayer\":\"Player\",\"SharpShooterTargets\":\"Targets\",\"SharpShooterShots\":\"Shots\",\"SharpShooterMisses\":\"Misses\",\"SharpShooterAccuracy\":\"Accuracy\",\"SharpShooterStatus\":\"Status\",\"SharpShooterEliminated\":\"Eliminated\",\"SharpShooterCooldown\":\"Cooldown\",\"SharpShooterReady\":\"Ready\",\"SharpShooterWaiting\":\"Waiting for game to start...\",\"SharpShooterFinished\":\"Game finished\",\"SharpShooterOnlyHostSettings\":\"Only the host can change settings.\",\"SharpShooterSettingsWaitingOnly\":\"Settings can only be changed while waiting to start.\",\"SharpShooterControlMode\":\"Control Mode\",\"SharpShooterControlMouse\":\"Mouse Click\",\"SharpShooterControlKeyboard\":\"Keyboard (WASD + Space)\",\"SharpShooterMaxMisses\":\"Max Misses\",\"SharpShooterCountdownTitle\":\"Get ready\",\"SharpShooterWaitingStart\":\"Waiting for start\",\"NavalBattleRule1\":\"Before combat, each player has 15 seconds to choose one of three ships and confirm the choice.\",\"NavalBattleRule2\":\"Small ship is fast but fragile, medium is balanced, large is tanky but slow.\",\"NavalBattleRule3\":\"Move with W/S and rotate with A/D.\",\"NavalBattleRule4\":\"Hold Q, E or SPACE to preview your hit zone, release the key to fire.\",\"NavalBattleRule5\":\"Each weapon has separate 5-second cooldown.\",\"NavalBattleRule6\":\"After spawn and respawn the ship is temporarily invulnerable, cannot shoot, and blinks.\",\"NavalBattleRule7\":\"If modifiers are enabled by host, boxes spawn on the map and disappear after 20 seconds.\",\"NavalBattleRule8\":\"You have limited lives. When all lives are lost, you are eliminated. Last surviving player wins.\",\"NavalBattleSelectTitle\":\"Choose your ship\",\"NavalBattleSelectTimer\":\"Battle starts in %1%s\",\"NavalBattleStatHp\":\"HP\",\"NavalBattleStatDamage\":\"Damage\",\"NavalBattleStatSpeed\":\"Speed\",\"NavalBattleConfirmShip\":\"Confirm ship\",\"NavalBattleShipConfirmed\":\"Ship confirmed\",\"NavalBattleLives\":\"Lives: %1%\",\"NavalBattleAlivePlayers\":\"Alive: %1%\",\"NavalBattleKills\":\"Kills: %1%\",\"NavalBattleHp\":\"HP\",\"NavalBattleShield\":\"Shield\",\"NavalBattleInvulnerable\":\"Invulnerable: %1%s\",\"NavalBattleControlsHint\":\"W/S move, A/D turn, Q/E/SPACE fire\",\"NavalBattleBuffStealth\":\"Stealth active\",\"NavalBattleBuffDamage\":\"x2 damage active\",\"NavalBattleBuffSpeed\":\"x2 speed active\",\"NavalBattleLivesSetting\":\"Lives per player\",\"NavalBattleModifiersSetting\":\"Spawn modifiers\",\"NavalBattleModifiersEnabled\":\"Modifiers enabled\",\"NavalBattleModifiersDisabled\":\"Modifiers disabled\",\"NavalBattleShipSmall\":\"Small\",\"NavalBattleShipMedium\":\"Medium\",\"NavalBattleShipLarge\":\"Large\",\"NavalBattleWaitingPlayers\":\"Waiting for the host to start...\",\"NavalBattleYou\":\"you\",\"TypeCompetitionRule1\":\"At the start, one shared 500-word text is generated for all players.\",\"TypeCompetitionRule2\":\"A 5-second countdown starts immediately, and the text is visible so you can preview first words.\",\"TypeCompetitionRule3\":\"Type words character by character, without pressing Space or Enter.\",\"TypeCompetitionWordsStartHint\":\"Words will appear here when the game starts.\",\"TypeCompetitionRule4\":\"Each correctly typed word gives +1 to your typed words counter.\",\"TypeCompetitionRule5\":\"A mistake applies an input lock for a few seconds.\",\"TypeCompetitionRule6\":\"When your mistakes reach the limit, you are eliminated from the current match.\",\"TypeCompetitionRule7\":\"After finishing the full text, typing loops from the beginning with no score loss.\",\"TypeCompetitionRule8\":\"Win condition: last alive player, or when timer ends the alive player with most typed words.\",\"TypeCompetitionLanguage\":\"Language\",\"TypeCompetitionMaxErrors\":\"Max mistakes\",\"TypeCompetitionRoundSeconds\":\"Round duration (sec)\",\"TypeCompetitionBlockSeconds\":\"Lock after mistake (sec)\",\"TypeCompetitionTimer\":\"Timer\",\"TypeCompetitionCurrentLine\":\"Current line\",\"TypeCompetitionNextLine\":\"Next line\",\"TypeCompetitionInputPlaceholder\":\"Just type the word continuously, without Space or Enter. Uppercase is not required.\",\"TypeCompetitionSendWord\":\"Send\",\"TypeCompetitionInputBlocked\":\"Input is locked for %1% sec.\",\"TypeCompetitionWrongLayout\":\"Wrong keyboard layout. Switch to %1%.\",\"TypeCompetitionWordsTyped\":\"Words typed\",\"TypeCompetitionErrors\":\"Mistakes\",\"TypeCompetitionAlive\":\"Alive\",\"TypeCompetitionEliminated\":\"Eliminated\",\"TypeCompetitionCountdown\":\"Start in %1%...\",\"gameKickPlayer\":\"Are you sure you want to kick this player?\",\"transferHost\":\"Are you sure you want to transfer host to this player?\",\"lobbyPasswordEnter\":\"Enter password\",\"lobbyPasswordChange\":\"Change password\",\"lobbyPasswordRemove\":\"Are you sure you want to remove the password?\",\"lobbyPassword\":\"Password\",\"lobbyAddBot\":\"🤖 Add bot\",\"lobbyStage\":\"Game stage\",\"lobbyPlayers\":\"Lobby players\",\"lobbyPlayersMin\":\"Required %1% players\",\"lobbyGamePaused\":\"Game paused\",\"lobbyStartGame\":\"🕹️ Start game\",\"lobbyEndGame\":\"End game\",\"lobbyShareGame\":\"Share\",\"lobbyShareGameSuccess\":\"Game link copied to clipboard\",\"lobbyShareGameTooltip\":\"Click to copy this room link and share it with others\",\"lobbyPauseGame\":\"Pause game\",\"lobbyResumeGame\":\"Resume game\",\"lobbyHideChat\":\"Hide chat\",\"lobbyShowChat\":\"Show chat\",\"lobbyGameRulesButton\":\"Game rules\",\"lobbyGameRulesTitle\":\"Game rules\",\"lobbyShowChatUread\":\"Show chat (%1% new messages)\",\"lobbySendChatMessage\":\"Send\",\"lobbyHidePlayersList\":\"Hide players list\",\"lobbyShowPlayersList\":\"Show players list\",\"lobbyTransferHost\":\"Transfer host\",\"lobbyKickPlayer\":\"Kick player\",\"lobbyChatMessage\":\"Message\",\"lobbyPasswordChangeButton\":\"Change password\",\"lobbyPasswordRemoveButton\":\"Remove password\",\"lobbyPasswordShowButton\":\"Show/Hide password\",\"lobbyCantStartNoPlayers\":\"Not enough players to start the game\",\"lobbyCantStartRatedWithBots\":\"Cannot start rated game with bots\",\"lobbyRatedGame\":\"Enable rating\",\"lobbyRatedGameWarning\":\"Game with rating cannot be paused or stopped manually\",\"Leaderboard\":\"Leaderboard\",\"ProfilePlayersName\":\"Player\",\"LiarsBarMaxCardsInHands\":\"Max cards in hands\",\"LiarsBarMaxCardsCanThrow\":\"Max cards can throw on table\",\"LiarsBarAFKNoTurnTitle\":\"AFK player (did not move)\",\"LiarsBarAFKNoTurnKill\":\"Kill immediately\",\"LiarsBarAFKNoTurnShot\":\"+1 bullet and shot\",\"LiarsBarCallLiar\":\"I think %1% is a liar\",\"LiarsBarCallLiarYes\":\"Great, %1% is a liar\",\"LiarsBarCallLiarNo\":\"Wrong, %1% is not a liar\",\"ServerReload\":\"Server was updated. Page was automatically reloaded.\",\"lobbyPasswordCopyButton\":\"Copy password\",\"lobbyPasswordCopyButtonSuccess\":\"Password copied to clipboard\",\"statusLobby.waiting\":\"Waiting for start\",\"statusLobby.ingame\":\"In game\",\"voice.liarsbar.callliar\":\"Liar!!!\",\"voice.liarsbar.callliar.yes\":\"Unlucky)!\",\"voice.liarsbar.callliar.no\":\"What a surprise!)\",\"SoundsVolume\":\"Sounds volume\",\"SoundsVolumeSound\":\"Sound volume\",\"SoundsVolumeVoice\":\"Voice volume\",\"voice.example\":\"Example voice\",\"BackgroundMusicVolume\":\"Background music volume\",\"GlobalVolume\":\"Global volume\",\"lobbyId\":\"Lobby ID\",\"lobbyName\":\"Lobby name\",\"lobbyNameCopyButton\":\"Copy lobby name\",\"lobbyNameCopyButtonSuccess\":\"Lobby name copied to clipboard\",\"lobbyIdCopyButton\":\"Copy lobby ID\",\"lobbyIdCopyButtonSuccess\":\"Lobby ID copied to clipboard\",\"LiarsBarTrowxCards\":\"Throw x%1% cards\",\"LiarsBarTrowxCard\":\"Throw x%1% card\",\"LiarsBarCallLiarButton\":\"Call liar\",\"LiarsBarCallPlayerTurn\":\"Player turn: %1%\",\"LiarsBarRule1\":\"Goal: be the last player alive.\",\"LiarsBarRule2\":\"At the start of each round, all alive players get cards and one rank becomes the table card.\",\"LiarsBarRule3\":\"On your turn, play from 1 up to the card limit. Cards are placed face down.\",\"LiarsBarRule4\":\"You may throw any cards, but only the table rank or Joker are safe from a lie call.\",\"LiarsBarRule5\":\"The next player either throws cards or presses \\\\\"Call liar\\\\\" on the previous move.\",\"LiarsBarRule6\":\"If the liar call is correct, the previous player is punished. If it is wrong, the caller is punished.\",\"LiarsBarRule7\":\"Punishment is a Russian roulette shot: each punishment increases your chance to die.\",\"LiarsBarRule8\":\"Turns are timed. If time runs out, the AFK penalty selected in lobby settings is applied.\",\"UnoReportUno\":\"Report UNO!\",\"UnoSayUno\":\"Say UNO!\",\"UnoTakeCards\":\"Take cards\",\"PlayerOffline\":\"OFFLINE\",\"UnoHostSkipTurn\":\"Skip turn\",\"UnoHostExcludeFromGame\":\"Exclude from game\",\"UnoHostExcludeFromGameConfirm\":\"Are you sure you want to exclude this player from the current game?\",\"UnoHostBotControl\":\"Bot control\",\"UnoActionSayUno\":\"%1% said UNO!\",\"UnoActionReportUno\":\"%1% pressed Report UNO!\",\"UnoMegaphoneBlock\":\"Button blocked for %1% more turn(s)\",\"UnoReportSuccess\":\"%1% caught someone for UNO! Report success!\",\"UnoReportFail\":\"%1% was wrong! False report\",\"UnoRule1\":\"Each player gets 7 cards. The first card is placed on the table — it sets the starting color and value.\",\"UnoRule2\":\"On your turn, play a card matching the top card\\'s color or value. If you can\\'t, draw a card from the deck.\",\"UnoRule3\":\"🔄 Reverse — reverses the turn order.\",\"UnoRule4\":\"🚫 Skip — the next player loses their turn.\",\"UnoRule5\":\"+2 — the next player draws 2 cards and skips their turn.\",\"UnoRule6\":\"🌈 WILD — choose any color to continue.\",\"UnoRule7\":\"+4 WILD — choose a color and the next player draws 4 cards.\",\"UnoRule8\":\"When you have 2 cards left, press \\\\\"Say UNO\\\\\" before playing. If you forget, you can be reported and receive +2 cards.\",\"UnoRule9\":\"🔔 The \\\\\"Report UNO\\\\\" button catches a player with 1 card who forgot to say UNO. Success — they draw +2. Fail — you draw cards and the button is blocked for several turns.\",\"UnoRule10\":\"The first player to play all their cards wins!\",\"lobbyMyLobbies\":\"My Lobbies\",\"lobbyPublicLobbies\":\"Public Lobbies\",\"lobbyNoLobbiesFound\":\"No lobbies found\",\"lobbyJoinButton\":\"Join\",\"lobbyReturnButton\":\"Return\",\"lobbyCreateLobby\":\"Create lobby\",\"lobbyCreateLobbyName\":\"Lobby name\",\"lobbyRemoveAllBot\":\"Remove all bots\",\"lobbyRemoveBot\":\"Remove bot\",\"errorConnectionDublicate\":\"You can only use one instance of the site at a time. The functionality of this page has been limited due to opening another tab of the site.\",\"ComingSoon\":\"Coming soon\",\"OnlinePlayers\":\"Online players: %1%\",\"PlayersPageNav\":\"All players\",\"PlayersPageTitle\":\"Registered players\",\"PlayersPageSearch\":\"Search by nickname, login or ID\",\"PlayersPageTotal\":\"Found: %1%\",\"OnlinePlayersList\":\"Online players list\",\"OnlinePlayersListLastSeen\":\"😴 Last seen: %1%\",\"NowOnline\":\"✅ On site\",\"ServerReloadRequired\":\"New version of the site has been received. As soon as the game is over, the page will be reloaded to apply the new changes.\",\"CardUserInfo\":\"User info: %1%\",\"ProfileIncomingRequests\":\"Incoming requests\",\"ProfileOutgoingRequests\":\"Outgoing requests\",\"ProfileAccept\":\"Accept\",\"ProfileDecline\":\"Decline\",\"ProfileCancel\":\"Cancel request\",\"ProfileFriends\":\"Friends\",\"ProfileGames\":\"Games played\",\"ProfilePlayedSeconds\":\"Played time\",\"ProfilePlayedGames\":\"Games played\",\"ProfileNoData\":\"No data\",\"ProfileRemoveFriend\":\"Remove from friends\",\"ProfileAddFriend\":\"Add to friends\",\"ProfileCancelRequest\":\"Cancel request\",\"ProfileGame\":\"Game\",\"ProfileWins\":\"Wins\",\"ProfileLoses\":\"Loses\",\"ProfileRating\":\"Rating\",\"gameWinner\":\"Winner\",\"socketErrorConnection\":\"An error occurred while connecting to WebSocket server. Multiplayer mode is not available\",\"ProfileMessage\":\"Send message\",\"MessagesTitle\":\"Messages\",\"MessagesNoChats\":\"No conversations\",\"MessagesSelectChat\":\"Select a conversation\",\"MessagesInputPlaceholder\":\"Type a message...\",\"MessagesSend\":\"Send\",\"lobbyInviteFriend\":\"Invite\",\"lobbyInviteFriendTooltip\":\"Invite a friend to this game via DM\",\"lobbyInviteFriendTitle\":\"Invite a friend\",\"lobbyInviteMessage\":\"Join my lobby «%1%»!\",\"lobbyInviteJoinLink\":\"Join\",\"lobbyInviteSent\":\"Invitation sent!\",\"SpacePowerRule1\":\"The host can set the team assignment mode (Auto or Manual) and customize the game duration (10-300 seconds).\",\"SpacePowerRule2\":\"In Auto mode, players are automatically divided into balanced teams. In Manual mode, the host assigns players and can enable self team switching.\",\"SpacePowerRule3\":\"Only distinct SPACE presses are counted. Holding the key does not generate extra clicks.\",\"SpacePowerRule4\":\"Every second, the system calculates each team\\'s CPS (Clicks Per Second). The team with more clicks pulls the rope toward their flag.\",\"SpacePowerRule5\":\"The first team to pull the rope all the way to their flag wins, or when the timer ends, the team closest to their goal wins!\",\"SpacePowerRule6\":\"Before the match starts, a clear countdown is shown. Each player can choose input mode before start: SPACE or mouse clicking.\",\"SpacePowerTeamAssignment\":\"Team assignment\",\"SpacePowerAutoMode\":\"Auto (balanced)\",\"SpacePowerManualMode\":\"Manual mode\",\"SpacePowerTeamA\":\"Team A\",\"SpacePowerTeamB\":\"Team B\",\"SpacePowerMoveToA\":\"To A\",\"SpacePowerMoveToB\":\"To B\",\"SpacePowerGameSettings\":\"Game settings\",\"SpacePowerGameDuration\":\"Game duration (sec)\",\"SpacePowerTimer\":\"Time\",\"SpacePowerPaused\":\"PAUSED\",\"SpacePowerCurrentCPS\":\"CPS\",\"SpacePowerTotalClicks\":\"Total clicks\",\"SpacePowerContribution\":\"Contribution\",\"SpacePowerPressSpace\":\"Press SPACE to click\",\"SpacePowerPressMouse\":\"Click this block with your mouse\",\"SpacePowerInputModeLabel\":\"Input mode\",\"SpacePowerInputModeSpace\":\"SPACE\",\"SpacePowerInputModeMouse\":\"MOUSE\",\"SpacePowerInputModeSpaceShort\":\"SPACE\",\"SpacePowerInputModeMouseShort\":\"Mouse\",\"SpacePowerAllowSelfMove\":\"Allow players to move themselves\",\"SpacePowerShuffleTeams\":\"Shuffle players\",\"SpacePowerPrepareFight\":\"Prepare for battle\",\"SpacePowerPreStartHint\":\"Once the match starts, spam SPACE and use the team panel to see each player\\'s contribution.\",\"SpacePowerPreStartHintMouse\":\"Once the match starts, click the click-block with your mouse and use the team panel to see each player\\'s contribution.\",\"SpacePowerKeyboardWarning\":\"Warning: very intense key mashing may negatively affect your keyboard over time.\",\"SpacePowerMouseWarning\":\"Mouse mode is active: click the block, keyboard wear is not a concern in this mode.\",\"TenSecondsRule1\":\"Goal: stay the last alive player.\",\"TenSecondsRule2\":\"Every round starts with a 5-second preparation window. Hold SPACE before it ends and keep holding it.\",\"TenSecondsRule3\":\"When preparation ends, two timers appear: the fixed target time and your growing timer from 00:00:000.\",\"TenSecondsRule4\":\"Release SPACE as close as possible to the target time, but do not go over it.\",\"TenSecondsRule5\":\"If one or more players exceed the target, each of them takes the Russian roulette penalty.\",\"TenSecondsRule6\":\"If nobody exceeds the target, the player farthest from the target time is punished. If every alive player lands the exact same valid time, the round is skipped.\",\"TenSecondsRule7\":\"Russian roulette works like Liars Bar: after each penalty one more bullet is added, so every next shot is deadlier.\",\"TenSecondsRule8\":\"An exact hit on the target gives the right to choose who will be punished instead of automatic punishment. In a 1v1, the other player is punished immediately.\",\"TenSecondsRule9\":\"The chooser has a limited number of seconds and may select only the configured number of alive opponents, but never all of them unless only one opponent remains.\",\"TenSecondsRule10\":\"If the chooser does not confirm targets in time, the chooser takes the penalty instead.\",\"TenSecondsPhase\":\"Phase\",\"TenSecondsRound\":\"Round\",\"TenSecondsBullets\":\"Bullets\",\"TenSecondsTargetTimer\":\"Target timer\",\"TenSecondsCurrentTimer\":\"Your timer\",\"TenSecondsPrepareLabel\":\"Preparation\",\"TenSecondsTimingLabel\":\"Release moment\",\"TenSecondsResultsLabel\":\"Round result\",\"TenSecondsChooserLabel\":\"Chooser\",\"TenSecondsPrepareHint\":\"Hold SPACE now and keep it pressed\",\"TenSecondsPrepareCountdown\":\"Start in %1% sec.\",\"TenSecondsReleaseHint\":\"Release SPACE as close as possible to the target\",\"TenSecondsMissedHoldHint\":\"You had to hold SPACE during preparation. Late start counts as a fail.\",\"TenSecondsAlreadyEliminated\":\"You are already eliminated.\",\"TenSecondsChooserSelf\":\"Exact hit. Choose %1% target(s).\",\"TenSecondsChooserOther\":\"%1% hit the exact time and is choosing targets.\",\"TenSecondsChooserTimer\":\"Time left to choose: %1% sec.\",\"TenSecondsConfirmTargets\":\"Confirm targets\",\"TenSecondsPlayerWaiting\":\"Waiting\",\"TenSecondsPlayerReady\":\"Ready\",\"TenSecondsPlayerWaitingHold\":\"Not holding\",\"TenSecondsPlayerHolding\":\"Holding\",\"TenSecondsPlayerReleased\":\"Released\",\"TenSecondsPenaltyMarked\":\"Penalty: SPACE was not held in time\",\"TenSecondsPlayerEliminated\":\"Eliminated\",\"TenSecondsChooserActive\":\"Choosing targets\",\"TenSecondsChooserWaiting\":\"Waiting for chooser\",\"TenSecondsResultExact\":\"Exact hit\",\"TenSecondsResultMissedHold\":\"SPACE was not held during preparation\",\"TenSecondsResultExceeded\":\"Exceeded\",\"TenSecondsResultSafe\":\"Safe\",\"TenSecondsTargetSeconds\":\"Target time (sec)\",\"TenSecondsChooserSeconds\":\"Chooser timeout (sec)\",\"TenSecondsChooserTargets\":\"Targets to choose\"}');\n\n//# sourceURL=webpack:///./src/frontend/langs/en.json?");
+
+/***/ }),
+
+/***/ "./src/frontend/langs/ru.json":
+/*!************************************!*\
+  !*** ./src/frontend/langs/ru.json ***!
+  \************************************/
+/***/ ((module) => {
+
+"use strict";
+eval("module.exports = /*#__PURE__*/JSON.parse('{\"Settings\":\"Настройки\",\"Settings2\":\"Скрыть настройки\",\"Settings3\":\"Настройки\",\"SettingsInfoFont\":\"Размер шрифта описания игры\",\"GameLab\":\"Лабиринт\",\"GameLabDesc\":\"Выбраться из лабиринта кажется простой задачей? Только не тогда, когда выбраться может лишь первый среди ваших зрителей и время поджимает!\",\"GameWords\":\"Слова\",\"GameWordsDesc\":\"И сколько же среди ваших зрителей тех, кто умеет быстро печатать? Это легко выяснить\",\"language\":\"Язык\",\"uk\":\"Українська\",\"ru\":\"Русский\",\"en\":\"Английский\",\"Play\":\"Играть\",\"PlayAFKTitle\":\"AFK режим (%1%)\",\"PlayAFK\":\"Включить AFK режим\",\"PlayAFKGames\":\"Игры AFK режима\",\"PlayAFKGamesDesc\":\"Выберите игры, которые будут включаться во время AFK режима. Смена игр будет происходить в случайном порядке. Для работы требуется выбрать минимум 2 игры\",\"PlayAFKGamesLimitGame\":\"Смена игры через %1% игру\",\"PlayAFKGamesReq\":\"Запустить AFK режим? Игры автоматически будут переключаться между теми, что вы указали в настройках\",\"PlayAFKGamesReq2Min\":\"Для запуска выберите не менее 2х игр в настройках\",\"CloseGame\":\"Закрыть игру\",\"CloseGameAccept\":\"Вы уверены?\",\"LeaveAcc\":\"Выйти (%1%)\",\"LeaveAccAccept\":\"Вы уверены?\",\"Game_Timer\":\"ТАЙМЕР\",\"Game_New\":\"Новая игра\",\"Game_Stop\":\"Закончить игру\",\"Labyrinth_Autostart\":\"Авто режим\",\"Labyrinth_AutostartDisableAuto\":\"Настройка отключена в AFK режиме\",\"Labyrinth_Manual\":\"Ручной режим\",\"Labyrinth_Width\":\"Ширина\",\"Labyrinth_Height\":\"Высота\",\"Labyrinth_Size\":\"Размер\",\"Labyrinth_Route\":\"Правильный путь\",\"Labyrinth_Info\":\"Для участия в игре введите в чат правильный путь от белой клетки до двери, используя WASD в качестве маршрута\",\"Labyrinth_Last\":\"Текущий прогресс\",\"Labyrinth_Winner\":\"Победитель - %1%. Поздравляем\",\"Labyrinth_Waiting\":\"Ожидание начала\",\"Words_Shuffle\":\"Режим перемешивания\",\"Words_Winner\":\"Победитель - %1% (Счёт: %2%). Поздравляем\",\"Words_Count\":\"Количество слов\",\"Words_TimeLimit\":\"Лимит времени\",\"Words_Info\":\"Задача зрителей вписывать слова, которые отображаются слева в чат. Побеждает тот, кто впишет больше всех слов. Слово засчитывается только если его вписать впервые\",\"Words_Leaders\":\"Текущие лидеры\",\"GameSections\":\"Секции\",\"GameSectionsDesc\":\"Без внимательности никуда. Игра для развития внимания ваших зрителей, а также возможности стримера поспать, пока чат делает вид, что мини игры им интереснее чем сам стример\",\"GameSections_Count\":\"Количество секций\",\"GameSections_Size\":\"Размер\",\"GameSections_Info\":\"Ваша задача находить одинаковые клетки и писать их номера в чат через пробел. Побеждает тот, кто найдет больше всего клеток за отведённое время, либо пока не закончатся сами клетки.\",\"GameSections_Leaders\":\"Таблица лидеров\",\"GameSections_Winner\":\"Победитель - %1% (Счёт: %2%). Поздравляем\",\"webCamButton\":\"Переключить зону вебкамеры\",\"GameRace\":\"Гонки\",\"GameRaceDesc\":\"Участвуйте в гонках, где важна реакция и подлость по отношению к оппонентам\",\"GameDestroy\":\"Точный выстрел\",\"GameDestroyDesc\":\"Предугадывайте движение смайлов чтобы точным выстрелом попасть в мишень\",\"GameDestroyShowFalse\":\"Показывать промахи игроков\",\"GameRaceBoardSize\":\"Размер доски\",\"GameRaceBoardSpeed\":\"Скорость\",\"GameRaceBoardTargets\":\"Целей\",\"GameRaceBoardInfo\":\"Укажите номер клетки (например B5) чтобы попасть по движущейся мишени. Советуем учесть задержку трансляции чтобы точно попасть в цель\",\"GameDecrypt\":\"Шифр\",\"GameDecryptDesc\":\"Напрягите свои мозги чтобы как можно быстрее зашифровать послание. Скорость и точность - самое важное\",\"GameDecryptDone\":\"@%1% закончил шифровку сообщения со счётом %2%\",\"GameDecryptStep\":\"@%1%, промежуточный этап шифрования принят. Ваш текущий счёт: %2%. Выполнено %3%/%4% правил\",\"GameDecryptInfo\":\"Ключом для шифрования является ваш ник, так что не пытайтесь списать у других зрителей.\\\\nДля успешного шифрования вы должны следовать \\\\\"Списку правил\\\\\" (каждый шаг изменяет ваш финальный результат). Чем быстрее вы выполните шифрование - тем большую оценку получите.\\\\nОтправляйте в чат результат каждого шага!\",\"GameDecryptSymbolsTable\":\"Таблица символов\",\"GameDecryptVowelsList\":\"Список гласных\",\"GameDecryptRulesList\":\"Список правил для шифрования\",\"GameDecryptRulesCount\":\"Количество правил\",\"GameDecryptRule1\":\"Возьмите первые 6 символов вашего twitch имени и замените их на символы из таблицы выше. Игнорируйте цифры и символы (пропускайте их). Если какой-либо символ отсутствует в таблице, оставьте его без изменений.\",\"GameDecryptRule2\":\"Добавьте в конце строки цифру, значением которой является количество гласных. Если таких нет - добавьте 0\",\"GameDecryptRule3\":\"Разверните получившийся шифр в обратную сторону (ABC -> CBA)\",\"GameDecryptRule4\":\"Возьмите каждый второй символ и поместите его в конец шифра в обратном порядке (ABCDEF -> ABCDEFFDB)\",\"GameDecryptRule5\":\"Добавьте в конце шифра цифру, значением которой является количество символов в нём (ABCD -> ABCD4)\",\"GameDecryptRule6\":\"Удалите все гласные, или добавьте X в начало шифра, если гласных нет (ABC -> BC, D -> XD)\",\"GameDecryptRule7\":\"Удвойте каждый символ (ABC1 -> AABBCC11)\",\"GameDecryptRule8\":\"Удалите символы, встречающиеся более одного раза (ABCA -> BC)\",\"GameDecryptRule9\":\"Переместите последние два символа в начало шифра (ABCDEF -> EFABCD)\",\"GameDecryptRule10\":\"Удалите первый и последний символ строки (ABCD -> BC)\",\"GameDecryptRule11\":\"Вставьте ! после каждого третьего символа (ABCDEF -> ABC!DEF!)\",\"GameDecryptRule12\":\"Поменяйте первую и вторую половины шифра местами. Если длина нечётная, центральный символ оставьте на месте (ABCDEF -> DEFABC, ABCDE -> CDEAB)\",\"GameSearch\":\"Поиск цели\",\"GameSearchDesc\":\"Лишь зоркий глаз поможет вам раньше всех обнаружить цель, на которую объявлена охота\",\"GameSearchInfo\":\"Ваша задача - найти указанную цель и вписать номер её клетки раньше остальных, зарабатывая очки. Побеждает тот, кто наберёт больше всего очков\",\"GameWord\":\"Найди слово\",\"GameWordDesc\":\"У чата будет несколько попыток, чтобы отгадать нужное слово\",\"GameWordMissplace\":\"Не на своём месте\",\"GameWordTarget\":\"Загаданное слово\",\"GameWordCorrect\":\"На своём месте\",\"GameWordLength\":\"Длинна слова\",\"GameWordLengthItem\":\"x%1% букв (%2% слов в БД)\",\"GameWordFontSize\":\"Размер шрифта\",\"GameWordAttempts\":\"Количество попыток\",\"GameWordTitleWord\":\"Слово\",\"GameWordInfo\":\"Игра, где вам нужно отгадать слово, буква за буквой. Присылайте в чат ваши варианты и обращайте внимание на то, какой цвет имеет та или иная позиция\",\"GameTreasures\":\"Охота за сокровищами\",\"GameTreasuresDesc\":\"Испытайте удачу, открывая случайные клетки на поле, в надежде заработать больше всех очков\",\"GameTreasuresInfo\":\"Для участия в игре напишите в чат трансляции номер ещё не открытой клетки, используя буквы и цифры по краям поля (например A1) чтобы открыть поле. В зависимости от вашей удачи вы либо заработаете, либо потеряете игровые очки. Побеждает тот, кто по завершению игры заработает больше всех очков\",\"GameMorze\":\"Азбука морзе\",\"GameMorzeDesc\":\"Распознайте послание, которое передаётся через мигающую лампочку\",\"GameMorzeInfo\":\"Ваша задача первым распознать случайное число (%1%-%2%), которое загадано и написать его в чат. При успешном вводе появляется следующее число, и так далее, пока время не завершится. Побеждает тот, кто первым введёт больше всех правильных ответов\",\"GameMorzeInfoLetters\":\"Ваша задача первым распознать произвольный набор букв (латиница, %1% символов), который загадан и написать его в чат. При успешном вводе появляется следующий набор букв, и так далее, пока время не завершится. Побеждает тот, кто первым введёт больше всех правильных ответов\",\"GameMorzeDataTable\":\"Таблица с данными\",\"GameMorzeDot\":\"Точка\",\"GameMorzeDash\":\"Тире\",\"GameMorzeSpace\":\"Повтор с начала\",\"GameMorzeSuccess\":\"Дан правильный ответ\",\"GameMorzeVolume\":\"Громкость\",\"GameMorzeLen\":\"Количество символов\",\"GameMorzeType\":\"Тип\",\"GameMorzeTypeNumbers\":\"Цифры\",\"GameMorzeTypeLetters\":\"Буквы\",\"gameGuessrName\":\"GameGuessr\",\"gameGuessrDesc\":\"Хорошо ли вы знаете игры? Проверьте знания зрителей\",\"gameGuessrTime\":\"Время на ответ\",\"gameGuessrInfo\":\"В данной викторине задача игроков давать правильные ответы на вопросы. Чем быстрее игрок ответит на вопрос правильно - тем больше очков получит. Побеждает игрок, кто наберёт больше всех очков по завершению %1% раудов\",\"gameGuessrRounds\":\"Количество раундов\",\"gameGuessrWaiting\":\"Ожидание начала\",\"gameGuessrSelectedGames\":\"Выбранные игры\",\"gameGuessrSelectedModes\":\"Выбранные режимы\",\"gameGuessrSelectedModesText\":\"Текстовые вопросы\",\"gameGuessrSelectedModesLocation\":\"Локации (изображения)\",\"gameGuessrSelectedModesImage\":\"Изображения\",\"gameGuessrSize\":\"Размер шрифта/изображений\",\"gameGuessrTimeRemain\":\"Осталось времени\",\"gameGuessrRound\":\"Раунд %1% / %2%\",\"gameGuessrLocation\":\"Угадайте локацию\",\"gameGuessr_GTA5_text1\":\"В каком году состоялся релиз GTA 5 на ПК?\",\"gameGuessr_GTA5_text1_1\":\"2013\",\"gameGuessr_GTA5_text1_2\":\"2014\",\"gameGuessr_GTA5_text1_3\":\"2015\",\"gameGuessr_GTA5_text1_4\":\"2017\",\"gameGuessr_GTA5_text2\":\"Сколько денег принесла GTA 5 за всю историю продаж на всех платформах?\",\"gameGuessr_GTA5_text2_1\":\"1-3 млрд $\",\"gameGuessr_GTA5_text2_2\":\"3-6 млрд $\",\"gameGuessr_GTA5_text2_3\":\"6-9 млрд $\",\"gameGuessr_GTA5_text2_4\":\"Более 10 млрд $\",\"GameDoorChoice\":\"Выбор двери\",\"GameDoorChoiceDesc\":\"Выберите правильную дверь, чтобы пройти дальше. Остальные выбывают!\",\"GameDoorChoiceDescDetail\":\"В каждом раунде на экране появляются двери. Участники выбирают одну из них. Только одна дверь ведёт дальше.\\\\n\\\\nКоличество очков за верный ответ: +%2%\\\\nШтраф за ошибку: -%3%\\\\nМножитель очков за первый правильный ответ: x%4%\",\"GameVectors\":\"Точка соединения\",\"GameVectorsDesc\":\"На поле появляются 2 коротких вектора, задача - найти их точку пересечения\",\"GameVectorsDescDetail\":\"На поле появляются 2 коротких вектора (линии), задача - найти их точку пересечения, если бы они были длиннее и написать номер клетки в чат, например - А1, В4 и т.д.\",\"GameVectorsLineLen\":\"Длинна линий\",\"GameVectorsLineThik\":\"Толщина линий\",\"GameVectorsLineOff\":\"Смещение линий от точки пересечения\",\"GameVectorsLineCount\":\"Количество линий\",\"example\":\"Пример\",\"DoorNumber\":\"Номер двери: %1%\",\"DoorVotes\":\"Количество голосов: %1%\",\"DoorResultInfo\":\"Правильная дверь: %1%. Количество игроков, давших правильный ответ: %2%. Количество игроков, которые не угадали: %3%\",\"DoorResultInfoBonus\":\"Правильная дверь: %1%. Количество игроков, давших правильный ответ: %2%. Количество игроков, которые не угадали: %3%. Игрок %4% получил бонус x2 как первый игрок, который указал верную дверь.\",\"DoorVoteTime\":\"Время на голосование за дверь\",\"DoorCountSetting\":\"Количество дверей\",\"GameDoorChoiceSettingCorrect\":\"Награда за правильный ответ\",\"GameDoorChoiceSettingWrong\":\"Штраф за ошибку\",\"GameDoorChoiceSettingFirst\":\"Множитель для первого\",\"GameDoorChoiceSettingDelay\":\"Задержка между раундами (сек)\",\"GameDoorChoiceSettingNotify\":\"Уведомлять о начале раунда в чат\",\"GameDoorChoiceNotify\":\"Начался новый раунд, ожидаем ваши варианты в чате. Для участия напишите в чате цифру от 1 до %1%. Время на голосование: %2% секунд\",\"DoorVoteTimeParam\":\"Время на выбор двери: %1%\",\"DoorChoosingWinner\":\"Выбираем победителя\",\"DoorWaitingStart\":\"Ожидание начала игры\",\"gameUnoDesc\":\"Сыграйте с друзьями в одну из самых популярных и захватывающих карточных игр — UNO! Бросайте карты, меняйте правила с особыми эффектами и станьте первым, кто избавится от всех карт!\",\"gameLiarsBarDesc\":\"Избавься от всех своих карт, обмани друзей и надейся на холостой выстрел — азартная и весёлая игра, где каждый ход может стать последним!\",\"gameTypeCompetition\":\"Type Competition\",\"gameTypeCompetitionDesc\":\"Соревнуйтесь в скорости печати: ошиблись — получаете блок ввода, много ошибок — выбываете. Побеждает самый быстрый и точный!\",\"gameSpacePower\":\"Space Power\",\"gameSpacePowerDesc\":\"Командная игра на кликах пробела! Нажимайте пробел, чтобы помочь вашей команде выиграть перетягивание каната. Команда с большим количеством кликов каждую секунду тянет канат к своему флажку!\",\"gameTenSecondsDesc\":\"Зажмите SPACE до старта, отпустите как можно ближе к целевому времени и отправьте соперников в русскую рулетку.\",\"gameNavalBattle\":\"Морской бой\",\"gameNavalBattleDesc\":\"Выберите корабль и потопите соперников. W/S движение, A/D поворот, Q/E/SPACE стрельба с прицелом, модификаторы и респавны в бою.\",\"gameSharpShooter\":\"Меткий стрелок\",\"gameSharpShooterDesc\":\"Проверьте своё мастерство! Попадайте в движущиеся мишени быстрее других. Слишком много промахов — выбываете. Первый, кто поразит все мишени, побеждает!\",\"gameGolf\":\"Гольф\",\"gameGolfDesc\":\"Мини-гольф с видом сверху, процедурной картой, препятствиями и ямами. Тяните мышь от мяча, чтобы ударить, и дойдите до лунки за минимум ударов и времени.\",\"GolfRule1\":\"Карта генерируется до старта игры. Хост может перегенерировать карту только в ожидании.\",\"GolfRule2\":\"Зажмите ЛКМ по своему мячу и тяните в противоположную сторону от удара. Чем сильнее оттяжка, тем сильнее удар, но с лимитом.\",\"GolfRule3\":\"Если отпустить ЛКМ почти на мяче, удар отменяется и ход не тратится.\",\"GolfRule4\":\"Падение в яму или выход за границы карты дает +1 штрафной удар и возврат на предыдущую позицию.\",\"GolfRule5\":\"Клавиша R откатывает мяч на предыдущую позицию и добавляет +2 удара.\",\"GolfRule6\":\"Превысили лимит ударов или времени - поражение.\",\"GolfRule7\":\"Побеждает тот, кто первым загонит мяч в лунку с меньшим числом ударов. При равенстве - меньшее время.\",\"GolfRule8\":\"Камера следует за мячом. Колесо мыши меняет приближение. Удерживайте ПКМ, чтобы вращать камеру вокруг мяча.\",\"GolfGenerating\":\"Генерация карты...\",\"GolfRegenerateMap\":\"Сгенерировать новую карту\",\"GolfStrokes\":\"Удары\",\"GolfTime\":\"Время\",\"GolfLimitTime\":\"Лимит времени\",\"GolfPower\":\"Сила\",\"GolfDone\":\"Финиш\",\"GolfFail\":\"Проигрыш\",\"GolfMaxStrokes\":\"Лимит ударов\",\"GolfTimeLimit\":\"Лимит времени (сек)\",\"GolfMaxPower\":\"Макс. сила удара\",\"GolfHintShoot\":\"ЛКМ — тяни от мяча для удара\",\"GolfHintCamera\":\"ПКМ — вращение камеры\",\"GolfHintMove\":\"WASD — движение камеры (Shift — x2)\",\"GolfHintReset\":\"Пробел — сброс камеры\",\"GolfHintZoom\":\"Колёсико — зум\",\"GolfHintRollback\":\"R — откат (+2 удара)\",\"SharpShooterRule1\":\"Отсчёт перед началом игры. Мишени появляются одна за другой на игровом поле.\",\"SharpShooterRule2\":\"Кликайте по мишеням (или используйте WASD + Пробел если включено хостом), чтобы их поразить. В режиме WASD удерживайте Shift для ускорения прицела.\",\"SharpShooterRule3\":\"Промах активирует время перезарядки. Слишком много промахов — вы выбываете из игры.\",\"SharpShooterRule4\":\"Первый, кто поразит все мишени, сразу побеждает. Если время закончилось, победитель определяется по: больше мишеней > меньше промахов > выше точность.\",\"SharpShooterRule5\":\"Точность рассчитывается по расстоянию от попадания до центра мишени. Чем ближе к центру, тем лучше!\",\"SharpShooterTarget\":\"Мишень\",\"SharpShooterTime\":\"Время\",\"SharpShooterPlayer\":\"Игрок\",\"SharpShooterTargets\":\"Мишени\",\"SharpShooterShots\":\"Выстрелы\",\"SharpShooterMisses\":\"Промахи\",\"SharpShooterAccuracy\":\"Точность\",\"SharpShooterStatus\":\"Статус\",\"SharpShooterEliminated\":\"Выбыл\",\"SharpShooterCooldown\":\"Перезарядка\",\"SharpShooterReady\":\"Готов\",\"SharpShooterWaiting\":\"Ожидание начала игры...\",\"SharpShooterFinished\":\"Игра завершена\",\"SharpShooterOnlyHostSettings\":\"Только хост может изменять настройки.\",\"SharpShooterSettingsWaitingOnly\":\"Настройки можно менять только в режиме ожидания.\",\"SharpShooterControlMode\":\"Способ управления\",\"SharpShooterControlMouse\":\"Клик мышью\",\"SharpShooterControlKeyboard\":\"Клавиатура (WASD + Пробел)\",\"SharpShooterMaxMisses\":\"Макс. промахов\",\"SharpShooterCountdownTitle\":\"Приготовьтесь\",\"SharpShooterWaitingStart\":\"Ожидание начала\",\"NavalBattleRule1\":\"Перед боем у каждого игрока есть 15 секунд на выбор одного из трех кораблей и подтверждение.\",\"NavalBattleRule2\":\"Маленький корабль быстрый, но хрупкий; средний сбалансирован; большой живучий, но медленный.\",\"NavalBattleRule3\":\"Управление: W/S ход вперед-назад, A/D поворот корпуса.\",\"NavalBattleRule4\":\"Зажмите Q, E или SPACE, чтобы увидеть зону поражения, отпустите клавишу для выстрела.\",\"NavalBattleRule5\":\"У каждого типа выстрела отдельная перезарядка 5 секунд.\",\"NavalBattleRule6\":\"После спавна и респавна корабль временно неуязвим, не может стрелять и мигает.\",\"NavalBattleRule7\":\"Если хост включил модификаторы, на карте появляются коробки-бонусы, которые исчезают через 20 секунд.\",\"NavalBattleRule8\":\"У игрока ограниченное число жизней. Когда жизни заканчиваются, игрок выбывает. Побеждает последний выживший.\",\"NavalBattleSelectTitle\":\"Выберите корабль\",\"NavalBattleSelectTimer\":\"Бой начнется через %1%с\",\"NavalBattleStatHp\":\"HP\",\"NavalBattleStatDamage\":\"Урон\",\"NavalBattleStatSpeed\":\"Скорость\",\"NavalBattleConfirmShip\":\"Подтвердить корабль\",\"NavalBattleShipConfirmed\":\"Корабль подтвержден\",\"NavalBattleLives\":\"Жизни: %1%\",\"NavalBattleAlivePlayers\":\"В строю: %1%\",\"NavalBattleKills\":\"Потоплено: %1%\",\"NavalBattleHp\":\"HP\",\"NavalBattleShield\":\"Щит\",\"NavalBattleInvulnerable\":\"Неуязвимость: %1%с\",\"NavalBattleControlsHint\":\"W/S ход, A/D поворот, Q/E/SPACE огонь\",\"NavalBattleBuffStealth\":\"Стелс активен\",\"NavalBattleBuffDamage\":\"x2 урон активен\",\"NavalBattleBuffSpeed\":\"x2 скорость активна\",\"NavalBattleLivesSetting\":\"Жизней на игрока\",\"NavalBattleModifiersSetting\":\"Спавн модификаторов\",\"NavalBattleModifiersEnabled\":\"Модификаторы включены\",\"NavalBattleModifiersDisabled\":\"Модификаторы выключены\",\"NavalBattleShipSmall\":\"Маленький\",\"NavalBattleShipMedium\":\"Средний\",\"NavalBattleShipLarge\":\"Большой\",\"NavalBattleWaitingPlayers\":\"Ожидание начала игры...\",\"NavalBattleYou\":\"вы\",\"TypeCompetitionRule1\":\"В начале матча генерируется общий текст из 500 слов, одинаковый для всех игроков.\",\"TypeCompetitionRule2\":\"После старта есть 5 секунд обратного отсчёта: текст уже виден, можно заранее прочитать первые слова.\",\"TypeCompetitionRule3\":\"Вы печатаете слова посимвольно, без нажатия Enter или пробела.\",\"TypeCompetitionWordsStartHint\":\"Слова появятся здесь, когда игра начнётся.\",\"TypeCompetitionRule4\":\"За каждое верно введённое слово вы получаете +1 к счётчику напечатанных слов.\",\"TypeCompetitionRule5\":\"Ошибка даёт временную блокировку ввода на несколько секунд.\",\"TypeCompetitionRule6\":\"Если число ошибок достигает лимита, игрок выбывает из текущего матча.\",\"TypeCompetitionRule7\":\"Если вы дошли до конца текста, печать продолжается с начала (по кругу) без потери очков.\",\"TypeCompetitionRule8\":\"Победа: последний живой игрок, либо по таймеру — живой игрок с наибольшим количеством слов.\",\"TypeCompetitionLanguage\":\"Язык\",\"TypeCompetitionMaxErrors\":\"Максимум ошибок\",\"TypeCompetitionRoundSeconds\":\"Длительность раунда (сек)\",\"TypeCompetitionBlockSeconds\":\"Блокировка за ошибку (сек)\",\"TypeCompetitionTimer\":\"Таймер\",\"TypeCompetitionCurrentLine\":\"Текущая строка\",\"TypeCompetitionNextLine\":\"Следующая строка\",\"TypeCompetitionInputPlaceholder\":\"Просто печатайте слово без пробелов и Enter. Заглавные буквы не обязательны.\",\"TypeCompetitionSendWord\":\"Отправить\",\"TypeCompetitionInputBlocked\":\"Ввод заблокирован на %1% сек.\",\"TypeCompetitionWrongLayout\":\"Неверная раскладка клавиатуры. Переключитесь на %1%.\",\"TypeCompetitionWordsTyped\":\"Слов напечатано\",\"TypeCompetitionErrors\":\"Ошибки\",\"TypeCompetitionAlive\":\"В игре\",\"TypeCompetitionEliminated\":\"Выбыл\",\"TypeCompetitionCountdown\":\"Старт через %1%...\",\"gameKickPlayer\":\"Вы уверены, что хотите кикнуть этого игрока?\",\"transferHost\":\"Вы уверены, что хотите передать хост-права этому игроку?\",\"lobbyPasswordEnter\":\"Введите пароль\",\"lobbyPasswordChange\":\"Изменить пароль\",\"lobbyPasswordRemove\":\"Вы уверены, что хотите удалить пароль?\",\"lobbyPassword\":\"Пароль\",\"lobbyAddBot\":\"🤖 Добавить бота\",\"lobbyStage\":\"Статус лобби\",\"lobbyPlayers\":\"Игроков в лобби\",\"lobbyPlayersMin\":\"Требуется %1% игроков\",\"lobbyGamePaused\":\"Игра приостановлена\",\"lobbyStartGame\":\"🕹️ Начать игру\",\"lobbyEndGame\":\"Закончить игру\",\"lobbyShareGame\":\"Поделиться\",\"lobbyShareGameSuccess\":\"Ссылка на игру скопирована в буфер обмена\",\"lobbyShareGameTooltip\":\"Нажмите, чтобы скопировать ссылку на этот номер комнаты и поделиться ею с другими\",\"lobbyPauseGame\":\"Приостановить игру\",\"lobbyResumeGame\":\"Продолжить игру\",\"lobbyHideChat\":\"Скрыть чат\",\"lobbyShowChat\":\"Показать чат\",\"lobbyGameRulesButton\":\"Правила игры\",\"lobbyGameRulesTitle\":\"Правила игры\",\"lobbyShowChatUread\":\"Показать чат (%1% новых сообщений)\",\"lobbySendChatMessage\":\"Отправить\",\"lobbyHidePlayersList\":\"Скрыть список игроков\",\"lobbyShowPlayersList\":\"Показать список игроков\",\"lobbyTransferHost\":\"Передать хост-права\",\"lobbyKickPlayer\":\"Кикнуть игрока\",\"lobbyChatMessage\":\"Сообщение\",\"lobbyPasswordChangeButton\":\"Изменить пароль\",\"lobbyPasswordRemoveButton\":\"Удалить пароль\",\"lobbyPasswordShowButton\":\"Показать/Скрыть пароль\",\"lobbyCantStartNoPlayers\":\"Недостаточно игроков для начала игры\",\"lobbyCantStartRatedWithBots\":\"Невозможно начать рейтинговую игру с ботами\",\"lobbyRatedGame\":\"Включить рейтинг\",\"lobbyRatedGameWarning\":\"Игру с рейтингом нельзя приостановить или остановить вручную\",\"Leaderboard\":\"Рейтинг\",\"ProfilePlayersName\":\"Игрок\",\"LiarsBarMaxCardsInHands\":\"Максимальное количество карт в руке\",\"LiarsBarMaxCardsCanThrow\":\"Количество карт, которые можно выложить на стол\",\"LiarsBarAFKNoTurnTitle\":\"AFK игрок (не сделал ход)\",\"LiarsBarAFKNoTurnKill\":\"Убить сразу\",\"LiarsBarAFKNoTurnShot\":\"+1 патрон и выстрел\",\"LiarsBarCallLiar\":\"По моему %1% лжец\",\"LiarsBarCallLiarYes\":\"Отлично, %1% - лжец\",\"LiarsBarCallLiarNo\":\"Вот чёрт, %1% - не лжец\",\"ServerReload\":\"Сервер был обновлён. Страница была автоматически перезагружена\",\"lobbyPasswordCopyButton\":\"Скопировать пароль\",\"lobbyPasswordCopyButtonSuccess\":\"Пароль скопирован в буфер обмена\",\"statusLobby.waiting\":\"Ожидание начала\",\"statusLobby.ingame\":\"В игре\",\"voice.liarsbar.callliar\":\"Лжец!!!\",\"voice.liarsbar.callliar.yes\":\"Кому то сегодня не повезло)\",\"voice.liarsbar.callliar.no\":\"Какая неожиданность)\",\"SoundsVolume\":\"Громкость звуков\",\"SoundsVolumeSound\":\"Громкость звуков\",\"SoundsVolumeVoice\":\"Громкость голоса\",\"voice.example\":\"Пример голоса\",\"BackgroundMusicVolume\":\"Громкость музыки\",\"GlobalVolume\":\"Глобальная громкость\",\"lobbyId\":\"ID лобби\",\"lobbyName\":\"Название лобби\",\"lobbyNameCopyButton\":\"Скопировать название лобби\",\"lobbyNameCopyButtonSuccess\":\"Название лобби скопировано в буфер обмена\",\"lobbyIdCopyButton\":\"Скопировать ID лобби\",\"lobbyIdCopyButtonSuccess\":\"ID лобби скопирован в буфер обмена\",\"LiarsBarTrowxCards\":\"Выложить x%1% карты\",\"LiarsBarTrowxCard\":\"Выложить x%1% карту\",\"LiarsBarCallLiarButton\":\"Назвать лжецом\",\"LiarsBarCallPlayerTurn\":\"Ход игрока: %1%\",\"LiarsBarRule1\":\"Цель игры: остаться последним живым игроком.\",\"LiarsBarRule2\":\"В начале раунда все живые игроки получают карты, а на стол назначается ранговая карта раунда.\",\"LiarsBarRule3\":\"В свой ход можно выложить от 1 до лимита карт. Карты кладутся рубашкой вверх.\",\"LiarsBarRule4\":\"Выкладывать можно любые карты, но безопасно только совпадение с ранговой картой или джокер.\",\"LiarsBarRule5\":\"Следующий игрок решает: выложить свои карты или нажать \\\\\"Назвать лжецом\\\\\" против предыдущего хода.\",\"LiarsBarRule6\":\"Если вызов лжеца верный, наказание получает предыдущий игрок. Если неверный, наказание получает вызывавший.\",\"LiarsBarRule7\":\"Наказание — выстрел в русской рулетке: с каждым наказанием шанс выбыть растёт.\",\"LiarsBarRule8\":\"На ход даётся ограниченное время. Если время вышло, применяется AFK-наказание из настроек лобби.\",\"UnoReportUno\":\"Пожаловаться на UNO!\",\"UnoSayUno\":\"Сказать UNO!\",\"UnoTakeCards\":\"Взять карты\",\"PlayerOffline\":\"ОФЛАЙН\",\"UnoHostSkipTurn\":\"Пропустить ход\",\"UnoHostExcludeFromGame\":\"Исключить из игры\",\"UnoHostExcludeFromGameConfirm\":\"Вы уверены, что хотите исключить этого игрока из текущей игры?\",\"UnoHostBotControl\":\"Управление ботом\",\"UnoActionSayUno\":\"%1% сказал UNO!\",\"UnoActionReportUno\":\"%1% нажал Report UNO!\",\"UnoMegaphoneBlock\":\"Кнопка заблокирована ещё %1% ход(ов)\",\"UnoReportSuccess\":\"%1% поймал за UNO! Жалоба верна!\",\"UnoReportFail\":\"%1% ошибся! Жалоба ложна\",\"UnoRule1\":\"Каждому игроку раздаётся 7 карт. Первая карта кладётся на стол — она задаёт цвет и значение.\",\"UnoRule2\":\"В свой ход бросайте карту, совпадающую по цвету или значению с верхней картой стола. Если хода нет — берите карту из колоды.\",\"UnoRule3\":\"🔄 Reverse — меняет направление хода.\",\"UnoRule4\":\"🚫 Skip — следующий игрок пропускает ход.\",\"UnoRule5\":\"+2 — следующий игрок берёт 2 карты и пропускает ход.\",\"UnoRule6\":\"🌈 WILD — смените цвет на любой.\",\"UnoRule7\":\"+4 WILD — смените цвет, следующий игрок берёт 4 карты.\",\"UnoRule8\":\"Когда остаётся 2 карты — нажмите \\\\\"Сказать UNO\\\\\" перед броском. Иначе вас можно репортнуть — получите +2 карты.\",\"UnoRule9\":\"🔔 Кнопка \\\\\"Пожаловаться на UNO\\\\\" позволяет поймать игрока с 1 картой, если он не сказал UNO. Успех — он берёт +2. Ошибка — вы берёте карты и кнопка блокируется на несколько ходов.\",\"UnoRule10\":\"Первый избавившийся от всех карт побеждает!\",\"lobbyMyLobbies\":\"Мои лобби\",\"lobbyPublicLobbies\":\"Публичные лобби\",\"lobbyNoLobbiesFound\":\"Лобби не найдены\",\"lobbyJoinButton\":\"Войти\",\"lobbyReturnButton\":\"Вернуться\",\"lobbyCreateLobby\":\"Создать лобби\",\"lobbyCreateLobbyName\":\"Название лобби\",\"lobbyRemoveAllBot\":\"Удалить всех ботов\",\"lobbyRemoveBot\":\"Удалить бота\",\"errorConnectionDublicate\":\"Вы можете использовать только один экземпляр сайта одновременно. Функционал данной страницы был ограничен в связи с открытием другой вкладки сайта.\",\"ComingSoon\":\"Скоро\",\"OnlinePlayers\":\"Игроков онлайн: %1%\",\"PlayersPageNav\":\"Все игроки\",\"PlayersPageTitle\":\"Зарегистрированные игроки\",\"PlayersPageSearch\":\"Поиск по нику, логину или ID\",\"PlayersPageTotal\":\"Найдено: %1%\",\"OnlinePlayersList\":\"Список игроков онлайн\",\"OnlinePlayersListLastSeen\":\"😴 Последний визит: %1%\",\"NowOnline\":\"✅ На сайте\",\"ServerReloadRequired\":\"Получена информация о новой версии сайта. Как только игра будет завершена, страница будет перезагружена для применения новых изменений.\",\"CardUserInfo\":\"Информация о пользователе: %1%\",\"ProfileIncomingRequests\":\"Входящие заявки\",\"ProfileOutgoingRequests\":\"Исходящие заявки\",\"ProfileAccept\":\"Принять\",\"ProfileDecline\":\"Отклонить\",\"ProfileCancel\":\"Отменить заявку\",\"ProfileFriends\":\"Друзья\",\"ProfileGames\":\"Сыгранные игры\",\"ProfilePlayedSeconds\":\"Сыграно времени\",\"ProfilePlayedGames\":\"Сыграно игр\",\"ProfileNoData\":\"Нет данных\",\"ProfileRemoveFriend\":\"Удалить из друзей\",\"ProfileAddFriend\":\"Добавить в друзья\",\"ProfileCancelRequest\":\"Отменить заявку\",\"ProfileGame\":\"Игра\",\"ProfileWins\":\"Побед\",\"ProfileLoses\":\"Поражений\",\"ProfileRating\":\"Рейтинг\",\"gameWinner\":\"Победитель\",\"socketErrorConnection\":\"Возникла ошибка при подключении к WebSocket серверу. Мультиплеерный режим недоступен\",\"ProfileMessage\":\"Написать сообщение\",\"MessagesTitle\":\"Сообщения\",\"MessagesNoChats\":\"Нет переписок\",\"MessagesSelectChat\":\"Выберите диалог\",\"MessagesInputPlaceholder\":\"Написать сообщение...\",\"MessagesSend\":\"Отправить\",\"lobbyInviteFriend\":\"Пригласить\",\"lobbyInviteFriendTooltip\":\"Пригласить друга в эту игру через ЛС\",\"lobbyInviteFriendTitle\":\"Пригласить друга\",\"lobbyInviteMessage\":\"Приглашаю тебя в лобби «%1%»!\",\"lobbyInviteJoinLink\":\"Присоединиться\",\"lobbyInviteSent\":\"Приглашение отправлено!\",\"SpacePowerRule1\":\"Хост может выбрать режим распределения команд (Авто или Ручной) и настроить длительность игры (10-300 секунд).\",\"SpacePowerRule2\":\"В режиме Авто игроки автоматически распределяются в сбалансированные команды. В режиме Ручной хост распределяет игроков и может включить самопереход между командами.\",\"SpacePowerRule3\":\"Для кликов по SPACE учитываются только отдельные нажатия, зажатие клавиши не дает прироста.\",\"SpacePowerRule4\":\"Каждую секунду система считает CPS (клики в секунду) каждой команды. Команда с большим количеством кликов тянет канат к своему флажку.\",\"SpacePowerRule5\":\"Побеждает команда, которая первой потянет канат до своего флажка, или когда время истекает, побеждает команда, ближе всех к своей цели!\",\"SpacePowerRule6\":\"Перед стартом есть заметный обратный отсчет. Каждый игрок до начала матча может выбрать управление: SPACE или клики мышкой по блоку.\",\"SpacePowerTeamAssignment\":\"Распределение по командам\",\"SpacePowerAutoMode\":\"Авто (баланс)\",\"SpacePowerManualMode\":\"Ручной режим\",\"SpacePowerTeamA\":\"Команда A\",\"SpacePowerTeamB\":\"Команда B\",\"SpacePowerMoveToA\":\"В A\",\"SpacePowerMoveToB\":\"В B\",\"SpacePowerGameSettings\":\"Настройки игры\",\"SpacePowerGameDuration\":\"Длительность игры (сек)\",\"SpacePowerTimer\":\"Время\",\"SpacePowerPaused\":\"ПАУЗА\",\"SpacePowerCurrentCPS\":\"CPS\",\"SpacePowerTotalClicks\":\"Всего кликов\",\"SpacePowerContribution\":\"Вклад\",\"SpacePowerPressSpace\":\"Нажимайте SPACE, чтобы кликать\",\"SpacePowerPressMouse\":\"Кликайте мышкой по этому блоку\",\"SpacePowerInputModeLabel\":\"Режим ввода\",\"SpacePowerInputModeSpace\":\"SPACE\",\"SpacePowerInputModeMouse\":\"МЫШЬ\",\"SpacePowerInputModeSpaceShort\":\"SPACE\",\"SpacePowerInputModeMouseShort\":\"Мышь\",\"SpacePowerAllowSelfMove\":\"Разрешить игрокам перемещать себя\",\"SpacePowerShuffleTeams\":\"Перемешать игроков\",\"SpacePowerPrepareFight\":\"Приготовьтесь к бою\",\"SpacePowerPreStartHint\":\"После старта быстро нажимайте SPACE и следите за вкладом каждого игрока в статистике команды.\",\"SpacePowerPreStartHintMouse\":\"После старта кликайте мышкой по блоку кликов и следите за вкладом каждого игрока в статистике команды.\",\"SpacePowerKeyboardWarning\":\"Внимание: слишком интенсивные нажатия могут негативно сказаться на ресурсе клавиатуры.\",\"SpacePowerMouseWarning\":\"Режим мыши активен: кликайте по блоку, нагрузка на клавиатуру отсутствует.\",\"TenSecondsRule1\":\"Цель игры: остаться последним живым игроком.\",\"TenSecondsRule2\":\"Каждый раунд начинается с 5 секунд подготовки. За это время нужно зажать SPACE и держать его до сигнала старта.\",\"TenSecondsRule3\":\"После подготовки появляются два таймера: фиксированная цель и ваш растущий таймер от 00:00:000.\",\"TenSecondsRule4\":\"Отпустите SPACE как можно ближе к целевому времени, но не перешагните его.\",\"TenSecondsRule5\":\"Если один или несколько игроков превысили цель, каждый из них получает наказание русской рулеткой.\",\"TenSecondsRule6\":\"Если никто не превысил цель, наказывается игрок, который оказался дальше всех от неё. Если все живые игроки показали одно и то же корректное время, раунд пропускается.\",\"TenSecondsRule7\":\"Русская рулетка работает как в Liars Bar: после каждого наказания добавляется новый патрон, и следующий выстрел становится опаснее.\",\"TenSecondsRule8\":\"Точное попадание в цель даёт право выбрать, кто получит наказание вместо автоматического выбора. В дуэли 1 на 1 наказание сразу получает второй игрок.\",\"TenSecondsRule9\":\"На выбор даётся ограниченное время, а выбрать можно только настроенное количество живых соперников, но не всех сразу, если соперников больше одного.\",\"TenSecondsRule10\":\"Если точный игрок не подтвердил выбор вовремя, наказание получает он сам.\",\"TenSecondsPhase\":\"Фаза\",\"TenSecondsRound\":\"Раунд\",\"TenSecondsBullets\":\"Патроны\",\"TenSecondsTargetTimer\":\"Целевой таймер\",\"TenSecondsCurrentTimer\":\"Ваш таймер\",\"TenSecondsPrepareLabel\":\"Подготовка\",\"TenSecondsTimingLabel\":\"Момент отпускания\",\"TenSecondsResultsLabel\":\"Результат раунда\",\"TenSecondsChooserLabel\":\"Выбор цели\",\"TenSecondsPrepareHint\":\"Зажмите SPACE сейчас и не отпускайте\",\"TenSecondsPrepareCountdown\":\"Старт через %1% сек.\",\"TenSecondsReleaseHint\":\"Отпустите SPACE как можно ближе к цели\",\"TenSecondsMissedHoldHint\":\"SPACE нужно было зажать во время подготовки. Поздний старт считается ошибкой.\",\"TenSecondsAlreadyEliminated\":\"Вы уже выбыли.\",\"TenSecondsChooserSelf\":\"Точное попадание. Выберите %1% цель(ей).\",\"TenSecondsChooserOther\":\"%1% попал ровно в цель и выбирает, кто будет стреляться.\",\"TenSecondsChooserTimer\":\"Времени на выбор осталось: %1% сек.\",\"TenSecondsConfirmTargets\":\"Подтвердить цели\",\"TenSecondsPlayerWaiting\":\"Ожидание\",\"TenSecondsPlayerReady\":\"Готов\",\"TenSecondsPlayerWaitingHold\":\"Не держит SPACE\",\"TenSecondsPlayerHolding\":\"Держит\",\"TenSecondsPlayerReleased\":\"Отпустил\",\"TenSecondsPenaltyMarked\":\"Штраф: не зажал SPACE вовремя\",\"TenSecondsPlayerEliminated\":\"Выбыл\",\"TenSecondsChooserActive\":\"Выбирает цели\",\"TenSecondsChooserWaiting\":\"Ожидание выбора\",\"TenSecondsResultExact\":\"Точно в цель\",\"TenSecondsResultMissedHold\":\"Не зажал SPACE во время подготовки\",\"TenSecondsResultExceeded\":\"Перешагнул лимит\",\"TenSecondsResultSafe\":\"Без штрафа\",\"TenSecondsTargetSeconds\":\"Целевое время (сек)\",\"TenSecondsChooserSeconds\":\"Время на выбор (сек)\",\"TenSecondsChooserTargets\":\"Количество целей\"}');\n\n//# sourceURL=webpack:///./src/frontend/langs/ru.json?");
+
+/***/ }),
+
+/***/ "./src/frontend/langs/shared.json":
+/*!****************************************!*\
+  !*** ./src/frontend/langs/shared.json ***!
+  \****************************************/
+/***/ ((module) => {
+
+"use strict";
+eval("module.exports = /*#__PURE__*/JSON.parse('{\"testName\":\"Test game\",\"testDesc\":\"Test game description\",\"testInfo\":\"Test game info\",\"gameUno\":\"UNO\",\"gameLiarsBar\":\"Liars Bar\",\"gameSpacePower\":\"Space Power\",\"gameTenSeconds\":\"10 Seconds\",\"gameNavalBattle\":\"Naval Battle\",\"example\":\"Example\"}');\n\n//# sourceURL=webpack:///./src/frontend/langs/shared.json?");
+
+/***/ }),
+
+/***/ "./src/frontend/langs/uk.json":
+/*!************************************!*\
+  !*** ./src/frontend/langs/uk.json ***!
+  \************************************/
+/***/ ((module) => {
+
+"use strict";
+eval("module.exports = /*#__PURE__*/JSON.parse('{\"Settings\":\"Налаштування\",\"Settings2\":\"Приховати налаштування\",\"Settings3\":\"Налаштування\",\"SettingsInfoFont\":\"Розмір шрифту опису гри\",\"GameLab\":\"Лабіринт\",\"GameLabDesc\":\"Вибратися з лабіринту здається простим завданням? Тільки не тоді, коли вибратися може лише перший серед ваших глядачів і час підтискає!\",\"GameWords\":\"Слова\",\"GameWordsDesc\":\"І скільки ж серед ваших глядачів тих, хто вміє швидко друкувати? Це легко з\\'ясувати\",\"language\":\"Мова\",\"uk\":\"Українська\",\"ru\":\"Російська\",\"en\":\"Англійська\",\"Play\":\"Грати\",\"PlayAFKTitle\":\"AFK режим (%1%)\",\"PlayAFK\":\"Включити AFK режим\",\"PlayAFKGames\":\"Ігри AFK режиму\",\"PlayAFKGamesDesc\":\"Виберіть ігри, які будуть вмикатися під час AFK режиму. Зміна ігор відбуватиметься у випадковому порядку. Для роботи потрібно вибрати мінімум 2 гри\",\"PlayAFKGamesLimitGame\":\"Зміна гри через %1% гру\",\"PlayAFKGamesReq\":\"Запустити AFK режим? Ігри автоматично перемикатимуться між тими, що ви вказали в налаштуваннях\",\"PlayAFKGamesReq2Min\":\"Для запуску виберіть не менше 2х ігор у налаштуваннях\",\"CloseGame\":\"Закрити гру\",\"CloseGameAccept\":\"Ви впевнені?\",\"LeaveAcc\":\"Вийти (%1%)\",\"LeaveAccAccept\":\"Ви впевнені?\",\"Game_Timer\":\"ТАЙМЕР\",\"Game_New\":\"Нова гра\",\"Game_Stop\":\"Закінчити гру\",\"Labyrinth_Autostart\":\"Авто режим\",\"Labyrinth_AutostartDisableAuto\":\"Налаштування вимкнено в AFK режимі\",\"Labyrinth_Manual\":\"Ручний режим\",\"Labyrinth_Width\":\"Ширина\",\"Labyrinth_Height\":\"Висота\",\"Labyrinth_Size\":\"Розмір\",\"Labyrinth_Route\":\"Коректний шлях\",\"Labyrinth_Info\":\"Для участі в грі введіть у чат коректний шлях від білої клітинки до дверей, використовуючи WASD у якості маршруту\",\"Labyrinth_Last\":\"Поточний прогрес\",\"Labyrinth_Winner\":\"Переможець - %1%. Вітаємо\",\"Labyrinth_Waiting\":\"Чекаємо на початок\",\"Words_Shuffle\":\"Режим змішування\",\"Words_Winner\":\"Переможець - %1% (Рахунок: %2%). Вітаємо\",\"Words_Count\":\"Підрахунок слів\",\"Words_TimeLimit\":\"Часовий ліміт\",\"Words_Info\":\"Завдання глядачів - вводити слова, які відображаються зліва у чат. Перемагає той, хто введе більше всіх слів. Слово зараховується тільки якщо його введено вперше\",\"Words_Leaders\":\"Поточні лідери\",\"GameSections\":\"Секції\",\"GameSectionsDesc\":\"Без уважності нікуди. Гра для розвитку уваги ваших глядачів, а також можливості стримера поспати, поки чат вдає, що мініігри їм цікавіші, ніж сам стример\",\"GameSections_Count\":\"Підрахунок секцій\",\"GameSections_Size\":\"Розмір\",\"GameSections_Info\":\"Ваше завдання знаходити однакові клітини і писати їхні номери в чат через пробіл. Перемагає той, хто знайде найбільше клітин за відведений час, або поки не закінчаться самі клітини.\",\"GameSections_Leaders\":\"Таблиця лідерів\",\"GameSections_Winner\":\"Переможець - %1% (Рахунок: %2%). Вітаємо\",\"webCamButton\":\"Переключити зону вебкамери\",\"GameRace\":\"Гонки\",\"GameRaceDesc\":\"Беріть участь у перегонах, де важлива реакція і підлість щодо опонентів\",\"GameDestroy\":\"Точний постріл\",\"GameDestroyDesc\":\"Передбачайте рух смайлів щоб точним пострілом потрапити в мішень\",\"GameDestroyShowFalse\":\"Показувати промахи гравців\",\"GameRaceBoardSize\":\"Розмір дошки\",\"GameRaceBoardSpeed\":\"Швидкість\",\"GameRaceBoardTargets\":\"Цілей\",\"GameRaceBoardInfo\":\"Вкажіть номер клітини (наприклад B5), щоб влучити по рухомій мішені. Радимо врахувати затримку трансляції щоб точно влучити в ціль\",\"GameDecrypt\":\"Шифр\",\"GameDecryptDesc\":\"Напружте свої мізки щоб якомога швидше зашифрувати послання. Швидкість і точність - найважливіше\",\"GameDecryptDone\":\"@%1% закінчив шифрування повідомлення з рахунком %2%\",\"GameDecryptStep\":\"@%1%, проміжний етап шифрування прийнято. Ваш поточний рахунок: %2%. Виконано %3%/%4% правил\",\"GameDecryptInfo\":\"Ключем для шифрування є ваш нік, тож не намагайтеся списувати у інших глядачів.\\\\nДля успішного шифрування ви повинні дотримуватися \\\\\"Списку правил\\\\\" (кожен крок змінює ваш фінальний результат). Чим швидше ви виконаєте шифрування, тим вищу оцінку отримаєте.\\\\nНадсилайте в чат результат кожного кроку!\",\"GameDecryptSymbolsTable\":\"Таблиця символів\",\"GameDecryptVowelsList\":\"Список голосних\",\"GameDecryptRulesList\":\"Список правил для шифрування\",\"GameDecryptRulesCount\":\"Кількість правил\",\"GameDecryptRule1\":\"Візьміть перші 6 символів вашого імені twitch і замініть їх на символи з таблиці вище. Ігноруйте цифри та символи (пропускайте їх). Якщо якийсь символ відсутній у таблиці, залиште його без змін\",\"GameDecryptRule2\":\"Додайте в кінці рядка цифру, значенням якої є кількість голосних. Якщо таких немає - додайте 0.\",\"GameDecryptRule3\":\"Переверніть отриманий шифр у зворотний бік (ABC -> CBA).\",\"GameDecryptRule4\":\"Візьміть кожен другий символ і помістіть його в кінець шифру у зворотному порядку (ABCDEF -> ABCDEFFDB).\",\"GameDecryptRule5\":\"Додайте в кінець шифру цифру, значенням якої є кількість символів у ньому (ABCD -> ABCD4).\",\"GameDecryptRule6\":\"Видаліть усі голосні або додайте X на початок шифру, якщо голосних немає (ABC -> BC, D -> XD).\",\"GameDecryptRule7\":\"Подвойте кожен символ (ABC1 -> AABBCC11).\",\"GameDecryptRule8\":\"Видаліть символи, що зустрічаються більше одного разу (ABCA -> BC).\",\"GameDecryptRule9\":\"Перемістіть останні два символи на початок шифру (ABCDEF -> EFABCD).\",\"GameDecryptRule10\":\"Видаліть перший і останній символ рядка (ABCD -> BC).\",\"GameDecryptRule11\":\"Вставте ! після кожного третього символу (ABCDEF -> ABC!DEF!).\",\"GameDecryptRule12\":\"Поміняйте першу і другу половини шифру місцями. Якщо довжина непарна, центральний символ залиште на місці (ABCDEF -> DEFABC, ABCDE -> CDEAB).\",\"GameSearch\":\"Пошук цілі\",\"GameSearchDesc\":\"Лише пильне око допоможе вам раніше за всіх виявити ціль, на яку оголошено полювання\",\"GameSearchInfo\":\"Ваше завдання - знайти зазначену ціль і вписати номер її клітини раніше за інших, заробляючи очки. Перемагає той, хто набере найбільше балів\",\"GameWord\":\"Знайди слово\",\"GameWordDesc\":\"У чату буде кілька спроб, щоб відгадати потрібне слово\",\"GameWordMissplace\":\"Не на своєму місці\",\"GameWordTarget\":\"Загадане слово\",\"GameWordCorrect\":\"На своєму місці\",\"GameWordLength\":\"Довжина слова\",\"GameWordLengthItem\":\"x%1% літер (%2% слів у БД)\",\"GameWordFontSize\":\"Розмір шрифту\",\"GameWordAttempts\":\"Кількість спроб\",\"GameWordTitleWord\":\"Слово\",\"GameWordInfo\":\"Гра, де вам потрібно відгадати слово, буква за буквою. Надсилайте в чат ваші варіанти та звертайте увагу на те, який колір має та чи інша позиція\",\"GameTreasures\":\"Полювання за скарбами\",\"GameTreasuresDesc\":\"Випробуйте удачу, відкриваючи випадкові клітини на полі, в надії заробити більше всіх очок\",\"GameTreasuresInfo\":\"Для участі в грі напишіть у чат трансляції номер ще не відкритої клітинки, використовуючи літери та цифри по краях поля (наприклад A1), щоб відкрити поле. Залежно від вашої удачі ви або заробите, або втратите ігрові очки. Перемагає той, хто по завершенню гри заробить більше всіх очок\",\"GameMorze\":\"Азбука морзе\",\"GameMorzeDesc\":\"Розпізнайте послання, яке передається через миготливу лампочку\",\"GameMorzeInfo\":\"Ваше завдання першим розпізнати випадкове число (%1%-%2%), яке загадано і написати його в чат. При успішному введенні з\\'являється наступне число, і так далі, поки час не завершиться. Перемагає той, хто першим введе більше всіх правильних відповідей\",\"GameMorzeInfoLetters\":\"Ваше завдання першим розпізнати довільний набір літер (латиниця, %1% символів), який загаданий і написати його в чат. При успішному введенні з\\'являється наступний набір букв, і так далі, поки час не завершиться. Перемагає той, хто першим введе більше всіх правильних відповідей\",\"GameMorzeDataTable\":\"Таблиця з даними\",\"GameMorzeDot\":\"Точка\",\"GameMorzeDash\":\"Тире\",\"GameMorzeSpace\":\"Повтор з початку\",\"GameMorzeSuccess\":\"Дано правильну відповідь\",\"GameMorzeVolume\":\"Гучність\",\"GameMorzeLen\":\"Кількість символів\",\"GameMorzeType\":\"Тип\",\"GameMorzeTypeNumbers\":\"Цифри\",\"GameMorzeTypeLetters\":\"Літери\",\"gameGuessrName\":\"GameGuessr\",\"gameGuessrDesc\":\"Чи добре ви знаєте ігри? Перевірте знання глядачів\",\"gameGuessrTime\":\"Час на відповідь\",\"gameGuessrInfo\":\"У цій вікторині завдання гравців давати правильні відповіді на запитання. Чим швидше гравець відповість на запитання правильно - тим більше очок отримає. Перемагає гравець, хто набере більше всіх очок по завершенню %1% раудів\",\"gameGuessrRounds\":\"Кількість раундів\",\"gameGuessrWaiting\":\"Очікуємо початок\",\"gameGuessrSelectedGames\":\"Обрані ігри\",\"gameGuessrSelectedModes\":\"Обрані режими\",\"gameGuessrSelectedModesText\":\"Текстові запитання\",\"gameGuessrSelectedModesLocation\":\"Локації (зображення)\",\"gameGuessrSelectedModesImage\":\"Зображення\",\"gameGuessrSize\":\"Розмір шрифту/зображень\",\"gameGuessrTimeRemain\":\"Залишилося часу\",\"gameGuessrRound\":\"Раунд %1% / %2%\",\"gameGuessrLocation\":\"Вгадайте локацію\",\"gameGuessr_GTA5_text1\":\"У якому році відбувся реліз GTA 5 на ПК?\",\"gameGuessr_GTA5_text1_1\":\"2013\",\"gameGuessr_GTA5_text1_2\":\"2014\",\"gameGuessr_GTA5_text1_3\":\"2015\",\"gameGuessr_GTA5_text1_4\":\"2017\",\"gameGuessr_GTA5_text2\":\"Скільки грошей принесла GTA 5 за всю історію продажів на всіх платформах?\",\"gameGuessr_GTA5_text2_1\":\"1-3 млрд $\",\"gameGuessr_GTA5_text2_2\":\"3-6 млрд $\",\"gameGuessr_GTA5_text2_3\":\"6-9 млрд $\",\"gameGuessr_GTA5_text2_4\":\"Більше 10 млрд $\",\"example\":\"Приклад\",\"GameDoorChoice\":\"Вибір дверей\",\"GameDoorChoiceDesc\":\"Обери правильні двері, щоб пройти далі. Інші вибувають!\",\"GameDoorChoiceDescDetail\":\"У кожному раунді на екрані з\\'являються двері. Учасники обирають одну з них. Лише одні двері ведуть далі.\\\\n\\\\nКількість балів за правильну відповідь: +%2%\\\\nШтраф за помилку: -%3%\\\\nМножник балів за першу правильну відповідь: x%4%\",\"GameVectors\":\"Точка з\\'єднання\",\"GameVectorsDesc\":\"На полі з\\'являються 2 короткі вектори, завдання - знайти їх точку перетину\",\"GameVectorsDescDetail\":\"На полі з\\'являються 2 короткі вектори (лінії), завдання - знайти їх точку перетину, якби вони були довшими і написати номер клітини в чат, наприклад - А1, В4 і т.д.\",\"GameVectorsLineLen\":\"Довжина ліній\",\"GameVectorsLineThik\":\"Товщина ліній\",\"GameVectorsLineOff\":\"Зміщення ліній від точки перетину\",\"GameVectorsLineCount\":\"Кількість ліній\",\"DoorNumber\":\"Номер дверей: %1%\",\"DoorVotes\":\"Кількість голосів: %1%\",\"DoorResultInfo\":\"Правильні двері: %1%. Кількість гравців, які дали правильну відповідь: %2%. Кількість гравців, які не вгадали: %3%\",\"DoorResultInfoBonus\":\"Правильні двері: %1%. Кількість гравців, які дали правильну відповідь: %2%. Кількість гравців, які не вгадали: %3%. Гравець %4% отримав бонус x2 як перший, хто обрав правильні двері.\",\"DoorVoteTime\":\"Час на голосування за двері\",\"DoorCountSetting\":\"Кількість дверей\",\"GameDoorChoiceSettingCorrect\":\"Нагорода за правильну відповідь\",\"GameDoorChoiceSettingWrong\":\"Штраф за помилку\",\"GameDoorChoiceSettingFirst\":\"Множник для першого\",\"GameDoorChoiceSettingDelay\":\"Затримка між раундами (сек)\",\"GameDoorChoiceSettingNotify\":\"Повідомляти про початок раунду в чат\",\"GameDoorChoiceNotify\":\"Розпочався новий раунд, чекаємо на ваші варіанти у чаті. Для участі напишіть у чаті цифру від 1 до %1%. Час на голосування: %2% секунд\",\"DoorVoteTimeParam\":\"Час на вибір дверей: %1%\",\"DoorChoosingWinner\":\"Вибір переможця\",\"DoorWaitingStart\":\"Очікування початку гри\",\"gameUnoDesc\":\"Зіграйте з друзями в одну з найпопулярніших і найзахопливіших карткових ігор — UNO! Скидайте карти, змінюйте хід гри спеціальними діями та станьте першим, хто позбудеться всіх карт!\",\"gameLiarsBarDesc\":\"Позбудься всіх своїх карт, обдурюй друзів і сподівайся на холостий постріл — азартна та весела гра, де кожен хід може стати фатальним!\",\"gameTypeCompetition\":\"Type Competition\",\"gameTypeCompetitionDesc\":\"Змагайтеся у швидкості друку: помилки блокують введення, а ліміт помилок вибиває з гри. Перемагає найшвидший і найточніший!\",\"gameSpacePower\":\"Space Power\",\"gameSpacePowerDesc\":\"Командна гра на кліках пробілу! Натискайте пробіл, щоб допомогти своїй команді вигратти перетягування каната. Команда з більшою кількістю кліків кожну секунду тягне канат до свого прапорця!\",\"gameTenSecondsDesc\":\"Затисніть SPACE до старту, відпустіть якомога ближче до цільового часу та відправте суперників у російську рулетку.\",\"gameNavalBattle\":\"Морський бій\",\"gameNavalBattleDesc\":\"Оберіть корабель і потопіть суперників. W/S рух, A/D поворот, Q/E/SPACE постріли з прицілом, модифікатори та респавни.\",\"gameSharpShooter\":\"Влучний стрілець\",\"gameSharpShooterDesc\":\"Перевірте свою навичку! Поразьте рухомі мішені швидше за других. Забагато промахів — вибуваєте. Перший, хто поразить усі мішені, перемагає!\",\"gameGolf\":\"Гольф\",\"gameGolfDesc\":\"Міні-гольф з видом зверху, процедурною картою, перешкодами та ямами. Тягніть мишу від м\\'яча, щоб вдарити, і дістаньтеся лунки з мінімумом ударів і часу.\",\"GolfRule1\":\"Мапа генерується до старту гри. Хост може перегенерувати мапу лише в очікуванні.\",\"GolfRule2\":\"Затисніть ЛКМ по своєму м\\'ячу та тягніть у протилежний бік від удару. Чим сильніше відтягування, тим сильніший удар, але з лімітом.\",\"GolfRule3\":\"Якщо відпустити ЛКМ майже на м\\'ячі, удар скасовується і хід не витрачається.\",\"GolfRule4\":\"Падіння в яму або виліт за межі мапи дає +1 штрафний удар та повернення на попередню позицію.\",\"GolfRule5\":\"Клавіша R повертає м\\'яч на попередню позицію і додає +2 удари.\",\"GolfRule6\":\"Перевищили ліміт ударів або часу - поразка.\",\"GolfRule7\":\"Перемагає той, хто зажене м\\'яч у лунку з меншою кількістю ударів. За рівності - менший час.\",\"GolfRule8\":\"Камера слідкує за м\\'ячем. Колесо миші змінює масштаб. Утримуйте ПКМ, щоб обертати камеру навколо м\\'яча.\",\"GolfGenerating\":\"Генерація мапи...\",\"GolfRegenerateMap\":\"Згенерувати нову мапу\",\"GolfStrokes\":\"Удари\",\"GolfTime\":\"Час\",\"GolfLimitTime\":\"Ліміт часу\",\"GolfPower\":\"Сила\",\"GolfDone\":\"Фініш\",\"GolfFail\":\"Поразка\",\"GolfMaxStrokes\":\"Ліміт ударів\",\"GolfTimeLimit\":\"Ліміт часу (сек)\",\"GolfMaxPower\":\"Макс. сила удару\",\"GolfHintShoot\":\"ЛКМ — тягни від м\\'яча для удару\",\"GolfHintCamera\":\"ПКМ — обертання камери\",\"GolfHintMove\":\"WASD — рух камери (Shift — x2)\",\"GolfHintReset\":\"Пробіл — скидання камери\",\"GolfHintZoom\":\"Коліщатко — зум\",\"GolfHintRollback\":\"R — відкат (+2 удари)\",\"SharpShooterRule1\":\"Відлік перед початком гри. Мішені з\\'являються одна за одною на ігровому полі.\",\"SharpShooterRule2\":\"Клікайте по мішенях (або використовуйте WASD + Пробіл, якщо ввімкнено хостом), щоб їх влучити. У режимі WASD утримуйте Shift для швидшого руху прицілу.\",\"SharpShooterRule3\":\"Промах активує час перезарядки. Забагато промахів — ви вибуваєте з гри.\",\"SharpShooterRule4\":\"Перший, хто поразить усі мішені, відразу перемагає. Якщо час закінчився, переможець визначається за: більше мішеней > менше промахів > вища точність.\",\"SharpShooterRule5\":\"Точність розраховується за відстанню від попадання до центру мішені. Чим ближче до центру, тим краще!\",\"SharpShooterTarget\":\"Мішень\",\"SharpShooterTime\":\"Час\",\"SharpShooterPlayer\":\"Гравець\",\"SharpShooterTargets\":\"Мішені\",\"SharpShooterShots\":\"Постріли\",\"SharpShooterMisses\":\"Промахи\",\"SharpShooterAccuracy\":\"Точність\",\"SharpShooterStatus\":\"Статус\",\"SharpShooterEliminated\":\"Вибув\",\"SharpShooterCooldown\":\"Перезарядка\",\"SharpShooterReady\":\"Готовий\",\"SharpShooterWaiting\":\"Очікування початку гри...\",\"SharpShooterFinished\":\"Гра завершена\",\"SharpShooterOnlyHostSettings\":\"Лише хост може змінювати налаштування.\",\"SharpShooterSettingsWaitingOnly\":\"Налаштування можна змінювати лише в режимі очікування.\",\"SharpShooterControlMode\":\"Спосіб керування\",\"SharpShooterControlMouse\":\"Клік мишею\",\"SharpShooterControlKeyboard\":\"Клавіатура (WASD + Пробіл)\",\"SharpShooterMaxMisses\":\"Макс. промахів\",\"SharpShooterCountdownTitle\":\"Приготуйтеся\",\"SharpShooterWaitingStart\":\"Очікування початку\",\"NavalBattleRule1\":\"Перед боєм у кожного гравця є 15 секунд, щоб обрати один із трьох кораблів і підтвердити вибір.\",\"NavalBattleRule2\":\"Малий корабель швидкий, але крихкий; середній збалансований; великий витривалий, але повільний.\",\"NavalBattleRule3\":\"Керування: W/S рух вперед-назад, A/D поворот корпусу.\",\"NavalBattleRule4\":\"Затисніть Q, E або SPACE, щоб побачити зону ураження, відпустіть клавішу для пострілу.\",\"NavalBattleRule5\":\"Кожен тип пострілу має окрему перезарядку 5 секунд.\",\"NavalBattleRule6\":\"Після спавну та респавну корабель тимчасово невразливий, не стріляє і блимає.\",\"NavalBattleRule7\":\"Якщо хост увімкнув модифікатори, на мапі з\\'являються коробки-бонуси, які зникають через 20 секунд.\",\"NavalBattleRule8\":\"Гравець має обмежену кількість життів. Коли життя закінчуються, гравець вибуває. Перемагає останній живий.\",\"NavalBattleSelectTitle\":\"Оберіть корабель\",\"NavalBattleSelectTimer\":\"Бій почнеться через %1%с\",\"NavalBattleStatHp\":\"HP\",\"NavalBattleStatDamage\":\"Шкода\",\"NavalBattleStatSpeed\":\"Швидкість\",\"NavalBattleConfirmShip\":\"Підтвердити корабель\",\"NavalBattleShipConfirmed\":\"Корабель підтверджено\",\"NavalBattleLives\":\"Життя: %1%\",\"NavalBattleAlivePlayers\":\"У строю: %1%\",\"NavalBattleKills\":\"Потоплено: %1%\",\"NavalBattleHp\":\"HP\",\"NavalBattleShield\":\"Щит\",\"NavalBattleInvulnerable\":\"Невразливість: %1%с\",\"NavalBattleControlsHint\":\"W/S рух, A/D поворот, Q/E/SPACE вогонь\",\"NavalBattleBuffStealth\":\"Стелс активний\",\"NavalBattleBuffDamage\":\"x2 шкода активна\",\"NavalBattleBuffSpeed\":\"x2 швидкість активна\",\"NavalBattleLivesSetting\":\"Життів на гравця\",\"NavalBattleModifiersSetting\":\"Спавн модифікаторів\",\"NavalBattleModifiersEnabled\":\"Модифікатори увімкнені\",\"NavalBattleModifiersDisabled\":\"Модифікатори вимкнені\",\"NavalBattleShipSmall\":\"Малий\",\"NavalBattleShipMedium\":\"Середній\",\"NavalBattleShipLarge\":\"Великий\",\"NavalBattleWaitingPlayers\":\"Очікування початку гри...\",\"NavalBattleYou\":\"ви\",\"TypeCompetitionRule1\":\"На старті генерується спільний текст із 500 слів, однаковий для всіх гравців.\",\"TypeCompetitionRule2\":\"Одразу запускається 5-секундний відлік: текст вже видно, можна переглянути перші слова.\",\"TypeCompetitionRule3\":\"Друкуйте слова посимвольно, без натискання Enter або пробілу.\",\"TypeCompetitionWordsStartHint\":\"Слова з\\'являться тут, коли гра почнеться.\",\"TypeCompetitionRule4\":\"Кожне правильно введене слово додає +1 до лічильника надрукованих слів.\",\"TypeCompetitionRule5\":\"Помилка накладає блокування введення на кілька секунд.\",\"TypeCompetitionRule6\":\"Коли кількість помилок досягає ліміту, гравець вибуває з поточного матчу.\",\"TypeCompetitionRule7\":\"Після завершення всього тексту друк продовжується з початку по колу без втрати очок.\",\"TypeCompetitionRule8\":\"Перемога: останній живий гравець, або після таймера — живий гравець з найбільшою кількістю слів.\",\"TypeCompetitionLanguage\":\"Мова\",\"TypeCompetitionMaxErrors\":\"Максимум помилок\",\"TypeCompetitionRoundSeconds\":\"Тривалість раунду (сек)\",\"TypeCompetitionBlockSeconds\":\"Блокування за помилку (сек)\",\"TypeCompetitionTimer\":\"Таймер\",\"TypeCompetitionCurrentLine\":\"Поточний рядок\",\"TypeCompetitionNextLine\":\"Наступний рядок\",\"TypeCompetitionInputPlaceholder\":\"Просто друкуйте слово без пробілів і Enter. Великі літери не обов\\'язкові.\",\"TypeCompetitionSendWord\":\"Надіслати\",\"TypeCompetitionInputBlocked\":\"Введення заблоковано на %1% сек.\",\"TypeCompetitionWrongLayout\":\"Неправильна розкладка клавіатури. Перемкніться на %1%.\",\"TypeCompetitionWordsTyped\":\"Слів надруковано\",\"TypeCompetitionErrors\":\"Помилки\",\"TypeCompetitionAlive\":\"У грі\",\"TypeCompetitionEliminated\":\"Вибув\",\"TypeCompetitionCountdown\":\"Старт через %1%...\",\"gameKickPlayer\":\"Ви впевнені, що хочете кикнути цього гравця?\",\"transferHost\":\"Ви впевнені, що хочете передати хост-права цьому гравцю?\",\"lobbyPasswordEnter\":\"Введіть пароль\",\"lobbyPasswordChange\":\"Змінити пароль\",\"lobbyPasswordRemove\":\"Ви впевнені, що хочете видалити пароль?\",\"lobbyPassword\":\"Пароль\",\"lobbyAddBot\":\"🤖 Додати бота\",\"lobbyStage\":\"Статус лоббі\",\"lobbyPlayers\":\"Гравці в лоббі\",\"lobbyPlayersMin\":\"Потрібно ще %1% гравців\",\"lobbyGamePaused\":\"Гра призупинена\",\"lobbyStartGame\":\"🕹️ Почати гру\",\"lobbyEndGame\":\"Завершити гру\",\"lobbyShareGame\":\"Поділитися\",\"lobbyShareGameSuccess\":\"Посилання на гру скопійовано в буфер обміну\",\"lobbyShareGameTooltip\":\"Натисніть, аби скопіювати посилання на кімнату та поділитися ним з іншими\",\"lobbyPauseGame\":\"Приостановити гру\",\"lobbyResumeGame\":\"Продовжити гру\",\"lobbyHideChat\":\"Сховати чат\",\"lobbyShowChat\":\"Показати чат\",\"lobbyGameRulesButton\":\"Правила гри\",\"lobbyGameRulesTitle\":\"Правила гри\",\"lobbyShowChatUread\":\"Показати чат (%1% нових повідомлень)\",\"lobbySendChatMessage\":\"Відправити\",\"lobbyHidePlayersList\":\"Сховати список гравців\",\"lobbyShowPlayersList\":\"Показати список гравців\",\"lobbyTransferHost\":\"Передати хост-права\",\"lobbyKickPlayer\":\"Кикнути гравця\",\"lobbyChatMessage\":\"Повідомлення\",\"lobbyPasswordChangeButton\":\"Змінити пароль\",\"lobbyPasswordRemoveButton\":\"Видалити пароль\",\"lobbyPasswordShowButton\":\"Показати/Сховати пароль\",\"lobbyCantStartNoPlayers\":\"Недостатньо гравців для початку гри\",\"lobbyCantStartRatedWithBots\":\"Не можна почати рейтингову гру з ботами\",\"lobbyRatedGame\":\"Включити рейтинг\",\"lobbyRatedGameWarning\":\"Гру з рейтингом неможливо призупинити або зупинити вручну\",\"Leaderboard\":\"Рейтинг\",\"ProfilePlayersName\":\"Гравець\",\"LiarsBarMaxCardsInHands\":\"Максимальна кількість карт в руці\",\"LiarsBarMaxCardsCanThrow\":\"Кількість карт, які можна викласти на стіл\",\"LiarsBarAFKNoTurnTitle\":\"AFK гравець (не зробив хід)\",\"LiarsBarAFKNoTurnKill\":\"Вбити одразу\",\"LiarsBarAFKNoTurnShot\":\"+1 патрон і постріл\",\"LiarsBarCallLiar\":\"По моєму %1% брехло\",\"LiarsBarCallLiarYes\":\"Відмінно, %1% набрехав\",\"LiarsBarCallLiarNo\":\"Невірно, %1% не брехав\",\"ServerReload\":\"Сервер був оновлений. Сторінка була автоматично перезавантажена.\",\"lobbyPasswordCopyButton\":\"Скопіювати пароль\",\"lobbyPasswordCopyButtonSuccess\":\"Пароль скопійовано в буфер обміну\",\"statusLobby.waiting\":\"Очікування початку\",\"statusLobby.ingame\":\"В ігрі\",\"voice.liarsbar.callliar\":\"Брехун!!!\",\"voice.liarsbar.callliar.yes\":\"Комусь сьогодні не пощастило)\",\"voice.liarsbar.callliar.no\":\"Яка несподіванка)\",\"SoundsVolume\":\"Гучність звуків\",\"SoundsVolumeSound\":\"Гучність звуків\",\"SoundsVolumeVoice\":\"Гучність голосу\",\"voice.example\":\"Приклад голосу\",\"BackgroundMusicVolume\":\"Гучність музики\",\"GlobalVolume\":\"Глобальна гучність\",\"lobbyId\":\"ID лоббі\",\"lobbyName\":\"Назва лоббі\",\"lobbyNameCopyButton\":\"Скопіювати назву лоббі\",\"lobbyNameCopyButtonSuccess\":\"Назва лоббі скопійована в буфер обміну\",\"lobbyIdCopyButton\":\"Скопіювати ID лоббі\",\"lobbyIdCopyButtonSuccess\":\"ID лоббі скопійовано в буфер обміну\",\"LiarsBarTrowxCards\":\"Викласти x%1% картки\",\"LiarsBarTrowxCard\":\"Викласти x%1% картку\",\"LiarsBarCallLiarButton\":\"Назвати брехуном\",\"LiarsBarCallPlayerTurn\":\"Хід гравця: %1%\",\"LiarsBarRule1\":\"Мета гри: залишитися останнім живим гравцем.\",\"LiarsBarRule2\":\"На початку раунду всі живі гравці отримують карти, а на стіл задається ранговa карта раунду.\",\"LiarsBarRule3\":\"У свій хід можна викласти від 1 до ліміту карт. Карти кладуться сорочкою догори.\",\"LiarsBarRule4\":\"Викладати можна будь-які карти, але безпечно лише збіг із ранговою картою або джокер.\",\"LiarsBarRule5\":\"Наступний гравець обирає: викласти свої карти або натиснути \\\\\"Назвати брехуном\\\\\" проти попереднього ходу.\",\"LiarsBarRule6\":\"Якщо виклик брехні правильний, покарання отримує попередній гравець. Якщо ні — той, хто викликав.\",\"LiarsBarRule7\":\"Покарання — постріл у російській рулетці: з кожним покаранням шанс вибути зростає.\",\"LiarsBarRule8\":\"Хід обмежений таймером. Якщо час вийшов, застосовується AFK-покарання з налаштувань лобі.\",\"UnoReportUno\":\"Поскаржитись на UNO!\",\"UnoSayUno\":\"Сказати UNO!\",\"UnoTakeCards\":\"Взяти карти\",\"PlayerOffline\":\"ОФЛАЙН\",\"UnoHostSkipTurn\":\"Пропустити хід\",\"UnoHostExcludeFromGame\":\"Виключити з гри\",\"UnoHostExcludeFromGameConfirm\":\"Ви впевнені, що хочете виключити цього гравця з поточної гри?\",\"UnoHostBotControl\":\"Керування ботом\",\"UnoActionSayUno\":\"%1% сказав UNO!\",\"UnoActionReportUno\":\"%1% натиснув Report UNO!\",\"UnoMegaphoneBlock\":\"Кнопка заблокована ще %1% хід(ів)\",\"UnoReportSuccess\":\"%1% зловив за UNO! Скарга вірна!\",\"UnoReportFail\":\"%1% помилився! Хибна скарга\",\"UnoRule1\":\"Кожному гравцю роздається 7 карт. Перша карта кладеться на стіл — вона задає колір та значення.\",\"UnoRule2\":\"У свій хід кидайте карту, що збігається за кольором або значенням з верхньою картою столу. Якщо ходу немає — беріть карту з колоди.\",\"UnoRule3\":\"🔄 Reverse — змінює напрямок ходу.\",\"UnoRule4\":\"🚫 Skip — наступний гравець пропускає хід.\",\"UnoRule5\":\"+2 — наступний гравець бере 2 карти і пропускає хід.\",\"UnoRule6\":\"🌈 WILD — оберіть будь-який колір.\",\"UnoRule7\":\"+4 WILD — оберіть колір, наступний гравець бере 4 карти.\",\"UnoRule8\":\"Коли залишається 2 карти — натисніть \\\\\"Сказати UNO\\\\\" перед кидком. Інакше вас можна заскаржити — отримаєте +2 карти.\",\"UnoRule9\":\"🔔 Кнопка \\\\\"Поскаржитись на UNO\\\\\" дозволяє впіймати гравця з 1 картою, якщо він не сказав UNO. Успіх — він бере +2. Помилка — ви берете карти і кнопка блокується на кілька ходів.\",\"UnoRule10\":\"Перший, хто позбавиться всіх карт, перемагає!\",\"lobbyMyLobbies\":\"Мої лоббі\",\"lobbyPublicLobbies\":\"Публічні лоббі\",\"lobbyNoLobbiesFound\":\"Лоббі не знайдені\",\"lobbyJoinButton\":\"Увійти\",\"lobbyReturnButton\":\"Повернутися\",\"lobbyCreateLobby\":\"Створити лоббі\",\"lobbyCreateLobbyName\":\"Назва лоббі\",\"lobbyRemoveAllBot\":\"Видалити всіх ботів\",\"lobbyRemoveBot\":\"Видалити бота\",\"errorConnectionDublicate\":\"Ви можете використовувати тільки один екземпляр сайту одночасно. Функціонал даної сторінки був обмежений через відкриття іншої вкладки сайту.\",\"ComingSoon\":\"Щойно з\\'явиться\",\"OnlinePlayers\":\"Гравці онлайн: %1%\",\"PlayersPageNav\":\"Усі гравці\",\"PlayersPageTitle\":\"Зареєстровані гравці\",\"PlayersPageSearch\":\"Пошук за ніком, логіном або ID\",\"PlayersPageTotal\":\"Знайдено: %1%\",\"OnlinePlayersList\":\"Список гравців онлайн\",\"OnlinePlayersListLastSeen\":\"😴 Останній візит: %1%\",\"NowOnline\":\"✅ На сайті\",\"ServerReloadRequired\":\"Нова версія сайту отримана. Як тільки гра буде завершена, сторінка буде перезавантажена для застосування нових змін.\",\"CardUserInfo\":\"Інформація про користувача: %1%\",\"ProfileIncomingRequests\":\"Вхідні заявки\",\"ProfileOutgoingRequests\":\"Вихідні заявки\",\"ProfileAccept\":\"Прийняти\",\"ProfileDecline\":\"Відхилити\",\"ProfileCancel\":\"Скасувати заявку\",\"ProfileFriends\":\"Друзі\",\"ProfileGames\":\"Зіграно ігор\",\"ProfilePlayedSeconds\":\"Зіграно часу\",\"ProfilePlayedGames\":\"Зіграно ігор\",\"ProfileNoData\":\"Немає даних\",\"ProfileRemoveFriend\":\"Видалити з друзів\",\"ProfileAddFriend\":\"Додати в друзі\",\"ProfileCancelRequest\":\"Скасувати заявку\",\"ProfileGame\":\"Гра\",\"ProfileWins\":\"Перемог\",\"ProfileLoses\":\"Поразок\",\"ProfileRating\":\"Рейтинг\",\"gameWinner\":\"Переможець\",\"socketErrorConnection\":\"Виникла помилка під час підключення до WebSocket сервера. Мультиплеєрний режим недоступний\",\"ProfileMessage\":\"Написати повідомлення\",\"MessagesTitle\":\"Повідомлення\",\"MessagesNoChats\":\"Немає переписок\",\"MessagesSelectChat\":\"Оберіть діалог\",\"MessagesInputPlaceholder\":\"Написати повідомлення...\",\"MessagesSend\":\"Надіслати\",\"lobbyInviteFriend\":\"Запросити\",\"lobbyInviteFriendTooltip\":\"Запросити друга в гру через ЛС\",\"lobbyInviteFriendTitle\":\"Запросити друга\",\"lobbyInviteMessage\":\"Запрошую тебе в лоббі «%1%»!\",\"lobbyInviteJoinLink\":\"Приєднатись\",\"lobbyInviteSent\":\"Запрошення надіслано!\",\"SpacePowerRule1\":\"Хост може вибрати режим розподілу команд (Авто або Ручний) і налаштувати тривалість гри (10-300 секунд).\",\"SpacePowerRule2\":\"У режимі Авто гравці автоматично розподіляються на збалансовані команди. У режимі Ручний хост розподіляє гравців і може дозволити самоперехід між командами.\",\"SpacePowerRule3\":\"Для SPACE зараховуються лише окремі натискання. Утримання клавіші не дає додаткових кліків.\",\"SpacePowerRule4\":\"Щосекунди система рахує CPS (клікі на секунду) кожної команди. Команда з більшою кількістю кліків тягне канат до свого прапорця.\",\"SpacePowerRule5\":\"Перемагає команда, яка першою потягне канат до свого прапорця, або коли час спливає, перемагає команда, найближча до своєї цілі!\",\"SpacePowerRule6\":\"Перед стартом матчу показується помітний зворотний відлік. Кожен гравець до початку може вибрати режим: SPACE або кліки мишкою.\",\"SpacePowerTeamAssignment\":\"Розподіл по командах\",\"SpacePowerAutoMode\":\"Авто (баланс)\",\"SpacePowerManualMode\":\"Ручний режим\",\"SpacePowerTeamA\":\"Команда A\",\"SpacePowerTeamB\":\"Команда B\",\"SpacePowerMoveToA\":\"В A\",\"SpacePowerMoveToB\":\"В B\",\"SpacePowerGameSettings\":\"Налаштування гри\",\"SpacePowerGameDuration\":\"Тривалість гри (сек)\",\"SpacePowerTimer\":\"Час\",\"SpacePowerPaused\":\"ПАУЗА\",\"SpacePowerCurrentCPS\":\"CPS\",\"SpacePowerTotalClicks\":\"Усього кліків\",\"SpacePowerContribution\":\"Внесок\",\"SpacePowerPressSpace\":\"Натискайте SPACE, щоб клікати\",\"SpacePowerPressMouse\":\"Клікайте мишкою по цьому блоку\",\"SpacePowerInputModeLabel\":\"Режим вводу\",\"SpacePowerInputModeSpace\":\"SPACE\",\"SpacePowerInputModeMouse\":\"МИШКА\",\"SpacePowerInputModeSpaceShort\":\"SPACE\",\"SpacePowerInputModeMouseShort\":\"Мишка\",\"SpacePowerAllowSelfMove\":\"Дозволити гравцям переміщати себе\",\"SpacePowerShuffleTeams\":\"Перемішати гравців\",\"SpacePowerPrepareFight\":\"Готуйтеся до бою\",\"SpacePowerPreStartHint\":\"Після старту швидко натискайте SPACE і слідкуйте за внеском кожного гравця у статистиці команди.\",\"SpacePowerPreStartHintMouse\":\"Після старту клікайте мишкою по блоку кліків і слідкуйте за внеском кожного гравця у статистиці команди.\",\"SpacePowerKeyboardWarning\":\"Увага: надто інтенсивні натискання можуть негативно вплинути на ресурс клавіатури.\",\"SpacePowerMouseWarning\":\"Режим мишки активний: клікайте по блоку, навантаження на клавіатуру відсутнє.\",\"TenSecondsRule1\":\"Мета гри: залишитися останнім живим гравцем.\",\"TenSecondsRule2\":\"Кожен раунд починається з 5 секунд підготовки. За цей час треба затиснути SPACE і тримати його до сигналу старту.\",\"TenSecondsRule3\":\"Після підготовки з\\'являються два таймери: фіксована ціль і ваш зростаючий таймер від 00:00:000.\",\"TenSecondsRule4\":\"Відпустіть SPACE якомога ближче до цільового часу, але не переходьте його.\",\"TenSecondsRule5\":\"Якщо один або кілька гравців перевищили ціль, кожен із них отримує покарання російською рулеткою.\",\"TenSecondsRule6\":\"Якщо ніхто не перевищив ціль, карається гравець, який опинився найдалі від неї. Якщо всі живі гравці показали однаковий коректний час, раунд пропускається.\",\"TenSecondsRule7\":\"Російська рулетка працює як у Liars Bar: після кожного покарання додається новий патрон, і наступний постріл стає небезпечнішим.\",\"TenSecondsRule8\":\"Точне попадання в ціль дає право обрати, хто отримає покарання замість автоматичного вибору. У дуелі 1 на 1 покарання одразу отримує другий гравець.\",\"TenSecondsRule9\":\"На вибір дається обмежений час, а обрати можна лише налаштовану кількість живих суперників, але не всіх одразу, якщо суперників більше одного.\",\"TenSecondsRule10\":\"Якщо гравець із точним попаданням не підтвердив вибір вчасно, покарання отримує він сам.\",\"TenSecondsPhase\":\"Фаза\",\"TenSecondsRound\":\"Раунд\",\"TenSecondsBullets\":\"Патрони\",\"TenSecondsTargetTimer\":\"Цільовий таймер\",\"TenSecondsCurrentTimer\":\"Ваш таймер\",\"TenSecondsPrepareLabel\":\"Підготовка\",\"TenSecondsTimingLabel\":\"Момент відпускання\",\"TenSecondsResultsLabel\":\"Результат раунду\",\"TenSecondsChooserLabel\":\"Вибір цілі\",\"TenSecondsPrepareHint\":\"Затисніть SPACE зараз і не відпускайте\",\"TenSecondsPrepareCountdown\":\"Старт через %1% сек.\",\"TenSecondsReleaseHint\":\"Відпустіть SPACE якомога ближче до цілі\",\"TenSecondsMissedHoldHint\":\"SPACE треба було затиснути під час підготовки. Пізній старт рахується як помилка.\",\"TenSecondsAlreadyEliminated\":\"Ви вже вибули.\",\"TenSecondsChooserSelf\":\"Точне попадання. Оберіть %1% ціль(ей).\",\"TenSecondsChooserOther\":\"%1% влучив точно в ціль і обирає, хто буде стрілятися.\",\"TenSecondsChooserTimer\":\"Часу на вибір залишилося: %1% сек.\",\"TenSecondsConfirmTargets\":\"Підтвердити цілі\",\"TenSecondsPlayerWaiting\":\"Очікування\",\"TenSecondsPlayerReady\":\"Готовий\",\"TenSecondsPlayerWaitingHold\":\"Не тримає SPACE\",\"TenSecondsPlayerHolding\":\"Тримає\",\"TenSecondsPlayerReleased\":\"Відпустив\",\"TenSecondsPenaltyMarked\":\"Штраф: SPACE не було затиснуто вчасно\",\"TenSecondsPlayerEliminated\":\"Вибув\",\"TenSecondsChooserActive\":\"Обирає цілі\",\"TenSecondsChooserWaiting\":\"Очікування вибору\",\"TenSecondsResultExact\":\"Точно в ціль\",\"TenSecondsResultMissedHold\":\"SPACE не було затиснуто під час підготовки\",\"TenSecondsResultExceeded\":\"Перевищив ліміт\",\"TenSecondsResultSafe\":\"Без штрафу\",\"TenSecondsTargetSeconds\":\"Цільовий час (сек)\",\"TenSecondsChooserSeconds\":\"Час на вибір (сек)\",\"TenSecondsChooserTargets\":\"Кількість цілей\"}');\n\n//# sourceURL=webpack:///./src/frontend/langs/uk.json?");
+
+/***/ })
+
+/******/ 	});
+/************************************************************************/
+/******/ 	// The module cache
+/******/ 	var __webpack_module_cache__ = {};
+/******/ 	
+/******/ 	// The require function
+/******/ 	function __webpack_require__(moduleId) {
+/******/ 		// Check if module is in cache
+/******/ 		var cachedModule = __webpack_module_cache__[moduleId];
+/******/ 		if (cachedModule !== undefined) {
+/******/ 			return cachedModule.exports;
+/******/ 		}
+/******/ 		// Create a new module (and put it into the cache)
+/******/ 		var module = __webpack_module_cache__[moduleId] = {
+/******/ 			id: moduleId,
+/******/ 			loaded: false,
+/******/ 			exports: {}
+/******/ 		};
+/******/ 	
+/******/ 		// Execute the module function
+/******/ 		__webpack_modules__[moduleId](module, module.exports, __webpack_require__);
+/******/ 	
+/******/ 		// Flag the module as loaded
+/******/ 		module.loaded = true;
+/******/ 	
+/******/ 		// Return the exports of the module
+/******/ 		return module.exports;
+/******/ 	}
+/******/ 	
+/******/ 	// expose the modules object (__webpack_modules__)
+/******/ 	__webpack_require__.m = __webpack_modules__;
+/******/ 	
+/************************************************************************/
+/******/ 	/* webpack/runtime/chunk loaded */
+/******/ 	(() => {
+/******/ 		var deferred = [];
+/******/ 		__webpack_require__.O = (result, chunkIds, fn, priority) => {
+/******/ 			if(chunkIds) {
+/******/ 				priority = priority || 0;
+/******/ 				for(var i = deferred.length; i > 0 && deferred[i - 1][2] > priority; i--) deferred[i] = deferred[i - 1];
+/******/ 				deferred[i] = [chunkIds, fn, priority];
+/******/ 				return;
+/******/ 			}
+/******/ 			var notFulfilled = Infinity;
+/******/ 			for (var i = 0; i < deferred.length; i++) {
+/******/ 				var [chunkIds, fn, priority] = deferred[i];
+/******/ 				var fulfilled = true;
+/******/ 				for (var j = 0; j < chunkIds.length; j++) {
+/******/ 					if ((priority & 1 === 0 || notFulfilled >= priority) && Object.keys(__webpack_require__.O).every((key) => (__webpack_require__.O[key](chunkIds[j])))) {
+/******/ 						chunkIds.splice(j--, 1);
+/******/ 					} else {
+/******/ 						fulfilled = false;
+/******/ 						if(priority < notFulfilled) notFulfilled = priority;
+/******/ 					}
+/******/ 				}
+/******/ 				if(fulfilled) {
+/******/ 					deferred.splice(i--, 1)
+/******/ 					var r = fn();
+/******/ 					if (r !== undefined) result = r;
+/******/ 				}
+/******/ 			}
+/******/ 			return result;
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/compat get default export */
+/******/ 	(() => {
+/******/ 		// getDefaultExport function for compatibility with non-harmony modules
+/******/ 		__webpack_require__.n = (module) => {
+/******/ 			var getter = module && module.__esModule ?
+/******/ 				() => (module['default']) :
+/******/ 				() => (module);
+/******/ 			__webpack_require__.d(getter, { a: getter });
+/******/ 			return getter;
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/create fake namespace object */
+/******/ 	(() => {
+/******/ 		var getProto = Object.getPrototypeOf ? (obj) => (Object.getPrototypeOf(obj)) : (obj) => (obj.__proto__);
+/******/ 		var leafPrototypes;
+/******/ 		// create a fake namespace object
+/******/ 		// mode & 1: value is a module id, require it
+/******/ 		// mode & 2: merge all properties of value into the ns
+/******/ 		// mode & 4: return value when already ns object
+/******/ 		// mode & 16: return value when it's Promise-like
+/******/ 		// mode & 8|1: behave like require
+/******/ 		__webpack_require__.t = function(value, mode) {
+/******/ 			if(mode & 1) value = this(value);
+/******/ 			if(mode & 8) return value;
+/******/ 			if(typeof value === 'object' && value) {
+/******/ 				if((mode & 4) && value.__esModule) return value;
+/******/ 				if((mode & 16) && typeof value.then === 'function') return value;
+/******/ 			}
+/******/ 			var ns = Object.create(null);
+/******/ 			__webpack_require__.r(ns);
+/******/ 			var def = {};
+/******/ 			leafPrototypes = leafPrototypes || [null, getProto({}), getProto([]), getProto(getProto)];
+/******/ 			for(var current = mode & 2 && value; typeof current == 'object' && !~leafPrototypes.indexOf(current); current = getProto(current)) {
+/******/ 				Object.getOwnPropertyNames(current).forEach((key) => (def[key] = () => (value[key])));
+/******/ 			}
+/******/ 			def['default'] = () => (value);
+/******/ 			__webpack_require__.d(ns, def);
+/******/ 			return ns;
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/define property getters */
+/******/ 	(() => {
+/******/ 		// define getter functions for harmony exports
+/******/ 		__webpack_require__.d = (exports, definition) => {
+/******/ 			for(var key in definition) {
+/******/ 				if(__webpack_require__.o(definition, key) && !__webpack_require__.o(exports, key)) {
+/******/ 					Object.defineProperty(exports, key, { enumerable: true, get: definition[key] });
+/******/ 				}
+/******/ 			}
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/ensure chunk */
+/******/ 	(() => {
+/******/ 		__webpack_require__.f = {};
+/******/ 		// This file contains only the entry chunk.
+/******/ 		// The chunk loading function for additional chunks
+/******/ 		__webpack_require__.e = (chunkId) => {
+/******/ 			return Promise.all(Object.keys(__webpack_require__.f).reduce((promises, key) => {
+/******/ 				__webpack_require__.f[key](chunkId, promises);
+/******/ 				return promises;
+/******/ 			}, []));
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/get javascript chunk filename */
+/******/ 	(() => {
+/******/ 		// This function allow to reference async chunks
+/******/ 		__webpack_require__.u = (chunkId) => {
+/******/ 			// return url for filenames based on template
+/******/ 			return "chunks/" + chunkId + "." + {"vendors-node_modules_rsuite_icons_esm_icons_EyeClose_js-node_modules_rsuite_icons_esm_icons_V-f94952":"236a4e2b61834c6f1946","src_frontend_pages_components_gameClass_tsx-src_shared_config_games_default_ts":"e8b1159d50a4baeb04ed","src_frontend_pages_games_Labyrinth_tsx":"451698a71b40e6573215","src_shared_words_en_json-src_shared_words_ru_json-src_shared_words_uk_json":"2dd10916c3440f8d6c2e","src_frontend_pages_games_Words_tsx":"ead438889574f0bae46e","src_frontend_pages_games_Section_tsx":"40a86937769c37e3ffbd","src_frontend_pages_games_Destroy_tsx":"e63832afbcd983e72bad","src_frontend_pages_games_Decrypt_tsx":"b7ecd115eeaa9318bc3d","src_frontend_pages_games_Search_tsx":"4cf220e00bcc8a5c4d66","src_frontend_pages_games_Vectors_tsx":"64f6536fdb716a5492b5","vendors-node_modules_rsuite_esm_internals_Picker_Listbox_js-node_modules_rsuite_esm_internals-c62735":"4f3e5217b1c0492c9553","vendors-node_modules_rsuite_esm_SelectPicker_index_js":"b170fb3b08ab42267bfd","src_frontend_pages_games_Word_tsx":"a20819d0b6edfc7b127b","src_frontend_pages_games_Treasures_tsx":"aa399b62ba9481637e50","src_frontend_pages_games_Morze_tsx":"0c330158304fabf92431","vendors-node_modules_rsuite_esm_CheckPicker_index_js-node_modules_rsuite_esm_Col_index_js-nod-a35a9f":"e04a8cfb2b7b16bf11ae","src_frontend_pages_games_GameGuessr_tsx":"968f255313afb5e7b536","src_frontend_pages_games_Test_tsx":"0bac7845bdd2b5a9167f","src_frontend_pages_games_ChooseDoor_tsx":"79309093b6aee57e70b1","vendors-node_modules_rsuite_icons_esm_icons_CloseOutline_js-node_modules_rsuite_icons_esm_ico-e973b9":"0c0242cc6beda42e4dea","src_frontend_pages_games_multiplayer_Controller_tsx":"d96ac7d7130589a9f08f","src_frontend_pages_games_multiplayer_LiarsBar_tsx":"fd2c185e51fc9c60ab52","vendors-node_modules_three_build_three_module_js":"264b2d74ea4655ccd8d3","vendors-node_modules_three_examples_jsm_loaders_GLTFLoader_js":"f5338a90d49e24cc15c5","src_frontend_pages_games_multiplayer_Uno_tsx":"d94061264e063e3d7821","src_frontend_pages_games_multiplayer_TypeCompetition_tsx":"c70f852d32dc17a256d5","src_frontend_pages_games_multiplayer_SpacePower_tsx":"fab405131d77290fa46f","src_frontend_pages_games_multiplayer_TenSeconds_tsx":"c42a8c8ada2836443284","src_frontend_pages_games_multiplayer_NavalBattle_tsx":"7c4cab775097c1d8a8f9","src_frontend_pages_games_multiplayer_Sharpshooter_tsx":"be45fddebbce3a15a25b","src_frontend_pages_games_multiplayer_Golf_tsx":"5cbdeea8705ca3ccabb8"}[chunkId] + ".js";
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/get mini-css chunk filename */
+/******/ 	(() => {
+/******/ 		// This function allow to reference async chunks
+/******/ 		__webpack_require__.miniCssF = (chunkId) => {
+/******/ 			// return url for filenames based on template
+/******/ 			return "" + chunkId + ".css";
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/global */
+/******/ 	(() => {
+/******/ 		__webpack_require__.g = (function() {
+/******/ 			if (typeof globalThis === 'object') return globalThis;
+/******/ 			try {
+/******/ 				return this || new Function('return this')();
+/******/ 			} catch (e) {
+/******/ 				if (typeof window === 'object') return window;
+/******/ 			}
+/******/ 		})();
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/hasOwnProperty shorthand */
+/******/ 	(() => {
+/******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/load script */
+/******/ 	(() => {
+/******/ 		var inProgress = {};
+/******/ 		// data-webpack is not used as build has no uniqueName
+/******/ 		// loadScript function to load a script via script tag
+/******/ 		__webpack_require__.l = (url, done, key, chunkId) => {
+/******/ 			if(inProgress[url]) { inProgress[url].push(done); return; }
+/******/ 			var script, needAttach;
+/******/ 			if(key !== undefined) {
+/******/ 				var scripts = document.getElementsByTagName("script");
+/******/ 				for(var i = 0; i < scripts.length; i++) {
+/******/ 					var s = scripts[i];
+/******/ 					if(s.getAttribute("src") == url) { script = s; break; }
+/******/ 				}
+/******/ 			}
+/******/ 			if(!script) {
+/******/ 				needAttach = true;
+/******/ 				script = document.createElement('script');
+/******/ 		
+/******/ 				script.charset = 'utf-8';
+/******/ 				script.timeout = 120;
+/******/ 				if (__webpack_require__.nc) {
+/******/ 					script.setAttribute("nonce", __webpack_require__.nc);
+/******/ 				}
+/******/ 		
+/******/ 		
+/******/ 				script.src = url;
+/******/ 			}
+/******/ 			inProgress[url] = [done];
+/******/ 			var onScriptComplete = (prev, event) => {
+/******/ 				// avoid mem leaks in IE.
+/******/ 				script.onerror = script.onload = null;
+/******/ 				clearTimeout(timeout);
+/******/ 				var doneFns = inProgress[url];
+/******/ 				delete inProgress[url];
+/******/ 				script.parentNode && script.parentNode.removeChild(script);
+/******/ 				doneFns && doneFns.forEach((fn) => (fn(event)));
+/******/ 				if(prev) return prev(event);
+/******/ 			}
+/******/ 			var timeout = setTimeout(onScriptComplete.bind(null, undefined, { type: 'timeout', target: script }), 120000);
+/******/ 			script.onerror = onScriptComplete.bind(null, script.onerror);
+/******/ 			script.onload = onScriptComplete.bind(null, script.onload);
+/******/ 			needAttach && document.head.appendChild(script);
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/make namespace object */
+/******/ 	(() => {
+/******/ 		// define __esModule on exports
+/******/ 		__webpack_require__.r = (exports) => {
+/******/ 			if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
+/******/ 				Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
+/******/ 			}
+/******/ 			Object.defineProperty(exports, '__esModule', { value: true });
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/node module decorator */
+/******/ 	(() => {
+/******/ 		__webpack_require__.nmd = (module) => {
+/******/ 			module.paths = [];
+/******/ 			if (!module.children) module.children = [];
+/******/ 			return module;
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/publicPath */
+/******/ 	(() => {
+/******/ 		__webpack_require__.p = "/";
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/css loading */
+/******/ 	(() => {
+/******/ 		if (typeof document === "undefined") return;
+/******/ 		var createStylesheet = (chunkId, fullhref, oldTag, resolve, reject) => {
+/******/ 			var linkTag = document.createElement("link");
+/******/ 		
+/******/ 			linkTag.rel = "stylesheet";
+/******/ 			linkTag.type = "text/css";
+/******/ 			if (__webpack_require__.nc) {
+/******/ 				linkTag.nonce = __webpack_require__.nc;
+/******/ 			}
+/******/ 			var onLinkComplete = (event) => {
+/******/ 				// avoid mem leaks.
+/******/ 				linkTag.onerror = linkTag.onload = null;
+/******/ 				if (event.type === 'load') {
+/******/ 					resolve();
+/******/ 				} else {
+/******/ 					var errorType = event && event.type;
+/******/ 					var realHref = event && event.target && event.target.href || fullhref;
+/******/ 					var err = new Error("Loading CSS chunk " + chunkId + " failed.\n(" + errorType + ": " + realHref + ")");
+/******/ 					err.name = "ChunkLoadError";
+/******/ 					err.code = "CSS_CHUNK_LOAD_FAILED";
+/******/ 					err.type = errorType;
+/******/ 					err.request = realHref;
+/******/ 					if (linkTag.parentNode) linkTag.parentNode.removeChild(linkTag)
+/******/ 					reject(err);
+/******/ 				}
+/******/ 			}
+/******/ 			linkTag.onerror = linkTag.onload = onLinkComplete;
+/******/ 			linkTag.href = fullhref;
+/******/ 		
+/******/ 		
+/******/ 			if (oldTag) {
+/******/ 				oldTag.parentNode.insertBefore(linkTag, oldTag.nextSibling);
+/******/ 			} else {
+/******/ 				document.head.appendChild(linkTag);
+/******/ 			}
+/******/ 			return linkTag;
+/******/ 		};
+/******/ 		var findStylesheet = (href, fullhref) => {
+/******/ 			var existingLinkTags = document.getElementsByTagName("link");
+/******/ 			for(var i = 0; i < existingLinkTags.length; i++) {
+/******/ 				var tag = existingLinkTags[i];
+/******/ 				var dataHref = tag.getAttribute("data-href") || tag.getAttribute("href");
+/******/ 				if(tag.rel === "stylesheet" && (dataHref === href || dataHref === fullhref)) return tag;
+/******/ 			}
+/******/ 			var existingStyleTags = document.getElementsByTagName("style");
+/******/ 			for(var i = 0; i < existingStyleTags.length; i++) {
+/******/ 				var tag = existingStyleTags[i];
+/******/ 				var dataHref = tag.getAttribute("data-href");
+/******/ 				if(dataHref === href || dataHref === fullhref) return tag;
+/******/ 			}
+/******/ 		};
+/******/ 		var loadStylesheet = (chunkId) => {
+/******/ 			return new Promise((resolve, reject) => {
+/******/ 				var href = __webpack_require__.miniCssF(chunkId);
+/******/ 				var fullhref = __webpack_require__.p + href;
+/******/ 				if(findStylesheet(href, fullhref)) return resolve();
+/******/ 				createStylesheet(chunkId, fullhref, null, resolve, reject);
+/******/ 			});
+/******/ 		}
+/******/ 		// object to store loaded CSS chunks
+/******/ 		var installedCssChunks = {
+/******/ 			"main": 0
+/******/ 		};
+/******/ 		
+/******/ 		__webpack_require__.f.miniCss = (chunkId, promises) => {
+/******/ 			var cssChunks = {"src_frontend_pages_games_ChooseDoor_tsx":1,"src_frontend_pages_games_multiplayer_Controller_tsx":1,"src_frontend_pages_games_multiplayer_LiarsBar_tsx":1,"src_frontend_pages_games_multiplayer_Uno_tsx":1,"src_frontend_pages_games_multiplayer_TypeCompetition_tsx":1,"src_frontend_pages_games_multiplayer_SpacePower_tsx":1,"src_frontend_pages_games_multiplayer_TenSeconds_tsx":1,"src_frontend_pages_games_multiplayer_NavalBattle_tsx":1,"src_frontend_pages_games_multiplayer_Sharpshooter_tsx":1,"src_frontend_pages_games_multiplayer_Golf_tsx":1};
+/******/ 			if(installedCssChunks[chunkId]) promises.push(installedCssChunks[chunkId]);
+/******/ 			else if(installedCssChunks[chunkId] !== 0 && cssChunks[chunkId]) {
+/******/ 				promises.push(installedCssChunks[chunkId] = loadStylesheet(chunkId).then(() => {
+/******/ 					installedCssChunks[chunkId] = 0;
+/******/ 				}, (e) => {
+/******/ 					delete installedCssChunks[chunkId];
+/******/ 					throw e;
+/******/ 				}));
+/******/ 			}
+/******/ 		};
+/******/ 		
+/******/ 		// no hmr
+/******/ 		
+/******/ 		// no prefetching
+/******/ 		
+/******/ 		// no preloaded
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/jsonp chunk loading */
+/******/ 	(() => {
+/******/ 		// no baseURI
+/******/ 		
+/******/ 		// object to store loaded and loading chunks
+/******/ 		// undefined = chunk not loaded, null = chunk preloaded/prefetched
+/******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
+/******/ 		var installedChunks = {
+/******/ 			"main": 0
+/******/ 		};
+/******/ 		
+/******/ 		__webpack_require__.f.j = (chunkId, promises) => {
+/******/ 				// JSONP chunk loading for javascript
+/******/ 				var installedChunkData = __webpack_require__.o(installedChunks, chunkId) ? installedChunks[chunkId] : undefined;
+/******/ 				if(installedChunkData !== 0) { // 0 means "already installed".
+/******/ 		
+/******/ 					// a Promise means "currently loading".
+/******/ 					if(installedChunkData) {
+/******/ 						promises.push(installedChunkData[2]);
+/******/ 					} else {
+/******/ 						if(true) { // all chunks have JS
+/******/ 							// setup Promise in chunk cache
+/******/ 							var promise = new Promise((resolve, reject) => (installedChunkData = installedChunks[chunkId] = [resolve, reject]));
+/******/ 							promises.push(installedChunkData[2] = promise);
+/******/ 		
+/******/ 							// start chunk loading
+/******/ 							var url = __webpack_require__.p + __webpack_require__.u(chunkId);
+/******/ 							// create error before stack unwound to get useful stacktrace later
+/******/ 							var error = new Error();
+/******/ 							var loadingEnded = (event) => {
+/******/ 								if(__webpack_require__.o(installedChunks, chunkId)) {
+/******/ 									installedChunkData = installedChunks[chunkId];
+/******/ 									if(installedChunkData !== 0) installedChunks[chunkId] = undefined;
+/******/ 									if(installedChunkData) {
+/******/ 										var errorType = event && (event.type === 'load' ? 'missing' : event.type);
+/******/ 										var realSrc = event && event.target && event.target.src;
+/******/ 										error.message = 'Loading chunk ' + chunkId + ' failed.\n(' + errorType + ': ' + realSrc + ')';
+/******/ 										error.name = 'ChunkLoadError';
+/******/ 										error.type = errorType;
+/******/ 										error.request = realSrc;
+/******/ 										installedChunkData[1](error);
+/******/ 									}
+/******/ 								}
+/******/ 							};
+/******/ 							__webpack_require__.l(url, loadingEnded, "chunk-" + chunkId, chunkId);
+/******/ 						}
+/******/ 					}
+/******/ 				}
+/******/ 		};
+/******/ 		
+/******/ 		// no prefetching
+/******/ 		
+/******/ 		// no preloaded
+/******/ 		
+/******/ 		// no HMR
+/******/ 		
+/******/ 		// no HMR manifest
+/******/ 		
+/******/ 		__webpack_require__.O.j = (chunkId) => (installedChunks[chunkId] === 0);
+/******/ 		
+/******/ 		// install a JSONP callback for chunk loading
+/******/ 		var webpackJsonpCallback = (parentChunkLoadingFunction, data) => {
+/******/ 			var [chunkIds, moreModules, runtime] = data;
+/******/ 			// add "moreModules" to the modules object,
+/******/ 			// then flag all "chunkIds" as loaded and fire callback
+/******/ 			var moduleId, chunkId, i = 0;
+/******/ 			if(chunkIds.some((id) => (installedChunks[id] !== 0))) {
+/******/ 				for(moduleId in moreModules) {
+/******/ 					if(__webpack_require__.o(moreModules, moduleId)) {
+/******/ 						__webpack_require__.m[moduleId] = moreModules[moduleId];
+/******/ 					}
+/******/ 				}
+/******/ 				if(runtime) var result = runtime(__webpack_require__);
+/******/ 			}
+/******/ 			if(parentChunkLoadingFunction) parentChunkLoadingFunction(data);
+/******/ 			for(;i < chunkIds.length; i++) {
+/******/ 				chunkId = chunkIds[i];
+/******/ 				if(__webpack_require__.o(installedChunks, chunkId) && installedChunks[chunkId]) {
+/******/ 					installedChunks[chunkId][0]();
+/******/ 				}
+/******/ 				installedChunks[chunkId] = 0;
+/******/ 			}
+/******/ 			return __webpack_require__.O(result);
+/******/ 		}
+/******/ 		
+/******/ 		var chunkLoadingGlobal = self["webpackChunk"] = self["webpackChunk"] || [];
+/******/ 		chunkLoadingGlobal.forEach(webpackJsonpCallback.bind(null, 0));
+/******/ 		chunkLoadingGlobal.push = webpackJsonpCallback.bind(null, chunkLoadingGlobal.push.bind(chunkLoadingGlobal));
+/******/ 	})();
+/******/ 	
+/************************************************************************/
+/******/ 	
+/******/ 	// startup
+/******/ 	// Load entry module and return exports
+/******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["vendors-node_modules_ebay_nice-modal-react_lib_esm_index_js-node_modules_rsuite_icons_esm_ico-713a7d"], () => (__webpack_require__("./src/frontend/index.tsx")))
+/******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
+/******/ 	
+/******/ })()
+;

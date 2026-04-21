@@ -1,0 +1,416 @@
+/*!****************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/less-loader/dist/cjs.js!./src/frontend/styles/liarsbar.less ***!
+  \****************************************************************************************************************************/
+@font-face {
+  font-family: 'IM Fell Great Primer SC';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/imfellgreatprimersc/v21/ga6daxBOxyt6sCqz3fjZCTFCTUDMHagsQKdDTLf9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Potta One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/pottaone/v19/FeVSS05Bp6cy7xI-YfxQ3Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: cards;
+  src: url(/e503f400f1c90c7165eb.ttf);
+}
+.unselectable {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  /*
+      Introduced in Internet Explorer 10.
+      See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+    */
+  -ms-user-select: none;
+  user-select: none;
+}
+.liars-bar-main {
+  width: -webkit-fill-available;
+  height: max-content;
+}
+.liars-bar-main .players-list {
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  min-height: 40vh;
+}
+.liars-bar-main .players-list > .left {
+  width: 25%;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column-reverse;
+  justify-content: space-around;
+}
+.liars-bar-main .players-list > .table {
+  width: 50%;
+  position: relative;
+}
+.liars-bar-main .players-list > .table > div {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 80%;
+  aspect-ratio: 1;
+  max-height: 90%;
+  padding: 4vh;
+  border: 10px solid #999999;
+  border-radius: 20%;
+  background: #432e15;
+}
+.liars-bar-main .players-list > .table > div > .background {
+  opacity: 0.7;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.liars-bar-main .players-list > .table > div > .background img {
+  opacity: 0.2;
+  margin: auto;
+  width: 80%;
+}
+.liars-bar-main .players-list > .table > div > .background span {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  font-size: 4vh;
+  top: -9vh;
+}
+.liars-bar-main .players-list > .table > div .table-inside {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.liars-bar-main .players-list > .table > div .table-controls {
+  position: absolute;
+  left: 50%;
+  bottom: 2.2vh;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 1.2vh;
+  z-index: 2;
+}
+.liars-bar-main .players-list > .table > div .table-controls button {
+  min-width: 16vh;
+}
+.liars-bar-main .players-list .right {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
+.liars-bar-main .players-list .player .player-info {
+  flex-direction: row-reverse;
+  flex-wrap: nowrap;
+  gap: 1vh;
+}
+.liars-bar-main .players-list .player .player-hand {
+  transform: scale(0.7);
+  -webkit-transform-origin-x: left;
+}
+.liars-bar-main .my-info {
+  display: flex;
+  justify-content: center;
+  margin-top: 2vh;
+}
+.liars-bar-main .player {
+  display: flex;
+  gap: 3vh;
+}
+.liars-bar-main .player.other {
+  height: 12vh;
+}
+.liars-bar-main .player .player-info {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  position: relative;
+}
+.liars-bar-main .player .player-info .playerInfo {
+  position: relative;
+}
+.liars-bar-main .player .player-info .playerInfo img.avatar {
+  height: 10vh;
+  aspect-ratio: 1;
+  padding: 0.3vh;
+  border: 0.4vh solid white;
+  transition: border 0.3s ease-in-out, padding 0.3s ease-in-out;
+}
+.liars-bar-main .player .player-info .playerInfo img.avatar.other {
+  height: 7vh;
+  border: 0.2vh solid white;
+}
+.liars-bar-main .player .player-info .playerInfo img.avatar.current {
+  animation: borderPulse 1s infinite;
+}
+@keyframes borderPulse {
+  0% {
+    border-style: solid;
+    border-color: #0d520d;
+    box-shadow: 0 0 0.9vh rgba(26, 161, 26, 0.45);
+  }
+  50% {
+    border-style: solid;
+    border-color: green;
+    box-shadow: 0 0 1.6vh rgba(0, 220, 0, 0.75);
+  }
+  100% {
+    border-style: solid;
+    border-color: #0d520d;
+    box-shadow: 0 0 0.9vh rgba(26, 161, 26, 0.45);
+  }
+}
+.liars-bar-main .player .player-info .playerInfo img.avatar.next {
+  animation: borderPulseNext 1s infinite;
+}
+@keyframes borderPulseNext {
+  0% {
+    border-style: solid;
+    border-color: #9e7c1f;
+  }
+  50% {
+    border-style: solid;
+    border-color: #fcb721;
+  }
+  100% {
+    border-style: solid;
+    border-color: #9e7c1f;
+  }
+}
+.liars-bar-main .player .player-info .playerInfo img.avatar.offline {
+  filter: grayscale(1) brightness(0.75);
+  border-color: #8f8f8f;
+  animation: none;
+}
+.liars-bar-main .player .player-info .playerInfo > span.ping {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  /*
+      Introduced in Internet Explorer 10.
+      See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+    */
+  -ms-user-select: none;
+  user-select: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: #1a1d24;
+  padding: 0.1vh 0.5vh;
+  font-size: 1.5vh;
+  color: #f6f6f6;
+}
+.liars-bar-main .player .player-info .playerInfo > span.ping.other {
+  font-size: 1vh;
+}
+.liars-bar-main .player .player-info .playerInfo > span.name {
+  background: #1a1d24;
+  width: -webkit-fill-available;
+  text-align: center;
+  padding: 0.1vh 0;
+  font-size: 1.5vh;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin: 0.6vh;
+}
+.liars-bar-main .player .player-info .playerInfo > span.name.other {
+  font-size: 1vh;
+  margin: 0.4vh;
+}
+.liars-bar-main .player .player-info .playerInfo > span.turn-timer {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  /*
+      Introduced in Internet Explorer 10.
+      See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+    */
+  -ms-user-select: none;
+  user-select: none;
+  pointer-events: none;
+  position: absolute;
+  top: -3.2vh;
+  left: 50%;
+  transform: translateX(-50%);
+  background: green;
+  color: white;
+  padding: 0.22vh 1.38vh;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  font-size: 2.42vh;
+  font-weight: 700;
+  z-index: 2;
+  white-space: nowrap;
+}
+.liars-bar-main .player .player-info .playerInfo > span.turn-timer.other {
+  top: -2.4vh;
+  font-size: 1.72vh;
+  padding: 0.12vh 0.87vh;
+}
+.liars-bar-main .player .player-info .playerInfo > span.turn-timer.noTime {
+  background: #7e0202;
+}
+.liars-bar-main .player .player-info > .shootInfo {
+  margin-top: 1vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+}
+.liars-bar-main .player .player-info > .shootInfo img {
+  margin-top: -1vh;
+  height: 8vh;
+  aspect-ratio: 1;
+}
+.liars-bar-main .player .player-info > .shootInfo span {
+  margin-left: -1.2vh;
+  font-size: 1.5vh;
+  text-align: left;
+}
+.liars-bar-main .player .player-info > .shootInfo.other span {
+  font-size: 1.2vh;
+}
+.liars-bar-main .player .player-info > .shootInfo.other img {
+  margin-top: 0px;
+  height: 5vh;
+}
+.liars-bar-main .player .player-info > .shootInfo:not(.other) {
+  margin-top: 2vh;
+}
+.liars-bar-main .player.other .player-hand .card-image {
+  width: calc(12vh * 0.6);
+  height: 12vh;
+}
+.liars-bar-main .player.other {
+  gap: 1vh;
+}
+.liars-bar-main .player-hand {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+  gap: 0.5vh;
+}
+.liars-bar-main .player-hand .card-image {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  /*
+      Introduced in Internet Explorer 10.
+      See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+    */
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-transform-origin-x: left;
+  position: relative;
+  height: 20vh;
+  width: calc(20vh * 0.6);
+}
+.liars-bar-main .player-hand .card-image:not(.block) {
+  transition: transform 0.2s ease-in-out;
+}
+.liars-bar-main .player-hand .card-image:not(.block).clickable {
+  cursor: pointer;
+}
+.liars-bar-main .player-hand .card-image.selected {
+  border: 0.3vh solid white;
+}
+.liars-bar-main .player-hand .card-image.table {
+  height: 15vh;
+  width: calc(15vh * 0.6);
+}
+.liars-bar-main .player-hand .card-image.table span {
+  font-size: 3vh;
+}
+.liars-bar-main .player-hand .card-image .inside {
+  border-radius: 5px;
+  background: black;
+  height: -webkit-fill-available;
+  transform-style: preserve-3d;
+  transition: all 0.3s linear;
+  border: 1px solid #3b3b3b;
+}
+.liars-bar-main .player-hand .card-image .inside:hover {
+  background: #131313;
+}
+.liars-bar-main .player-hand .card-image .inside div {
+  backface-visibility: hidden;
+  border: 1px solid white;
+  border-radius: 5px;
+  position: absolute;
+  top: 1vh;
+  left: 1vh;
+  width: calc(100% - 2vh);
+  height: calc(100% - 2vh);
+}
+.liars-bar-main .player-hand .card-image .inside div.front {
+  position: relative;
+}
+.liars-bar-main .player-hand .card-image .inside div.back {
+  transform: rotateY(180deg);
+  background-image: linear-gradient(to right bottom, rgba(255, 255, 255, 0) 8px, #fff 9px, rgba(255, 255, 255, 0) 10px), linear-gradient(to left bottom, rgba(255, 255, 255, 0) 8px, #fff 9px, rgba(255, 255, 255, 0) 10px);
+  background-repeat: repeat;
+  background-size: 10px 12px,
+            10px 12px,
+            10px 12px;
+  background-position: 0 0,
+            0 0,
+            0 20px;
+}
+.liars-bar-main .player-hand .card-image .inside span.icon {
+  font-family: cards;
+  font-size: 4vh;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.liars-bar-main .player-hand .card-image .inside img.icon {
+  height: 4vh;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.liars-bar-main .player-hand .card-image .inside span.name {
+  font-family: cards;
+  font-weight: 400;
+  font-style: normal;
+  position: absolute;
+  top: 0.3vh;
+  left: 1vh;
+  font-size: 3vh;
+  color: white;
+}
+.liars-bar-main .player-hand .card-image .inside span.name.updown {
+  top: auto;
+  left: auto;
+  bottom: 0.3vh;
+  right: 1vh;
+  transform: rotateX(180deg);
+}
+.liars-bar-main .player-hand .card-image.block .inside {
+  transform: rotateY(180deg);
+}
+

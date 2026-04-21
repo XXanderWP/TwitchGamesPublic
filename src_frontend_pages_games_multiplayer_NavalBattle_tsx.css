@@ -1,0 +1,259 @@
+/*!*******************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/less-loader/dist/cjs.js!./src/frontend/styles/navalbattle.less ***!
+  \*******************************************************************************************************************************/
+.naval-battle-main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  color: #edf6ff;
+  font-family: 'Oswald', 'Segoe UI', sans-serif;
+}
+.naval-select-screen {
+  border-radius: 16px;
+  padding: 16px;
+  background: radial-gradient(circle at top left, rgba(92, 182, 255, 0.15), transparent 48%), linear-gradient(180deg, #142c43 0%, #0a1f32 100%);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+}
+.naval-select-screen .select-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 14px;
+}
+.naval-select-screen .select-head h2 {
+  margin: 0;
+  font-size: 24px;
+  letter-spacing: 0.03em;
+}
+.naval-select-screen .select-head .timer {
+  font-size: 17px;
+  color: #ffe8a3;
+}
+.naval-select-screen .ship-cards {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+.naval-select-screen .ship-cards .ship-card {
+  border-radius: 12px;
+  padding: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  background: rgba(6, 20, 34, 0.72);
+  cursor: pointer;
+}
+.naval-select-screen .ship-cards .ship-card.selected {
+  border-color: rgba(127, 208, 255, 0.95);
+  box-shadow: 0 0 0 2px rgba(127, 208, 255, 0.33) inset;
+}
+.naval-select-screen .ship-cards .ship-card .ship-title {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.naval-select-screen .ship-cards .ship-card .stat-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 6px;
+}
+.naval-select-screen .ship-cards .ship-card .stat-row span {
+  min-width: 66px;
+  opacity: 0.9;
+  font-size: 13px;
+}
+.naval-select-screen .ship-cards .ship-card .stat-row .bar {
+  flex: 1;
+  height: 9px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.14);
+  overflow: hidden;
+}
+.naval-select-screen .ship-cards .ship-card .stat-row .bar div {
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #52d4ff 0%, #55ffb4 100%);
+}
+.naval-select-screen .select-bottom {
+  margin-top: 14px;
+  display: flex;
+  justify-content: center;
+}
+.naval-hud {
+  border-radius: 12px;
+  padding: 10px 12px;
+  background: rgba(8, 22, 34, 0.84);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+}
+.naval-hud .info-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  font-size: 13px;
+  margin-bottom: 5px;
+}
+.naval-hud .weapons-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 8px;
+}
+.naval-hud .weapons-row .weapon-cd {
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 8px;
+  background: rgba(4, 16, 26, 0.8);
+}
+.naval-hud .weapons-row .weapon-cd .label {
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  margin-bottom: 5px;
+}
+.naval-hud .weapons-row .weapon-cd .bar {
+  height: 8px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.16);
+  overflow: hidden;
+}
+.naval-hud .weapons-row .weapon-cd .bar div {
+  height: 100%;
+  background: linear-gradient(90deg, #ff8d5a 0%, #ffcf64 100%);
+}
+.naval-hud .weapons-row .weapon-cd .value {
+  margin-top: 5px;
+  font-size: 11px;
+  opacity: 0.92;
+}
+.naval-hud .buff-row {
+  margin-top: 9px;
+  font-size: 13px;
+  color: #b6ffcd;
+}
+.naval-canvas {
+  width: 100%;
+  min-height: 360px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  background: #0b2538;
+}
+.naval-canvas-wrap {
+  position: relative;
+}
+.naval-active-mods {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 3;
+  pointer-events: none;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  min-height: 34px;
+}
+.naval-active-mod {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border-radius: 999px;
+  padding: 6px 10px;
+  background: rgba(5, 22, 36, 0.84);
+  border: 1px solid rgba(173, 233, 255, 0.32);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.28);
+}
+.naval-active-mod .name {
+  color: #c9ffdb;
+  font-size: 13px;
+  white-space: nowrap;
+}
+.naval-active-mod .time {
+  color: #ffe9a7;
+  font-size: 13px;
+  min-width: 28px;
+  text-align: right;
+}
+.naval-waiting {
+  border-radius: 16px;
+  padding: 22px 20px;
+  background: radial-gradient(circle at top right, rgba(92, 182, 255, 0.12), transparent 55%), linear-gradient(180deg, #122840 0%, #0a1d30 100%);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.naval-waiting .naval-waiting-title {
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: #7dd4fc;
+}
+.naval-waiting .naval-waiting-subtitle {
+  font-size: 14px;
+  opacity: 0.72;
+  margin-bottom: 6px;
+}
+.naval-waiting .naval-waiting-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+  max-width: 380px;
+}
+.naval-waiting .naval-waiting-player {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 12px;
+  border-radius: 10px;
+  background: rgba(8, 22, 34, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  font-size: 15px;
+}
+.naval-waiting .naval-waiting-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  box-shadow: 0 0 6px currentColor;
+}
+.naval-waiting .naval-waiting-name {
+  flex: 1;
+}
+.naval-waiting .naval-waiting-name.clickable {
+  cursor: pointer;
+}
+.naval-waiting .naval-waiting-name.clickable:hover {
+  color: #9fd8ff;
+}
+.naval-waiting .naval-waiting-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.naval-waiting .naval-waiting-you {
+  opacity: 0.6;
+  font-size: 13px;
+}
+.naval-toggle-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  border-radius: 10px;
+  padding: 10px;
+  background: rgba(8, 22, 34, 0.55);
+}
+@media (max-width: 900px) {
+  .naval-select-screen .ship-cards {
+    grid-template-columns: 1fr;
+  }
+  .naval-hud .weapons-row {
+    grid-template-columns: 1fr;
+  }
+}
+
