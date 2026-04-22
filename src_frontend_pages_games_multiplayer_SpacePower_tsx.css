@@ -12,8 +12,7 @@
   font-family: 'Trebuchet MS', sans-serif;
 }
 .space-power-team-assignment {
-  width: 100%;
-  max-width: 800px;
+  width: -webkit-fill-available;
   margin-bottom: 18px;
   padding: 14px;
   background: linear-gradient(180deg, #15212b 0%, #101820 100%);
@@ -270,6 +269,21 @@
   border-radius: 14px;
   border: 1px solid rgba(255, 255, 255, 0.08);
 }
+.space-power-stats .team-stats-grid-button {
+  margin-bottom: 10px;
+}
+.space-power-stats .team-stats-grid-button button {
+  width: -webkit-fill-available;
+  margin: 0 15px;
+  background: rgba(255, 255, 255, 0.04);
+  color: #e6edf3;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: all 0.2s ease-in-out;
+}
+.space-power-stats .team-stats-grid-button button:hover {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: var(--rs-btn-ghost-border);
+}
 .space-power-stats .team-stats-grid {
   display: flex;
   gap: 14px;
@@ -437,20 +451,20 @@
 }
 .space-power-start-countdown {
   position: absolute;
-  top: 86px;
+  top: 70px;
   left: 50%;
   transform: translateX(-50%);
   width: 320px;
   text-align: center;
   padding: 12px;
   border-radius: 12px;
-  background: rgba(255, 140, 61, 0.14);
-  border: 1px solid rgba(255, 180, 97, 0.34);
+  background: rgba(255, 139, 61, 0.719);
+  border: 1px solid #ffb561;
   z-index: 20;
   pointer-events: none;
 }
 .space-power-start-countdown .countdown-title {
-  color: #ffd8a3;
+  color: #f8f5f0;
   font-weight: 700;
   letter-spacing: 0.02em;
 }
@@ -459,11 +473,10 @@
   font-size: 42px;
   font-weight: 900;
   line-height: 1;
-  color: #ffe8c7;
+  color: #fcf1e2;
   text-shadow: 0 2px 12px rgba(255, 153, 51, 0.45);
 }
 .space-power-prestart-hint {
-  margin-top: 18px;
   padding: 12px 14px;
   text-align: center;
   border-radius: 10px;
@@ -471,6 +484,9 @@
   border: 1px solid rgba(56, 189, 248, 0.18);
   color: #bfe7ff;
   font-weight: 600;
+}
+.space-power-prestart-hint:not(:first-child) {
+  margin-top: 18px;
 }
 .space-power-prestart-warning {
   margin-top: 12px;
