@@ -1,3 +1,481 @@
+/*!************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/less-loader/dist/cjs.js!./src/frontend/styles/multiplayergames.less ***!
+  \************************************************************************************************************************************/
+.gameControl .gameData {
+  display: flex;
+  flex-direction: column;
+  gap: 1vh;
+  flex-wrap: wrap;
+  margin-top: 1vh;
+  align-items: center;
+  background-color: var(--rs-navbar-default-bg);
+  padding: 1vh;
+  border-radius: 10px;
+}
+.gameControl .gameData > img {
+  max-width: 256px;
+}
+.gameControl .gameData .gameInfo h3 {
+  text-align: center;
+}
+.gameControl .gameData .gameInfo .rules {
+  margin-top: 1vh;
+  max-height: 25vh;
+  overflow: auto;
+}
+.gameControl .gameData .gameInfo .rules h4 {
+  text-align: center;
+}
+.gameControl .lobby-password {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1vh;
+}
+.gameControl .lobby-password > button {
+  width: 15%;
+}
+.gameControl .lobby-password.no-password input {
+  text-align: center;
+}
+.gameControl .players-list {
+  max-height: 0vh;
+  opacity: 0;
+  margin: 0px !important;
+  margin-bottom: 0px !important;
+  transition: max-height 0.2s, opacity 0.2s, margin-bottom 0.2s, margin 0.2s;
+  overflow: auto;
+  background: #23242b;
+  border-radius: 10px;
+  padding: 0.5vh 0.5vw;
+  margin: 1vh 0;
+  min-width: 180px;
+  width: 100%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  display: flex;
+  flex-direction: column;
+  gap: 0.7vh;
+}
+.gameControl .players-list.show {
+  max-height: 20vh;
+  opacity: 1;
+  margin: 1vh 0;
+  margin-bottom: 15px !important;
+}
+.gameControl .players-list .player {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.4vh 0.2vw;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.03);
+  transition: background 0.2s;
+}
+.gameControl .players-list .player:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+.gameControl .players-list .player .player-name {
+  font-size: 1em;
+  font-weight: 500;
+  color: #fff;
+  margin-right: 0.7em;
+  width: -webkit-fill-available;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.gameControl .players-list .player .player-info {
+  font-size: 0.95em;
+  color: #bdbdbd;
+  margin-right: 0.7em;
+  min-width: 60px;
+  text-align: right;
+  white-space: nowrap;
+}
+.gameControl .players-list .player button {
+  font-size: 0.95em;
+  padding: 0.2em 0.9em;
+  border-radius: 4px;
+  margin-left: 0.2em;
+  width: auto;
+  min-width: 0;
+  max-width: 100%;
+  white-space: nowrap;
+}
+.gameControl .multiplayer-chat {
+  max-height: 0vh;
+  opacity: 0;
+  margin: 0px !important;
+  margin-bottom: 0px !important;
+  padding: 0px;
+  transition: max-height 0.2s, opacity 0.2s, margin-bottom 0.2s, margin 0.2s, padding 0.2s;
+  background: #23242b;
+  border-radius: 10px;
+  min-width: 180px;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  display: flex;
+  flex-direction: column;
+  gap: 0.7vh;
+  overflow-x: hidden;
+}
+.gameControl .multiplayer-chat.show {
+  max-height: 20vh;
+  opacity: 1;
+  margin: 1vh 0;
+  margin-bottom: 15px !important;
+  padding: 1vh 1vw;
+}
+.gameControl .multiplayer-chat .multiplayer-chat-messages {
+  max-height: 200px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  margin-bottom: 0.7vh;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3em;
+  background: rgba(0, 0, 0, 0.08);
+  border-radius: 6px;
+  padding: 0.5em 0.7em;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+}
+.gameControl .multiplayer-chat .multiplayer-chat-message {
+  color: #e0e0e0;
+  font-size: 1em;
+  word-break: break-word;
+  line-height: 1.4;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+}
+.gameControl .multiplayer-chat .multiplayer-chat-message span.time {
+  color: #8e8e8e;
+  font-size: 0.92em;
+  margin-right: 0.4em;
+}
+.gameControl .multiplayer-chat .multiplayer-chat-message span.who {
+  color: #7ecfff;
+  font-weight: 500;
+  margin-right: 0.3em;
+}
+.showWinner {
+  position: absolute;
+  z-index: 999;
+  width: 100%;
+  height: 100%;
+}
+.showWinner > .inside {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #23242b 60%, #7ecfff 100%);
+  border-radius: 18px;
+  box-shadow: 0 4px 32px 0 rgba(126, 207, 255, 0.25), 0 1.5px 8px 0 rgba(0, 0, 0, 0.18);
+  padding: 3em 2em 2em 2em;
+  margin: 2em auto;
+  min-width: 320px;
+  max-width: 560px;
+  animation: showWinnerPop 0.7s cubic-bezier(0.23, 1, 0.32, 1);
+  transform: translate(-50%, -50%);
+}
+.showWinner > .inside .avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 1.2em;
+  border: 4px solid #7ecfff;
+  box-shadow: 0 0 0 6px rgba(126, 207, 255, 0.15);
+  background: #fff;
+}
+.showWinner > .inside .avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  transition: transform 0.2s;
+  cursor: pointer;
+}
+.showWinner > .inside .avatar img:hover {
+  transform: scale(1.08) rotate(-2deg);
+  box-shadow: 0 0 16px #7ecfff99;
+}
+.showWinner > .inside .name {
+  font-size: 2.2em;
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 0 2px 8px #7ecfff99, 0 1px 0 #23242b;
+  margin-bottom: 0.2em;
+  letter-spacing: 0.04em;
+  text-align: center;
+  word-break: break-word;
+  cursor: pointer;
+}
+.showWinner > .inside .winner-label {
+  font-size: 1.5em;
+  font-weight: 600;
+  color: #ffe066;
+  text-shadow: 0 2px 8px #23242b99, 0 1px 0 #fff;
+  margin-bottom: 0.7em;
+  letter-spacing: 0.04em;
+  text-align: center;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  justify-content: center;
+}
+.showWinner > .inside .winner-team {
+  margin-bottom: 0.9em;
+  color: #cde9ff;
+  font-size: 1.15em;
+  font-weight: 700;
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.4);
+}
+.showWinner > .inside .winners-list {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.9em;
+}
+.showWinner > .inside .winners-list .winner-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.6em;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.06);
+}
+.showWinner > .inside .winners-list .avatar {
+  width: 86px;
+  height: 86px;
+  margin-bottom: 0.6em;
+}
+.showWinner > .inside .winners-list .name {
+  font-size: 1.2em;
+  margin-bottom: 0;
+}
+.showPauseOverlay {
+  position: absolute;
+  z-index: 998;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+.showPauseOverlay > .inside {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 320px;
+  max-width: 90%;
+  padding: 18px 22px;
+  border-radius: 16px;
+  border: 2px solid rgba(255, 255, 255, 0.26);
+  background: linear-gradient(135deg, rgba(20, 29, 43, 0.92) 0%, rgba(55, 26, 26, 0.9) 100%);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.45), 0 0 0 1px rgba(255, 255, 255, 0.1) inset;
+  text-align: center;
+}
+.showPauseOverlay .title {
+  color: #fff;
+  font-size: 28px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.showPauseOverlay .countdown {
+  margin-top: 10px;
+  color: #ffd18f;
+  font-size: 56px;
+  font-weight: 900;
+  line-height: 1;
+  text-shadow: 0 2px 16px rgba(255, 117, 24, 0.45);
+}
+.showPauseOverlay .desc {
+  margin-top: 8px;
+  color: #f2f2f2;
+  font-size: 16px;
+  font-weight: 500;
+}
+@keyframes showWinnerPop {
+  0% {
+    transform: scale(0.7) translate(-50%, calc(-50% + 40px));
+    opacity: 0;
+  }
+  70% {
+    transform: scale(1.08) translate(-50%, calc(-50% + 8px));
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1) translate(-50%, calc(-50%));
+    opacity: 1;
+  }
+}
+.lobbyList {
+  background: #23242b;
+  border-radius: 10px;
+  padding: 2vh 2vw;
+  margin: 2vh 0;
+  width: 100%;
+  max-width: 60%;
+  box-sizing: border-box;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 1vh;
+}
+.lobbyList .lobbyList-title {
+  font-size: 1.5em;
+  font-weight: 600;
+  color: #7ecfff;
+  margin-bottom: 1.2em;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+.lobbyList .items {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+.lobbyList .lobby {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 8px;
+  padding: 0.5em 1em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1vh;
+  transition: background 0.2s;
+  box-sizing: border-box;
+}
+.lobbyList .lobby:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+.lobbyList .lobby .lobby-name {
+  width: -webkit-fill-available;
+  font-size: 1.15em;
+  font-weight: 500;
+  color: #fff;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.lobbyList .lobby .lobby-password {
+  width: max-content;
+  font-size: 0.98em;
+  color: #bdbdbd;
+  text-align: center;
+}
+.lobbyList .lobby .lobby-players {
+  width: max-content;
+  font-size: 0.98em;
+  color: #bdbdbd;
+  text-align: center;
+  white-space: nowrap;
+}
+.lobbyList .lobby button,
+.lobbyList .lobby a,
+.lobbyList .lobby .rs-btn {
+  background: #7ecfff;
+  color: #181920;
+  border: none;
+  border-radius: 6px;
+  font-size: 1em;
+  font-weight: 500;
+  padding: 0.5em 1.2em;
+  transition: background 0.2s;
+  box-sizing: border-box;
+}
+.lobbyList .lobby button:hover,
+.lobbyList .lobby a:hover,
+.lobbyList .lobby .rs-btn:hover {
+  background: #5bb8e6;
+}
+.invite-friends-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-height: 55vh;
+  overflow: auto;
+}
+.invite-friend-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid #394259;
+  border-radius: 8px;
+  background: #1d2538;
+  color: #fff;
+  padding: 8px 10px;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+}
+.invite-friend-item img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.invite-friend-item.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.invite-friend-item.sent {
+  border-color: #4caf7d;
+  background: #183126;
+}
+.invite-friend-item .invite-state {
+  margin-left: auto;
+  font-size: 12px;
+  color: #7be3ad;
+  border: 1px solid #4caf7d;
+  border-radius: 999px;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+
+/*!************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/less-loader/dist/cjs.js!./src/frontend/styles/resizecontroller.less ***!
+  \************************************************************************************************************************************/
+.resizeController {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+.resizeController > .resizeController-item {
+  height: 100%;
+  overflow: hidden;
+  padding-right: 5px;
+  padding-left: 5px;
+  transition: width 0.3s ease-in-out, padding-left 0.3s ease-in-out, padding-right 0.3s ease-in-out;
+}
+.resizeController > .resizeController-item:first-child {
+  padding-left: 0;
+}
+.resizeController > .resizeController-item:last-child {
+  padding-right: 0;
+}
+.resizeController > .resizeController-item.isHover {
+  padding-left: 0;
+  padding-right: 0;
+}
+
 /*!************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/less-loader/dist/cjs.js!./src/frontend/styles/main.less ***!
   \************************************************************************************************************************/
@@ -16979,7 +17457,8 @@ kbd.rs-text {
   margin-bottom: 20px;
   text-align: center;
 }
-.mainGames .gameInfo > button {
+.mainGames .gameInfo > button,
+.mainGames .gameInfo > a {
   margin-top: auto;
 }
 @media (max-width: 768px) {
@@ -16992,7 +17471,12 @@ kbd.rs-text {
     max-width: 100%;
   }
 }
+.footerSpacer {
+  margin-top: 30px;
+  height: 20px;
+}
 .footer {
+  background-color: var(--rs-navbar-default-bg);
   justify-content: center;
   display: flex;
   gap: 5px;
@@ -17001,7 +17485,9 @@ kbd.rs-text {
   align-content: center;
   align-items: center;
   position: fixed;
-  bottom: 10px;
+  bottom: 0px;
+  padding-bottom: 10px;
+  padding-top: 10px;
   left: 0;
   width: 100%;
 }
