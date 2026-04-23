@@ -18103,4 +18103,20 @@ kbd.rs-text {
     display: none;
   }
 }
+.loadingBlock {
+  background-color: var(--rs-navbar-default-bg);
+  color: var(--rs-navbar-default-text);
+  width: -webkit-fill-available;
+  text-align: center;
+  padding: 20px;
+  font-size: 2em;
+}
+.loadingBlockError {
+  background-color: var(--rs-navbar-default-bg);
+  color: var(--rs-navbar-default-text);
+  width: -webkit-fill-available;
+  text-align: center;
+  padding: 20px;
+  font-size: 2em;
+}
 
