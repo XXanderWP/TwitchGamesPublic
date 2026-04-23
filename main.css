@@ -16825,6 +16825,42 @@ kbd.rs-text {
 .gameTimer > span {
   font-family: 'JetBrains Mono', monospace;
 }
+.mainGame {
+  transition: width 0.3s ease-in-out, height 0.3s ease-in-out;
+}
+.gameControl {
+  transition: all 0.3s ease-in-out;
+}
+.gameControl.hidden {
+  width: 0;
+  overflow: hidden;
+  opacity: 0;
+  height: 0px;
+}
+.gameControl.fullscreen {
+  position: absolute;
+  background: #0f131a;
+  border: 1px solid #202836;
+  padding: 10px;
+  border-radius: 10px;
+  width: max(300px, 20vw);
+  height: 4vh;
+  overflow: hidden;
+  right: 1vh;
+  top: 5vh;
+}
+.gameControl.fullscreen > *:not(.gameTimer):not(.gameName) {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+.gameControl.fullscreen:hover {
+  width: max(300px, 40vw);
+  height: auto;
+  border: 1px solid #303c52;
+}
+.gameControl.fullscreen:hover > *:not(.gameTimer):not(.gameName) {
+  opacity: 1;
+}
 .gameControl > * {
   width: 100%;
 }
@@ -16833,6 +16869,12 @@ kbd.rs-text {
 }
 .gameControl button {
   width: -webkit-fill-available;
+}
+.gameControl .gameName {
+  display: flex;
+  font-size: 2vh;
+  gap: 10px;
+  justify-content: center;
 }
 .gameControl .info,
 .gameControl .action {
@@ -16902,6 +16944,7 @@ kbd.rs-text {
 .mainGames .gameInfo {
   flex: 1 1 10%;
   max-width: calc(10%);
+  min-width: 190px;
   background-color: #1a1d24;
   padding: 20px;
   border-radius: 5px;
@@ -16957,6 +17000,10 @@ kbd.rs-text {
   flex-wrap: wrap;
   align-content: center;
   align-items: center;
+  position: fixed;
+  bottom: 10px;
+  left: 0;
+  width: 100%;
 }
 .connectionStatus {
   display: flex;
